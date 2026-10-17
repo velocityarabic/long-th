@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "I'm happy, really happy.",
+      "thai": "ฉันมีความสุข, มีความสุขจริงๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458826"
+    },
+    {
+      "english": "Feeling a bit sad, you know?",
+      "thai": "รู้สึกเศร้าๆ, นิดหน่อย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458841"
+    },
+    {
+      "english": "Wow, that's surprising!",
+      "thai": "โอ้โห, น่าประหลาดใจมาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458846"
+    },
+    {
+      "english": "I'm so tired, exhausted.",
+      "thai": "ฉันเหนื่อยมาก, เพลียสุดๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458850"
+    },
+    {
+      "english": "Feeling hungry, let's eat.",
+      "thai": "หิวแล้ว, ไปกินกัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458855"
+    },
+    {
+      "english": "Thirsty, need some water.",
+      "thai": "กระหายน้ำ, ขอน้ำหน่อย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458859"
+    },
+    {
+      "english": "I'm excited, can't wait!",
+      "thai": "ฉันตื่นเต้น, รอไม่ไหวแล้ว",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458864"
+    },
+    {
+      "english": "Feeling bored, what to do?",
+      "thai": "เบื่อจัง, ทำอะไรดี",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458871"
+    },
+    {
+      "english": "I'm angry, very angry.",
+      "thai": "ฉันโกรธ, โกรธมาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458876"
+    },
+    {
+      "english": "Feeling nervous, a little.",
+      "thai": "รู้สึกประหม่า, เล็กน้อย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458881"
+    },
+    {
+      "english": "This is so funny, haha!",
+      "thai": "ตลกมากเลย, ฮ่าๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458884"
+    },
+    {
+      "english": "I'm scared, very scared.",
+      "thai": "ฉันกลัว, กลัวมาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458888"
+    },
+    {
+      "english": "Feeling proud, of you.",
+      "thai": "ภูมิใจ, ในตัวคุณ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458891"
+    },
+    {
+      "english": "I'm confused, totally.",
+      "thai": "ฉันสับสน, มากเลย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458895"
+    },
+    {
+      "english": "Feeling grateful, thank you.",
+      "thai": "รู้สึกขอบคุณ, ขอบคุณครับ/ค่ะ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458898"
+    },
+    {
+      "english": "I'm embarrassed, oh dear.",
+      "thai": "ฉันอาย, แย่เลย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458902"
+    },
+    {
+      "english": "Feeling lonely, miss someone.",
+      "thai": "รู้สึกเหงา, คิดถึงใครสักคน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458906"
+    },
+    {
+      "english": "I'm surprised, really?",
+      "thai": "ฉันประหลาดใจ, จริงเหรอ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458910"
+    },
+    {
+      "english": "Feeling stressed, need a break.",
+      "thai": "เครียด, ขอพักหน่อย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458915"
+    },
+    {
+      "english": "I'm relieved, finally.",
+      "thai": "ฉันโล่งใจ, ในที่สุด",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458918"
+    },
+    {
+      "english": "Feeling annoyed, very much.",
+      "thai": "รำคาญ, มากๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458922"
+    },
+    {
+      "english": "I'm in love, truly.",
+      "thai": "ฉันรัก, รักจริงๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458925"
+    },
+    {
+      "english": "Feeling disappointed, sadly.",
+      "thai": "ผิดหวัง, น่าเสียดาย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458929"
+    },
+    {
+      "english": "I'm shocked, can't believe.",
+      "thai": "ฉันตกใจ, ไม่น่าเชื่อ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458932"
+    },
+    {
+      "english": "Feeling hopeful, for the future.",
+      "thai": "มีความหวัง, สำหรับอนาคต",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458936"
+    },
+    {
+      "english": "I'm tired, very sleepy.",
+      "thai": "ง่วงนอน, มาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458940"
+    },
+    {
+      "english": "Feeling thoughtful, deep in thought.",
+      "thai": "กำลังคิด, คิดหนัก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458943"
+    },
+    {
+      "english": "I'm amazed, wow!",
+      "thai": "ฉันทึ่ง, ว้าว",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458947"
+    },
+    {
+      "english": "Feeling guilty, my mistake.",
+      "thai": "รู้สึกผิด, เป็นความผิดของฉัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458951"
+    },
+    {
+      "english": "I'm peaceful, calm.",
+      "thai": "ฉันสงบ, สบายใจ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458954"
+    },
+    {
+      "english": "How are you feeling, today?",
+      "thai": "วันนี้รู้สึกยังไงบ้าง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458958"
+    },
+    {
+      "english": "Are you okay, speak freely?",
+      "thai": "สบายดีไหม, พูดมาได้เลย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458962"
+    },
+    {
+      "english": "What's bothering you, tell me?",
+      "thai": "มีอะไรไม่สบายใจ, บอกฉันสิ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458966"
+    },
+    {
+      "english": "Did something happen, why look sad?",
+      "thai": "เกิดอะไรขึ้น, ทำไมดูเศร้า",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458970"
+    },
+    {
+      "english": "You seem down, can I help?",
+      "thai": "ดูเหมือนคุณไม่ค่อยดี, ให้ช่วยไหม",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458974"
+    },
+    {
+      "english": "Is everything alright, my friend?",
+      "thai": "ทุกอย่างโอเคไหม, เพื่อน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458978"
+    },
+    {
+      "english": "What are you thinking, share with me?",
+      "thai": "กำลังคิดอะไรอยู่, เล่าให้ฟังหน่อย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458982"
+    },
+    {
+      "english": "How do you feel about this, honestly?",
+      "thai": "คุณรู้สึกอย่างไรกับเรื่องนี้, บอกตามตรง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458986"
+    },
+    {
+      "english": "Is this making you happy, truly?",
+      "thai": "สิ่งนี้ทำให้คุณมีความสุขไหม, จริงๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458989"
+    },
+    {
+      "english": "Are you feeling better, now?",
+      "thai": "รู้สึกดีขึ้นบ้างไหม, ตอนนี้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458993"
+    },
+    {
+      "english": "What's the reason, for your mood?",
+      "thai": "อะไรคือสาเหตุ, ของอารมณ์คุณ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.458997"
+    },
+    {
+      "english": "Don't worry too much, okay?",
+      "thai": "อย่าคิดมากนะ, โอเคไหม",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459001"
+    },
+    {
+      "english": "You look worried, what's wrong?",
+      "thai": "คุณดูเป็นห่วง, มีอะไรผิดปกติ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459005"
+    },
+    {
+      "english": "Is there anything I can do, for you?",
+      "thai": "มีอะไรที่ฉันช่วยได้ไหม, สำหรับคุณ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459015"
+    },
+    {
+      "english": "How did that make you feel, inside?",
+      "thai": "มันทำให้คุณรู้สึกอย่างไร, ข้างใน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459018"
+    },
+    {
+      "english": "Are you feeling excited, about the trip?",
+      "thai": "คุณตื่นเต้นไหม, กับการเดินทาง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459022"
+    },
+    {
+      "english": "What are your thoughts, on this idea?",
+      "thai": "คุณมีความคิดเห็นอย่างไร, กับไอเดียนี้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459025"
+    },
+    {
+      "english": "You seem thoughtful, what's on your mind?",
+      "thai": "คุณดูครุ่นคิด, คิดอะไรอยู่",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459029"
+    },
+    {
+      "english": "What is your reaction, to the news?",
+      "thai": "ปฏิกิริยาของคุณเป็นอย่างไร, ต่อข่าว",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459032"
+    },
+    {
+      "english": "Are you feeling better, after resting?",
+      "thai": "รู้สึกดีขึ้นไหม, หลังจากพักผ่อน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459036"
+    },
+    {
+      "english": "Is there anything, making you anxious?",
+      "thai": "มีอะไร, ทำให้คุณกังวลใจ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459040"
+    },
+    {
+      "english": "How do you feel, about the outcome?",
+      "thai": "คุณรู้สึกอย่างไร, กับผลลัพธ์",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459043"
+    },
+    {
+      "english": "Did that surprise you, a lot?",
+      "thai": "สิ่งนั้นทำให้คุณประหลาดใจไหม, มาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459047"
+    },
+    {
+      "english": "Are you feeling proud, of your work?",
+      "thai": "คุณภูมิใจไหม, ในผลงานของคุณ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459050"
+    },
+    {
+      "english": "What's making you so happy, today?",
+      "thai": "อะไรทำให้คุณมีความสุขมาก, วันนี้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459054"
+    },
+    {
+      "english": "You seem a bit sad, why is that?",
+      "thai": "คุณดูเศร้าๆ นะ, เป็นเพราะอะไร",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459057"
+    },
+    {
+      "english": "How do you feel, about our plan?",
+      "thai": "คุณรู้สึกอย่างไร, กับแผนของเรา",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459070"
+    },
+    {
+      "english": "What should we do, to feel better?",
+      "thai": "เราควรทำอย่างไร, ถึงจะรู้สึกดีขึ้น",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459073"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "thai": "เชื่อมั่นในตัวเอง, ทำได้แน่",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459077"
+    },
+    {
+      "english": "Keep going, don't give up now.",
+      "thai": "สู้ต่อไปนะ, อย่าเพิ่งยอมแพ้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459081"
+    },
+    {
+      "english": "You're doing great, really well done.",
+      "thai": "คุณทำได้ดีมาก, เก่งจริงๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459085"
+    },
+    {
+      "english": "Stay positive, good things will happen.",
+      "thai": "คิดบวกเข้าไว้, จะมีสิ่งดีๆ เกิดขึ้น",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459088"
+    },
+    {
+      "english": "You inspire me, thank you so much.",
+      "thai": "คุณเป็นแรงบันดาลใจให้ฉัน, ขอบคุณมาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459092"
+    },
+    {
+      "english": "Your effort is admirable, truly.",
+      "thai": "ความพยายามของคุณน่าทึ่งมาก, จริงๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459095"
+    },
+    {
+      "english": "Have faith, brighter days are coming.",
+      "thai": "มีความหวัง, วันที่สดใสจะมาถึง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459099"
+    },
+    {
+      "english": "You've got this, absolutely.",
+      "thai": "คุณทำได้แน่นอน, ไม่มีข้อสงสัย",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459103"
+    },
+    {
+      "english": "Proud of you, keep shining brightly.",
+      "thai": "ภูมิใจในตัวคุณ, ส่องประกายต่อไปนะ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459107"
+    },
+    {
+      "english": "You're stronger than you think, remember.",
+      "thai": "คุณแข็งแกร่งกว่าที่คิด, จำไว้นะ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459110"
+    },
+    {
+      "english": "Embrace the challenge, grow from it.",
+      "thai": "ยอมรับความท้าทาย, เติบโตจากมัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459114"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "thai": "โฟกัสที่ความก้าวหน้า, ไม่ใช่ความสมบูรณ์แบบ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459117"
+    },
+    {
+      "english": "Your positive attitude is contagious.",
+      "thai": "ทัศนคติเชิงบวกของคุณแพร่กระจายได้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459120"
+    },
+    {
+      "english": "You are capable of amazing things.",
+      "thai": "คุณมีความสามารถที่จะทำสิ่งมหัศจรรย์",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459124"
+    },
+    {
+      "english": "Let go of worries, breathe deeply.",
+      "thai": "ปล่อยความกังวลไป, หายใจลึกๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459127"
+    },
+    {
+      "english": "This is a learning opportunity, embrace it.",
+      "thai": "นี่คือโอกาสในการเรียนรู้, เปิดรับมัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459131"
+    },
+    {
+      "english": "Your kindness makes a difference.",
+      "thai": "ความใจดีของคุณสร้างความแตกต่าง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459134"
+    },
+    {
+      "english": "You are resilient, bounce back stronger.",
+      "thai": "คุณมีความยืดหยุ่น, กลับมาแข็งแกร่งขึ้น",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459141"
+    },
+    {
+      "english": "Celebrate small wins, they add up.",
+      "thai": "ฉลองชัยชนะเล็กๆ, มันจะรวมกัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459147"
+    },
+    {
+      "english": "Believe in the process, trust it.",
+      "thai": "เชื่อในกระบวนการ, ไว้ใจมัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459151"
+    },
+    {
+      "english": "You have so much potential, unlock it.",
+      "thai": "คุณมีศักยภาพมากมาย, ปลดล็อคมัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459155"
+    },
+    {
+      "english": "Your perspective is valuable, share it.",
+      "thai": "มุมมองของคุณมีค่า, แบ่งปันมัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459158"
+    },
+    {
+      "english": "Be patient with yourself, it's okay.",
+      "thai": "ใจเย็นกับตัวเองนะ, ไม่เป็นไร",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459162"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "thai": "คุณดีพอแล้ว, เป็นในแบบของคุณ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459165"
+    },
+    {
+      "english": "Inner strength is your superpower.",
+      "thai": "ความแข็งแกร่งจากภายในคือพลังวิเศษของคุณ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459178"
+    },
+    {
+      "english": "Keep an open mind, be receptive.",
+      "thai": "เปิดใจกว้างๆ, พร้อมรับฟัง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459182"
+    },
+    {
+      "english": "Your journey is unique, embrace it.",
+      "thai": "การเดินทางของคุณไม่เหมือนใคร, โอบกอดมัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459186"
+    },
+    {
+      "english": "You are growing, always evolving.",
+      "thai": "คุณกำลังเติบโต, พัฒนาอยู่เสมอ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459190"
+    },
+    {
+      "english": "Find joy in the small moments.",
+      "thai": "หาความสุขในโมเมนต์เล็กๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459193"
+    },
+    {
+      "english": "You've overcome much, be proud.",
+      "thai": "คุณผ่านอะไรมามาก, จงภูมิใจ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459197"
+    },
+    {
+      "english": "I'm reflecting, on my past actions.",
+      "thai": "ฉันกำลังทบทวน, การกระทำในอดีตของฉัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459201"
+    },
+    {
+      "english": "This makes me think, deeply.",
+      "thai": "เรื่องนี้ทำให้ฉัน, คิดลึกซึ้ง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459204"
+    },
+    {
+      "english": "I need patience, for this task.",
+      "thai": "ฉันต้องการความอดทน, สำหรับงานนี้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459208"
+    },
+    {
+      "english": "Can you be honest, with me?",
+      "thai": "คุณบอกความจริง, กับฉันได้ไหม",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459212"
+    },
+    {
+      "english": "It takes courage, to be vulnerable.",
+      "thai": "มันต้องใช้ความกล้าหาญ, ที่จะเปิดใจ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459215"
+    },
+    {
+      "english": "I feel genuine, contentment now.",
+      "thai": "ฉันรู้สึกพอใจ, อย่างแท้จริงตอนนี้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459222"
+    },
+    {
+      "english": "Let's be sincere, in our approach.",
+      "thai": "เรามาจริงใจ, กับแนวทางของเรา",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459226"
+    },
+    {
+      "english": "This situation, requires introspection.",
+      "thai": "สถานการณ์นี้, ต้องใช้การพิจารณาตนเอง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459230"
+    },
+    {
+      "english": "My feelings are real, I assure you.",
+      "thai": "ความรู้สึกของฉัน, เป็นเรื่องจริงนะ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459233"
+    },
+    {
+      "english": "I'm contemplating, the bigger picture.",
+      "thai": "ฉันกำลังครุ่นคิด, ถึงภาพรวมใหญ่",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459237"
+    },
+    {
+      "english": "Truthfulness is important, always.",
+      "thai": "ความสัตย์จริง, สำคัญเสมอ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459240"
+    },
+    {
+      "english": "This is a moment, for self-awareness.",
+      "thai": "นี่คือช่วงเวลา, แห่งการรู้ตัวตน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459244"
+    },
+    {
+      "english": "I'm feeling peaceful, inside.",
+      "thai": "ฉันรู้สึกสงบ, ในใจ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459248"
+    },
+    {
+      "english": "Let's be open, about our thoughts.",
+      "thai": "เรามาเปิดใจ, เรื่องความคิดของเรา",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459252"
+    },
+    {
+      "english": "This requires thought, and care.",
+      "thai": "เรื่องนี้ต้องใช้ความคิด, และความใส่ใจ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459255"
+    },
+    {
+      "english": "I'm processing, these emotions.",
+      "thai": "ฉันกำลังประมวลผล, อารมณ์เหล่านี้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459259"
+    },
+    {
+      "english": "Your honesty, is appreciated.",
+      "thai": "ความซื่อสัตย์ของคุณ, มีค่ามาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459262"
+    },
+    {
+      "english": "It’s a learning curve, understand.",
+      "thai": "มันคือการเรียนรู้, เข้าใจนะ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459270"
+    },
+    {
+      "english": "I'm embracing, my true feelings.",
+      "thai": "ฉันกำลังยอมรับ, ความรู้สึกที่แท้จริง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459274"
+    },
+    {
+      "english": "Let's be patient, with the outcome.",
+      "thai": "เรามาใจเย็น, กับผลลัพธ์กัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459280"
+    },
+    {
+      "english": "I'm seeking clarity, on this matter.",
+      "thai": "ฉันกำลังหาความชัดเจน, ในเรื่องนี้",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459283"
+    },
+    {
+      "english": "This feels authentic, to me.",
+      "thai": "นี่รู้สึกว่าเป็นของจริง, สำหรับฉัน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459288"
+    },
+    {
+      "english": "I'm considering, all options.",
+      "thai": "ฉันกำลังพิจารณา, ทุกทางเลือก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459291"
+    },
+    {
+      "english": "Your insight is helpful, thank you.",
+      "thai": "ความเข้าใจของคุณ, มีประโยชน์มาก",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459295"
+    },
+    {
+      "english": "I'm feeling reflective, today.",
+      "thai": "วันนี้ฉันรู้สึก, ใคร่ครวญ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459299"
+    },
+    {
+      "english": "We need to be honest, first.",
+      "thai": "เราต้องซื่อสัตย์, ก่อน",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459302"
+    },
+    {
+      "english": "It takes effort, to understand.",
+      "thai": "มันต้องใช้ความพยายาม, ในการเข้าใจ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459306"
+    },
+    {
+      "english": "I'm finding inner peace, slowly.",
+      "thai": "ฉันกำลังหาความสงบ, ในใจอย่างช้าๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459309"
+    },
+    {
+      "english": "Let's reflect, on our progress.",
+      "thai": "เรามาทบทวน, ความก้าวหน้าของเรา",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459313"
+    },
+    {
+      "english": "I'm being true, to myself.",
+      "thai": "ฉันกำลังเป็นตัวของตัวเอง",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459317"
+    },
+    {
+      "english": "Feeling stressed?, take a deep breath.",
+      "thai": "เครียดอยู่ไหม?, ลองหายใจลึกๆ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459321"
+    },
+    {
+      "english": "Lost your way?, ask for directions.",
+      "thai": "หลงทางเหรอ?, ถามทางดูสิ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-17T07:24:16.459324"
+    }
+  ],
+  "last_updated": "2026-10-17T07:24:16.459327"
+}

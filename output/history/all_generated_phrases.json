@@ -719,7 +719,727 @@
       "thai": "หลงทางเหรอ?, ถามทางดูสิ",
       "category": "Feelings & Emotions",
       "generated_at": "2026-10-17T07:24:16.459324"
+    },
+    {
+      "english": "Excuse me, where is it?",
+      "thai": "ขอโทษครับ, อยู่ไหนครับ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736044"
+    },
+    {
+      "english": "Can you show me the way?",
+      "thai": "ช่วยบอกทางหน่อยได้ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736057"
+    },
+    {
+      "english": "Is it far from here?",
+      "thai": "มันไกลจากที่นี่ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736060"
+    },
+    {
+      "english": "How do I get to...?",
+      "thai": "ไป...ได้อย่างไร?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736063"
+    },
+    {
+      "english": "Which way is the station?",
+      "thai": "ไปทางสถานีทางไหน?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736066"
+    },
+    {
+      "english": "Turn left, or turn right?",
+      "thai": "เลี้ยวซ้าย, หรือเลี้ยวขวา?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736069"
+    },
+    {
+      "english": "Go straight, then stop.",
+      "thai": "ตรงไป, แล้วก็หยุด.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736072"
+    },
+    {
+      "english": "Is this the right way?",
+      "thai": "นี่คือทางที่ถูกไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736077"
+    },
+    {
+      "english": "I'm a bit lost.",
+      "thai": "ผมหลงทางนิดหน่อย.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736080"
+    },
+    {
+      "english": "Where am I now?",
+      "thai": "ตอนนี้ผมอยู่ที่ไหน?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736084"
+    },
+    {
+      "english": "Is it nearby?",
+      "thai": "มันอยู่ใกล้ๆ ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736089"
+    },
+    {
+      "english": "I'm looking for a restroom.",
+      "thai": "ฉันกำลังหาห้องน้ำ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736092"
+    },
+    {
+      "english": "Can you point on the map?",
+      "thai": "ช่วยชี้บนแผนที่หน่อย?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736095"
+    },
+    {
+      "english": "What's the address?",
+      "thai": "ที่อยู่อะไรครับ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736098"
+    },
+    {
+      "english": "Is it on this street?",
+      "thai": "มันอยู่ถนนเส้นนี้ใช่ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736100"
+    },
+    {
+      "english": "How many minutes walk?",
+      "thai": "เดินไปกี่นาที?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736103"
+    },
+    {
+      "english": "Is there a bus stop?",
+      "thai": "มีป้ายรถเมล์ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736105"
+    },
+    {
+      "english": "Where can I catch a taxi?",
+      "thai": "ขึ้นแท็กซี่ได้ที่ไหน?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736107"
+    },
+    {
+      "english": "I need to go to the airport.",
+      "thai": "ฉันต้องไปสนามบิน.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736110"
+    },
+    {
+      "english": "Which bus goes there?",
+      "thai": "รถเมล์สายไหนไปที่นั่น?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736112"
+    },
+    {
+      "english": "Just a little further.",
+      "thai": "อีกนิดเดียว.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736115"
+    },
+    {
+      "english": "It's on your left.",
+      "thai": "มันอยู่ทางซ้ายของคุณ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736117"
+    },
+    {
+      "english": "It's on your right.",
+      "thai": "มันอยู่ทางขวาของคุณ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736120"
+    },
+    {
+      "english": "Follow this road.",
+      "thai": "ตามถนนเส้นนี้ไป.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736122"
+    },
+    {
+      "english": "Is it easy to find?",
+      "thai": "หาง่ายไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736125"
+    },
+    {
+      "english": "I'm trying to find a hotel.",
+      "thai": "ฉันกำลังพยายามหาโรงแรม.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736127"
+    },
+    {
+      "english": "Do you know this place?",
+      "thai": "คุณรู้จักที่นี่ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736132"
+    },
+    {
+      "english": "Can you write it down?",
+      "thai": "ช่วยเขียนให้หน่อยได้ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736134"
+    },
+    {
+      "english": "I need directions, please.",
+      "thai": "ขอเส้นทางหน่อยครับ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736137"
+    },
+    {
+      "english": "Thank you for your help.",
+      "thai": "ขอบคุณสำหรับความช่วยเหลือ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736140"
+    },
+    {
+      "english": "Hey, do you know this street?, please?",
+      "thai": "พี่ครับ/คะ, ถนนเส้นนี้ใช่ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736144"
+    },
+    {
+      "english": "Could you tell me, how to get there?",
+      "thai": "บอกทางไปตรงนั้นหน่อยได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736147"
+    },
+    {
+      "english": "Is this the correct, way to the market?",
+      "thai": "ทางนี้ไปตลาด, ถูกไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736150"
+    },
+    {
+      "english": "Where is the nearest, convenience store?",
+      "thai": "ร้านสะดวกซื้อ, ใกล้ที่สุดอยู่ตรงไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736153"
+    },
+    {
+      "english": "Am I going, in the right direction?",
+      "thai": "ผม/หนูเดินมา, ถูกทางแล้วหรือยังครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736158"
+    },
+    {
+      "english": "How far is it, to the temple?",
+      "thai": "วัดอยู่ไกล, แค่ไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736161"
+    },
+    {
+      "english": "Where can I find, a taxi stand?",
+      "thai": "หาที่จอดแท็กซี่, ได้ที่ไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736163"
+    },
+    {
+      "english": "I need to go, to the train station.",
+      "thai": "ผม/หนูจะไป, สถานีรถไฟครับ/คะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736166"
+    },
+    {
+      "english": "Which bus, goes to the zoo?",
+      "thai": "รถเมล์สายไหน, ไปสวนสัตว์ครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736169"
+    },
+    {
+      "english": "It's just a little, further down.",
+      "thai": "อีกนิดเดียว, ก็ถึงแล้วครับ/คะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736172"
+    },
+    {
+      "english": "I'm looking for, a nice hotel.",
+      "thai": "ผม/หนูกำลังหา, โรงแรมดีๆ ครับ/คะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736175"
+    },
+    {
+      "english": "Is the hospital, far from here?",
+      "thai": "โรงพยาบาล, อยู่ไกลจากตรงนี้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736178"
+    },
+    {
+      "english": "Where is the nearest, ATM machine?",
+      "thai": "ตู้ ATM, ที่ใกล้ที่สุดอยู่ไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736181"
+    },
+    {
+      "english": "How long does it take, to walk there?",
+      "thai": "เดินไปตรงนั้น, ใช้เวลาเท่าไหร่ครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736183"
+    },
+    {
+      "english": "Is this the way, to the main road?",
+      "thai": "ทางนี้, ไปถนนใหญ่ใช่ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736186"
+    },
+    {
+      "english": "Could you repeat, that please?",
+      "thai": "ช่วยพูดซ้ำ, อีกครั้งได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736189"
+    },
+    {
+      "english": "I'm completely, lost.",
+      "thai": "ผม/หนูหลงทาง, หมดเลยครับ/คะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736192"
+    },
+    {
+      "english": "What's the name, of this street?",
+      "thai": "ถนนเส้นนี้, ชื่ออะไรครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736195"
+    },
+    {
+      "english": "Is there another, way to go?",
+      "thai": "มีทางอื่น, ไปได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736197"
+    },
+    {
+      "english": "Could you draw, a simple map?",
+      "thai": "ช่วยวาด, แผนที่ง่ายๆ ให้หน่อยได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736200"
+    },
+    {
+      "english": "Don't worry, I'll get there.",
+      "thai": "ไม่เป็นไร, ฉันไปถึงแน่",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736203"
+    },
+    {
+      "english": "Keep trying, you're doing great!",
+      "thai": "สู้ๆ นะ, ทำได้ดีมาก",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736206"
+    },
+    {
+      "english": "Every step is progress, keep going.",
+      "thai": "ทุกก้าวคือความก้าวหน้า, ไปต่อ",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736211"
+    },
+    {
+      "english": "You've got this, stay positive.",
+      "thai": "ทำได้อยู่แล้ว, ใจเย็นๆ",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736214"
+    },
+    {
+      "english": "Learning Thai is an adventure.",
+      "thai": "เรียนภาษาไทยคือการผจญภัย",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736217"
+    },
+    {
+      "english": "Mistakes are part of learning.",
+      "thai": "ความผิดพลาดเป็นส่วนหนึ่งของการเรียน",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736220"
+    },
+    {
+      "english": "You're making great progress!",
+      "thai": "คุณก้าวหน้ามากเลย!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736224"
+    },
+    {
+      "english": "Believe in your ability to learn.",
+      "thai": "เชื่อมั่นในความสามารถของตัวเอง",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736227"
+    },
+    {
+      "english": "This journey is rewarding, keep going.",
+      "thai": "การเดินทางนี้คุ้มค่า, ไปต่อ",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736230"
+    },
+    {
+      "english": "You are a good language learner.",
+      "thai": "คุณเป็นนักเรียนภาษาที่ดี",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736233"
+    },
+    {
+      "english": "Success is close, don't give up.",
+      "thai": "ความสำเร็จใกล้เข้ามาแล้ว, อย่าท้อ",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736236"
+    },
+    {
+      "english": "Every attempt gets you closer.",
+      "thai": "ทุกความพยายามทำให้ใกล้ขึ้น",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736239"
+    },
+    {
+      "english": "Your effort is paying off.",
+      "thai": "ความพยายามของคุณกำลังได้ผล",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736241"
+    },
+    {
+      "english": "Don't be afraid to ask.",
+      "thai": "อย่ากลัวที่จะถาม",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736244"
+    },
+    {
+      "english": "You are learning so much!",
+      "thai": "คุณเรียนรู้เยอะมาก!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736247"
+    },
+    {
+      "english": "Stay curious, keep exploring.",
+      "thai": "จงสงสัย, จงสำรวจต่อไป",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736249"
+    },
+    {
+      "english": "You're getting better every day.",
+      "thai": "คุณเก่งขึ้นทุกวัน",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736254"
+    },
+    {
+      "english": "This challenge makes you stronger.",
+      "thai": "ความท้าทายนี้ทำให้คุณแข็งแกร่ง",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736257"
+    },
+    {
+      "english": "You have the courage to ask.",
+      "thai": "คุณมีความกล้าที่จะถาม",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736259"
+    },
+    {
+      "english": "Your dedication is admirable.",
+      "thai": "ความทุ่มเทของคุณน่าชื่นชม",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736262"
+    },
+    {
+      "english": "Embrace the learning process.",
+      "thai": "ยอมรับกระบวนการเรียนรู้",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736264"
+    },
+    {
+      "english": "You are capable of understanding.",
+      "thai": "คุณสามารถเข้าใจได้",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736267"
+    },
+    {
+      "english": "Think positive, act positive.",
+      "thai": "คิดบวก, ทำบวก",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736269"
+    },
+    {
+      "english": "You're doing wonderfully well.",
+      "thai": "คุณทำได้ยอดเยี่ยมมาก",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736272"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "thai": "รักษาทัศนคติเชิงบวกไว้นะ",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736275"
+    },
+    {
+      "english": "Your confidence will grow.",
+      "thai": "ความมั่นใจของคุณจะเพิ่มขึ้น",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736278"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "thai": "นี่คือโอกาสในการเรียนรู้",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736282"
+    },
+    {
+      "english": "You are on the right path.",
+      "thai": "คุณมาถูกทางแล้ว",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736285"
+    },
+    {
+      "english": "Can you point, the way please?",
+      "thai": "ช่วยชี้ทางให้หน่อยครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736288"
+    },
+    {
+      "english": "I need to find, this specific place.",
+      "thai": "ผม/ฉัน กำลังหาที่นี่อยู่.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736291"
+    },
+    {
+      "english": "Is this the main road, for this area?",
+      "thai": "นี่คือถนนหลัก, แถวนี้ใช่ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736293"
+    },
+    {
+      "english": "My map is old, can you guide me?",
+      "thai": "แผนที่ผม/ฉัน เก่าแล้ว, ช่วยนำทางหน่อย.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736297"
+    },
+    {
+      "english": "I'm a bit turned around, help me.",
+      "thai": "ผม/ฉัน หลงนิดหน่อย, ช่วยด้วย.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736300"
+    },
+    {
+      "english": "Which direction, should I go now?",
+      "thai": "ตอนนี้ต้องไปทางไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736302"
+    },
+    {
+      "english": "It's not far, is it?",
+      "thai": "ไม่ไกลใช่ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736305"
+    },
+    {
+      "english": "Can you break it down, for me?",
+      "thai": "ช่วยอธิบาย, ให้เข้าใจง่ายๆ หน่อย.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736310"
+    },
+    {
+      "english": "Where do locals usually, go around here?",
+      "thai": "คนแถวนี้มักจะไปไหนกัน?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736313"
+    },
+    {
+      "english": "I'm trying to get my bearings.",
+      "thai": "กำลังพยายามหาทิศทาง.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736315"
+    },
+    {
+      "english": "Is there a landmark, I should look for?",
+      "thai": "มีอะไรเป็นสังเกต, ที่ต้องมองหาไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736318"
+    },
+    {
+      "english": "Just point me, in the right direction.",
+      "thai": "แค่ชี้ไป, ทางที่ถูกก็พอ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736321"
+    },
+    {
+      "english": "I'm new here, lost my way.",
+      "thai": "ผม/ฉัน มาใหม่, หลงทาง.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736324"
+    },
+    {
+      "english": "Can you give me, rough directions?",
+      "thai": "บอกทางคร่าวๆ, ได้ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736327"
+    },
+    {
+      "english": "Follow this path, usually works.",
+      "thai": "ตามทางนี้ไป, มักจะถึง.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736329"
+    },
+    {
+      "english": "Is this the shortest route?",
+      "thai": "นี่คือทางที่สั้นที่สุดไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736332"
+    },
+    {
+      "english": "I need to get back, to my hotel.",
+      "thai": "ผม/ฉัน ต้องกลับ, โรงแรม.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736335"
+    },
+    {
+      "english": "Can you show me, on this paper?",
+      "thai": "ช่วยวาดให้ดู, บนกระดาษนี้หน่อย.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736337"
+    },
+    {
+      "english": "I'm trying to find, a local spot.",
+      "thai": "ผม/ฉัน กำลังหา, ที่เที่ยวแบบคนท้องถิ่น.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736340"
+    },
+    {
+      "english": "Which street, turns off here?",
+      "thai": "ถนนเส้นไหน, แยกตรงนี้?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736345"
+    },
+    {
+      "english": "My phone died, need directions.",
+      "thai": "มือถือผม/ฉัน แบตหมด, ต้องการทาง.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736347"
+    },
+    {
+      "english": "Can you point me, towards the market?",
+      "thai": "ช่วยชี้ไป, ทางตลาดหน่อย.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736350"
+    },
+    {
+      "english": "How do I get, to the main square?",
+      "thai": "จะไป, จัตุรัสกลางเมืองได้อย่างไร?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736353"
+    },
+    {
+      "english": "Just guide me, generally.",
+      "thai": "ช่วยนำทาง, แบบคร่าวๆ ก็ได้.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736355"
+    },
+    {
+      "english": "I'm looking for, a quiet street.",
+      "thai": "ผม/ฉัน กำลังหา, ถนนที่เงียบๆ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736358"
+    },
+    {
+      "english": "Is this the way, to the park entrance?",
+      "thai": "นี่คือทางเข้า, สวนสาธารณะใช่ไหม?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736361"
+    },
+    {
+      "english": "I took a wrong turn, I think.",
+      "thai": "ผม/ฉัน เลี้ยวผิด, คิดว่านะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736364"
+    },
+    {
+      "english": "Where's the best place, to start from?",
+      "thai": "ที่ไหนดีสุด, ที่จะเริ่มไป?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736367"
+    },
+    {
+      "english": "Can you tell me, the general direction?",
+      "thai": "บอกทิศทาง, โดยรวมให้หน่อย.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736369"
+    },
+    {
+      "english": "Excuse me, which way, to the train station?",
+      "thai": "ขอโทษครับ/ค่ะ, ไปสถานีรถไฟทางไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736373"
+    },
+    {
+      "english": "Can you tell me, how to get to the temple?",
+      "thai": "บอกทางไปวัดหน่อยได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736376"
+    },
+    {
+      "english": "I'm looking for, a good restaurant nearby.",
+      "thai": "กำลังหาร้านอาหารอร่อยแถวนี้ครับ/ค่ะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736379"
+    },
+    {
+      "english": "Is this the right way, for the bus stop?",
+      "thai": "ทางนี้ไปป้ายรถเมล์ใช่ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736381"
+    },
+    {
+      "english": "Could you show me, on this map, please?",
+      "thai": "ชี้ในแผนที่ให้ดูหน่อยได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736384"
+    },
+    {
+      "english": "I need to find, the post office.",
+      "thai": "ผม/ฉันต้องการหาที่ทำการไปรษณีย์ครับ/ค่ะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736387"
+    },
+    {
+      "english": "I'm trying to locate, the hospital.",
+      "thai": "กำลังพยายามหาโรงพยาบาลครับ/ค่ะ.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736391"
+    },
+    {
+      "english": "Which turn, should I take?",
+      "thai": "ต้องเลี้ยวตรงไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736393"
+    },
+    {
+      "english": "Is it, walking distance?",
+      "thai": "เดินไปถึงได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736396"
+    },
+    {
+      "english": "Can I get a taxi, from here?",
+      "thai": "เรียกแท็กซี่จากตรงนี้ได้ไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736398"
+    },
+    {
+      "english": "Where can I rent, a motorbike?",
+      "thai": "เช่ามอเตอร์ไซค์ได้ที่ไหนครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736403"
+    },
+    {
+      "english": "Is there a shortcut, to the beach?",
+      "thai": "มีทางลัดไปชายหาดไหมครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736406"
+    },
+    {
+      "english": "How do I reach, the city center?",
+      "thai": "จะไปใจกลางเมืองยังไงครับ/คะ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-18T07:38:56.736409"
     }
   ],
-  "last_updated": "2026-10-17T07:24:16.459327"
+  "last_updated": "2026-10-18T07:38:56.736411"
 }

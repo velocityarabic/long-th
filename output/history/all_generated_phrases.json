@@ -1439,7 +1439,727 @@
       "thai": "จะไปใจกลางเมืองยังไงครับ/คะ?",
       "category": "Asking for Directions",
       "generated_at": "2026-10-18T07:38:56.736409"
+    },
+    {
+      "english": "Let's grow together, okay?",
+      "thai": "เรามาเติบโตไปด้วยกันนะ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.654996"
+    },
+    {
+      "english": "This is a growth opportunity.",
+      "thai": "นี่คือโอกาสในการเติบโต",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655010"
+    },
+    {
+      "english": "I want to improve myself.",
+      "thai": "ฉันอยากพัฒนาตัวเอง",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655013"
+    },
+    {
+      "english": "Every day, a little progress.",
+      "thai": "ทุกวัน, ก้าวหน้าทีละนิด",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655016"
+    },
+    {
+      "english": "What's your goal today?",
+      "thai": "เป้าหมายของคุณวันนี้คืออะไร",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655019"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "thai": "เดินหน้าต่อไปเรื่อยๆ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655022"
+    },
+    {
+      "english": "Learning never stops.",
+      "thai": "การเรียนรู้ไม่มีวันสิ้นสุด",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655025"
+    },
+    {
+      "english": "I'm excited to learn.",
+      "thai": "ฉันตื่นเต้นที่จะได้เรียนรู้",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655030"
+    },
+    {
+      "english": "This helps me grow.",
+      "thai": "สิ่งนี้ช่วยให้ฉันเติบโต",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655033"
+    },
+    {
+      "english": "Let's achieve great things.",
+      "thai": "มาทำสิ่งที่ยิ่งใหญ่กัน",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655036"
+    },
+    {
+      "english": "I'm focusing on growth.",
+      "thai": "ฉันกำลังมุ่งเน้นการเติบโต",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655039"
+    },
+    {
+      "english": "Can you teach me more?",
+      "thai": "คุณสอนฉันเพิ่มเติมได้ไหม",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655042"
+    },
+    {
+      "english": "This is a challenge, but good.",
+      "thai": "นี่เป็นความท้าทาย, แต่ก็ดี",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655044"
+    },
+    {
+      "english": "I'm ready for new things.",
+      "thai": "ฉันพร้อมสำหรับสิ่งใหม่ๆ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655049"
+    },
+    {
+      "english": "We're making good progress.",
+      "thai": "เรากำลังคืบหน้าไปได้ดี",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655052"
+    },
+    {
+      "english": "How can I improve this?",
+      "thai": "ฉันจะปรับปรุงสิ่งนี้ได้อย่างไร",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655055"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "thai": "เรียนรู้ต่อไป, เติบโตต่อไป",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655057"
+    },
+    {
+      "english": "This experience is valuable.",
+      "thai": "ประสบการณ์นี้มีค่ามาก",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655060"
+    },
+    {
+      "english": "I'm open to feedback.",
+      "thai": "ฉันเปิดรับคำติชม",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655062"
+    },
+    {
+      "english": "What did you learn today?",
+      "thai": "วันนี้คุณเรียนรู้อะไรบ้าง",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655065"
+    },
+    {
+      "english": "Let's expand our horizons.",
+      "thai": "มาขยายขอบเขตของเรากัน",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655068"
+    },
+    {
+      "english": "I'm building new skills.",
+      "thai": "ฉันกำลังสร้างทักษะใหม่ๆ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655070"
+    },
+    {
+      "english": "This is a step forward.",
+      "thai": "นี่คือหนึ่งก้าวไปข้างหน้า",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655073"
+    },
+    {
+      "english": "Your growth is impressive.",
+      "thai": "การเติบโตของคุณน่าประทับใจ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655078"
+    },
+    {
+      "english": "Let's aim higher.",
+      "thai": "ตั้งเป้าให้สูงขึ้นกัน",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655080"
+    },
+    {
+      "english": "I enjoy the learning process.",
+      "thai": "ฉันชอบกระบวนการเรียนรู้",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655083"
+    },
+    {
+      "english": "What's next for us?",
+      "thai": "ต่อไปสำหรับเราคืออะไร",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655086"
+    },
+    {
+      "english": "This is very helpful.",
+      "thai": "นี่มีประโยชน์มากเลย",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655088"
+    },
+    {
+      "english": "I'm dedicated to growing.",
+      "thai": "ฉันทุ่มเทให้กับการเติบโต",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655091"
+    },
+    {
+      "english": "Let's make it happen.",
+      "thai": "มาทำให้มันเกิดขึ้นกัน",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655094"
+    },
+    {
+      "english": "What's your biggest dream?",
+      "thai": "ความฝันที่ใหญ่ที่สุดของคุณคืออะไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655097"
+    },
+    {
+      "english": "Where do you see yourself in five years?",
+      "thai": "อีกห้าปีข้างหน้า คุณเห็นตัวเองอยู่ที่ไหน?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655100"
+    },
+    {
+      "english": "What inspires you to move forward?",
+      "thai": "อะไรเป็นแรงบันดาลใจให้คุณก้าวต่อไป?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655103"
+    },
+    {
+      "english": "How do you handle setbacks?",
+      "thai": "คุณรับมือกับความล้มเหลวอย่างไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655106"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "thai": "คุณมีคำแนะนำอะไรให้ฉันบ้าง?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655109"
+    },
+    {
+      "english": "Are you looking for new challenges?",
+      "thai": "คุณกำลังมองหาความท้าทายใหม่ๆ อยู่หรือเปล่า?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655114"
+    },
+    {
+      "english": "What skills are you developing now?",
+      "thai": "ตอนนี้คุณกำลังพัฒนาทักษะอะไรอยู่?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655117"
+    },
+    {
+      "english": "How can we support each other?",
+      "thai": "เราจะสนับสนุนซึ่งกันและกันได้อย่างไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655119"
+    },
+    {
+      "english": "What's your strategy for success?",
+      "thai": "กลยุทธ์สู่ความสำเร็จของคุณคืออะไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655122"
+    },
+    {
+      "english": "Are you open to trying new methods?",
+      "thai": "คุณเปิดใจลองใช้วิธีใหม่ๆ ไหม?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655124"
+    },
+    {
+      "english": "What makes you feel accomplished?",
+      "thai": "อะไรทำให้คุณรู้สึกประสบความสำเร็จ?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655127"
+    },
+    {
+      "english": "Can you share your learning journey?",
+      "thai": "คุณช่วยเล่าเส้นทางการเรียนรู้ของคุณได้ไหม?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655218"
+    },
+    {
+      "english": "What opportunities excite you most?",
+      "thai": "โอกาสแบบไหนที่ทำให้คุณตื่นเต้นที่สุด?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655222"
+    },
+    {
+      "english": "How do you define personal growth?",
+      "thai": "คุณนิยามการเติบโตส่วนบุคคลว่าอย่างไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655225"
+    },
+    {
+      "english": "What's one thing you'd change?",
+      "thai": "มีอะไรที่คุณอยากจะเปลี่ยนแปลงบ้าง?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655230"
+    },
+    {
+      "english": "Are you working towards a specific goal?",
+      "thai": "คุณกำลังทำงานเพื่อเป้าหมายที่เฉพาะเจาะจงอยู่หรือเปล่า?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655233"
+    },
+    {
+      "english": "What habits support your progress?",
+      "thai": "นิสัยแบบไหนที่ช่วยสนับสนุนความก้าวหน้าของคุณ?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655236"
+    },
+    {
+      "english": "Can we brainstorm some ideas?",
+      "thai": "เราช่วยกันระดมสมองหาไอเดียกันได้ไหม?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655238"
+    },
+    {
+      "english": "What are you passionate about learning?",
+      "thai": "คุณหลงใหลในการเรียนรู้อะไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655241"
+    },
+    {
+      "english": "How do you stay motivated?",
+      "thai": "คุณมีวิธีสร้างแรงจูงใจให้ตัวเองอย่างไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655244"
+    },
+    {
+      "english": "What's your favorite part of learning?",
+      "thai": "ส่วนที่คุณชอบที่สุดในการเรียนรู้คืออะไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655246"
+    },
+    {
+      "english": "Are you interested in collaboration?",
+      "thai": "คุณสนใจที่จะร่วมมือกันไหม?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655249"
+    },
+    {
+      "english": "What feedback can you offer?",
+      "thai": "คุณสามารถให้ข้อเสนอแนะอะไรได้บ้าง?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655251"
+    },
+    {
+      "english": "How do you measure your growth?",
+      "thai": "คุณวัดการเติบโตของคุณได้อย่างไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655254"
+    },
+    {
+      "english": "What challenges are you facing?",
+      "thai": "คุณกำลังเผชิญกับความท้าทายอะไรอยู่?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655257"
+    },
+    {
+      "english": "Do you have any questions for me?",
+      "thai": "คุณมีคำถามอะไรจะถามฉันไหม?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655262"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "thai": "ในมุมมองของคุณเรื่องนี้เป็นอย่างไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655265"
+    },
+    {
+      "english": "How can we achieve this together?",
+      "thai": "เราจะบรรลุสิ่งนี้ร่วมกันได้อย่างไร?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655267"
+    },
+    {
+      "english": "What outcome are you hoping for?",
+      "thai": "คุณหวังผลลัพธ์แบบไหน?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655270"
+    },
+    {
+      "english": "Tell me about your aspirations.",
+      "thai": "เล่าถึงความปรารถนาของคุณให้ฟังหน่อย.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655273"
+    },
+    {
+      "english": "Don't fear the unknown, embrace it.",
+      "thai": "อย่ากลัวสิ่งที่ไม่รู้, จงเปิดรับมัน",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655276"
+    },
+    {
+      "english": "Small steps, big changes happen.",
+      "thai": "ก้าวเล็กๆ, นำไปสู่การเปลี่ยนแปลงใหญ่",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655279"
+    },
+    {
+      "english": "Plant seeds, watch them grow.",
+      "thai": "หว่านเมล็ด, แล้วรอดูการเติบโต",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655282"
+    },
+    {
+      "english": "Learn from mistakes, don't repeat them.",
+      "thai": "เรียนรู้จากผิดพลาด, อย่าทำซ้ำ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655285"
+    },
+    {
+      "english": "Every day is a new beginning.",
+      "thai": "ทุกวันคือการเริ่มต้นใหม่",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655287"
+    },
+    {
+      "english": "Challenge yourself, you're capable.",
+      "thai": "ท้าทายตัวเอง, คุณทำได้",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655290"
+    },
+    {
+      "english": "Growth happens outside comfort zones.",
+      "thai": "การเติบโตเกิดนอกเขตสบาย",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655306"
+    },
+    {
+      "english": "Be patient, good things take time.",
+      "thai": "ใจเย็นๆ, สิ่งดีๆ ต้องใช้เวลา",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655309"
+    },
+    {
+      "english": "Open your mind, new ideas flow.",
+      "thai": "เปิดใจ, ไอเดียใหม่ๆ จะไหลเข้ามา",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655312"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "thai": "ผลักดันต่อไป, อย่าเพิ่งยอมแพ้",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655316"
+    },
+    {
+      "english": "Wisdom comes from experience.",
+      "thai": "ปัญญาเกิดจากประสบการณ์",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655318"
+    },
+    {
+      "english": "A journey of a thousand miles starts.",
+      "thai": "การเดินทางพันลี้, เริ่มต้นที่ก้าวแรก",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655321"
+    },
+    {
+      "english": "Bloom where you are planted.",
+      "thai": "จงเบ่งบานในที่ที่ปลูกคุณ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655323"
+    },
+    {
+      "english": "Seek knowledge constantly.",
+      "thai": "แสวงหาความรู้เสมอ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655326"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "thai": "ความผิดพลาดคือบทเรียน, ไม่ใช่ความล้มเหลว",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655329"
+    },
+    {
+      "english": "Dare to dream bigger.",
+      "thai": "กล้าที่จะฝันให้ใหญ่กว่าเดิม",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655331"
+    },
+    {
+      "english": "Invest in yourself.",
+      "thai": "ลงทุนในตัวเอง",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655334"
+    },
+    {
+      "english": "Evolve and adapt.",
+      "thai": "วิวัฒนาการและปรับตัว",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655339"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "thai": "สร้างสะพาน, ไม่ใช่กำแพง",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655342"
+    },
+    {
+      "english": "Embrace change, it's inevitable.",
+      "thai": "ยอมรับการเปลี่ยนแปลง, มันหลีกเลี่ยงไม่ได้",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655345"
+    },
+    {
+      "english": "Expand your perspective.",
+      "thai": "ขยายมุมมองของคุณ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655347"
+    },
+    {
+      "english": "Cultivate good habits.",
+      "thai": "บ่มเพาะนิสัยที่ดี",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655350"
+    },
+    {
+      "english": "Find your passion, ignite your drive.",
+      "thai": "ค้นหาความหลงใหล, จุดประกายแรงขับเคลื่อน",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655353"
+    },
+    {
+      "english": "Learn something new every day.",
+      "thai": "เรียนรู้สิ่งใหม่ทุกวัน",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655356"
+    },
+    {
+      "english": "Stay curious, stay learning.",
+      "thai": "คงความสงสัย, คงการเรียนรู้",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655358"
+    },
+    {
+      "english": "Dare to try.",
+      "thai": "กล้าที่จะลอง",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655361"
+    },
+    {
+      "english": "The future belongs to learners.",
+      "thai": "อนาคตเป็นของผู้เรียนรู้",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655363"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "thai": "เติบโตผ่านสิ่งที่เผชิญ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655368"
+    },
+    {
+      "english": "Today, I feel more thoughtful, you know?",
+      "thai": "วันนี้, ฉันรู้สึกคิดเยอะขึ้นนะ รู้ไหม?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655371"
+    },
+    {
+      "english": "Sometimes, I just need quiet reflection time.",
+      "thai": "บางที, ฉันก็แค่อยากมีเวลาทบทวนเงียบๆ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655373"
+    },
+    {
+      "english": "It's okay to admit when you're unsure.",
+      "thai": "ไม่เป็นไรนะ ที่จะยอมรับว่าไม่แน่ใจ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655377"
+    },
+    {
+      "english": "Being honest with myself is important.",
+      "thai": "การซื่อสัตย์กับตัวเองเป็นเรื่องสำคัญ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655379"
+    },
+    {
+      "english": "I'm still figuring things out, slowly.",
+      "thai": "ฉันยังคงค่อยๆ หาคำตอบอยู่นะ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655382"
+    },
+    {
+      "english": "This feeling, it makes me pause.",
+      "thai": "ความรู้สึกนี้, มันทำให้ฉันหยุดคิด.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655385"
+    },
+    {
+      "english": "I'm learning to be kinder to myself.",
+      "thai": "ฉันกำลังเรียนรู้ที่จะใจดีกับตัวเองมากขึ้น.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655388"
+    },
+    {
+      "english": "True growth, comes from within, right?",
+      "thai": "การเติบโตที่แท้จริง, มาจากข้างใน, ใช่ไหม?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655393"
+    },
+    {
+      "english": "Letting go is part of moving forward.",
+      "thai": "การปล่อยวางก็เป็นส่วนหนึ่งของการก้าวไป.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655395"
+    },
+    {
+      "english": "My inner voice, I need to listen.",
+      "thai": "เสียงในใจฉัน, ฉันต้องฟัง.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655398"
+    },
+    {
+      "english": "What does this situation really mean?",
+      "thai": "สถานการณ์นี้, มันหมายความว่าอย่างไรกันแน่?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655400"
+    },
+    {
+      "english": "This experience, taught me a lot.",
+      "thai": "ประสบการณ์นี้, สอนฉันได้มากจริงๆ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655403"
+    },
+    {
+      "english": "I'm choosing peace, over conflict.",
+      "thai": "ฉันเลือกความสงบ, แทนที่จะทะเลาะ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655406"
+    },
+    {
+      "english": "It's okay to feel vulnerable sometimes.",
+      "thai": "ไม่เป็นไรนะ ที่จะรู้สึกอ่อนไหวบ้าง.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655409"
+    },
+    {
+      "english": "What matters most, is how I feel.",
+      "thai": "สิ่งที่สำคัญที่สุด, คือความรู้สึกของฉัน.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655411"
+    },
+    {
+      "english": "I'm embracing the uncertainty of life.",
+      "thai": "ฉันกำลังยอมรับความไม่แน่นอนของชีวิต.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655414"
+    },
+    {
+      "english": "Deeper understanding, takes patient effort.",
+      "thai": "ความเข้าใจที่ลึกซึ้ง, ต้องใช้ความพยายาม.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655417"
+    },
+    {
+      "english": "My intuition, I'm learning to trust it.",
+      "thai": "สัญชาตญาณของฉัน, ฉันกำลังเรียนรู้ที่จะเชื่อ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655420"
+    },
+    {
+      "english": "Finding my inner calm, that's the goal.",
+      "thai": "การค้นหาความสงบภายใน, นั่นคือเป้าหมาย.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655423"
+    },
+    {
+      "english": "Are these feelings valid, I wonder?",
+      "thai": "ความรู้สึกเหล่านี้, มันถูกต้องไหมนะ?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655425"
+    },
+    {
+      "english": "This moment, I will remember it.",
+      "thai": "ช่วงเวลานี้, ฉันจะจดจำมันไว้.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655428"
+    },
+    {
+      "english": "Accepting myself, fully, is liberating.",
+      "thai": "การยอมรับตัวเอง, อย่างเต็มที่, ช่างปลดปล่อย.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655431"
+    },
+    {
+      "english": "I'm choosing to be present, right now.",
+      "thai": "ฉันเลือกที่จะอยู่กับปัจจุบัน, ตอนนี้.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655433"
+    },
+    {
+      "english": "What truly brings me joy these days?",
+      "thai": "อะไรกันแน่, ที่ทำให้ฉันมีความสุขตอนนี้?",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655436"
+    },
+    {
+      "english": "Honesty, even when it's difficult, matters.",
+      "thai": "ความซื่อสัตย์, แม้จะยาก, ก็สำคัญ.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655439"
+    },
+    {
+      "english": "I'm giving myself permission to rest.",
+      "thai": "ฉันอนุญาตให้ตัวเองได้พักผ่อน.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655443"
+    },
+    {
+      "english": "This reflection, is a chance to heal.",
+      "thai": "การทบทวนนี้, เป็นโอกาสในการเยียวยา.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655447"
+    },
+    {
+      "english": "My journey, is unique, and unfolding.",
+      "thai": "การเดินทางของฉัน, นั้นพิเศษ, และกำลังเปิดเผย.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655450"
+    },
+    {
+      "english": "Feeling grateful, for this moment now.",
+      "thai": "รู้สึกขอบคุณ, สำหรับช่วงเวลานี้.",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655453"
+    },
+    {
+      "english": "Ask for help, it's a sign of strength.",
+      "thai": "ขอความช่วยเหลือ, คือสัญญาณของความเข้มแข็ง",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655458"
+    },
+    {
+      "english": "Small steps, add up to big progress.",
+      "thai": "ก้าวเล็กๆ, รวมกันเป็นความก้าวหน้าใหญ่",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655461"
+    },
+    {
+      "english": "Listen more, speak less, learn more.",
+      "thai": "ฟังให้มาก, พูดให้น้อย, เรียนรู้ให้เยอะ",
+      "category": "Growth",
+      "generated_at": "2026-10-19T08:21:09.655466"
     }
   ],
-  "last_updated": "2026-10-18T07:38:56.736411"
+  "last_updated": "2026-10-19T08:21:09.655468"
 }

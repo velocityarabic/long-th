@@ -2159,7 +2159,727 @@
       "thai": "ฟังให้มาก, พูดให้น้อย, เรียนรู้ให้เยอะ",
       "category": "Growth",
       "generated_at": "2026-10-19T08:21:09.655466"
+    },
+    {
+      "english": "You are strong, really strong.",
+      "thai": "คุณแข็งแรง, แข็งแรงจริงๆ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620518"
+    },
+    {
+      "english": "This is powerful, wow!",
+      "thai": "นี่ทรงพลัง, ว้าว!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620531"
+    },
+    {
+      "english": "I feel strong today.",
+      "thai": "วันนี้รู้สึกแข็งแรง",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620534"
+    },
+    {
+      "english": "That takes a lot of strength.",
+      "thai": "นั่นต้องใช้แรงเยอะ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620536"
+    },
+    {
+      "english": "Can you lift this?",
+      "thai": "ยกอันนี้ไหวไหม",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620538"
+    },
+    {
+      "english": "It's a tough job.",
+      "thai": "เป็นงานที่หนัก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620540"
+    },
+    {
+      "english": "You have inner strength.",
+      "thai": "คุณมีพลังใจ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620542"
+    },
+    {
+      "english": "He's very muscular.",
+      "thai": "เขาตัวใหญ่มาก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620546"
+    },
+    {
+      "english": "She's incredibly tough.",
+      "thai": "เธอแกร่งมาก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620549"
+    },
+    {
+      "english": "What a strong grip!",
+      "thai": "จับแน่นจัง!",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620551"
+    },
+    {
+      "english": "This needs more power.",
+      "thai": "นี่ต้องการพลังเพิ่ม",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620553"
+    },
+    {
+      "english": "Are you sure you can handle it?",
+      "thai": "แน่ใจนะว่าไหว",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620555"
+    },
+    {
+      "english": "It’s surprisingly heavy.",
+      "thai": "หนักอย่างไม่น่าเชื่อ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620559"
+    },
+    {
+      "english": "He has a strong will.",
+      "thai": "เขาใจเด็ดมาก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620560"
+    },
+    {
+      "english": "This is built to last.",
+      "thai": "นี่ทนทานมาก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620562"
+    },
+    {
+      "english": "Show me your strength.",
+      "thai": "แสดงพลังให้ดูหน่อย",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620564"
+    },
+    {
+      "english": "That was a powerful move.",
+      "thai": "เป็นการเคลื่อนไหวที่ทรงพลัง",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620566"
+    },
+    {
+      "english": "I need your support.",
+      "thai": "ต้องการกำลังใจจากคุณ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620568"
+    },
+    {
+      "english": "This is very sturdy.",
+      "thai": "นี่แข็งแรงมาก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620570"
+    },
+    {
+      "english": "He's got serious muscle.",
+      "thai": "เขามีกล้ามเนื้อเยอะ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620572"
+    },
+    {
+      "english": "That requires great effort.",
+      "thai": "นั่นต้องใช้ความพยายามมาก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620573"
+    },
+    {
+      "english": "You're a strong contender.",
+      "thai": "คุณเป็นคู่แข่งที่แข็งแกร่ง",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620575"
+    },
+    {
+      "english": "It’s a heavy burden.",
+      "thai": "เป็นภาระที่หนัก",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620578"
+    },
+    {
+      "english": "Let's push harder.",
+      "thai": "มาพยายามให้มากขึ้น",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620579"
+    },
+    {
+      "english": "That's impressive endurance.",
+      "thai": "ความทนทานน่าประทับใจ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620581"
+    },
+    {
+      "english": "He's built like a tank.",
+      "thai": "เขาแข็งแรงเหมือนรถถัง",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620583"
+    },
+    {
+      "english": "This material is tough.",
+      "thai": "วัสดุนี้ทนทาน",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620584"
+    },
+    {
+      "english": "Can you hold it steady?",
+      "thai": "จับให้นิ่งได้ไหม",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620587"
+    },
+    {
+      "english": "That required a lot of energy.",
+      "thai": "นั่นใช้พลังงานเยอะ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620589"
+    },
+    {
+      "english": "How do you stay so fit?",
+      "thai": "คุณรักษารูปร่างให้ฟิตได้อย่างไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620591"
+    },
+    {
+      "english": "What's your secret to strength?",
+      "thai": "เคล็ดลับความแข็งแกร่งของคุณคืออะไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620594"
+    },
+    {
+      "english": "Do you exercise regularly?",
+      "thai": "คุณออกกำลังกายเป็นประจำไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620596"
+    },
+    {
+      "english": "How much can you lift?",
+      "thai": "คุณยกได้เท่าไหร่?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620598"
+    },
+    {
+      "english": "Is this heavy for you?",
+      "thai": "นี่หนักสำหรับคุณไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620600"
+    },
+    {
+      "english": "Can you help me with this?",
+      "thai": "ช่วยฉันยกของนี้หน่อยได้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620602"
+    },
+    {
+      "english": "What training do you do?",
+      "thai": "คุณฝึกซ้อมแบบไหน?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620603"
+    },
+    {
+      "english": "How do you build endurance?",
+      "thai": "คุณสร้างความทนทานอย่างไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620605"
+    },
+    {
+      "english": "Is this difficult to hold?",
+      "thai": "อันนี้ถือยากไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620606"
+    },
+    {
+      "english": "What do you eat for energy?",
+      "thai": "คุณกินอะไรเพื่อให้มีพลัง?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620608"
+    },
+    {
+      "english": "Can you teach me that move?",
+      "thai": "สอนท่านี้ให้ฉันหน่อยได้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620610"
+    },
+    {
+      "english": "How long have you trained?",
+      "thai": "คุณฝึกมานานแค่ไหนแล้ว?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620612"
+    },
+    {
+      "english": "Do you feel tired now?",
+      "thai": "คุณเหนื่อยตอนนี้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620616"
+    },
+    {
+      "english": "What's your fitness goal?",
+      "thai": "เป้าหมายการฟิตของคุณคืออะไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620619"
+    },
+    {
+      "english": "Can you push a little more?",
+      "thai": "ดันอีกนิดได้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620621"
+    },
+    {
+      "english": "How do you recover quickly?",
+      "thai": "คุณฟื้นตัวเร็วได้อย่างไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620623"
+    },
+    {
+      "english": "Is this very challenging?",
+      "thai": "นี่ท้าทายมากไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620625"
+    },
+    {
+      "english": "What keeps you motivated?",
+      "thai": "อะไรที่ทำให้คุณมีแรงจูงใจ?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620627"
+    },
+    {
+      "english": "How often do you train?",
+      "thai": "คุณฝึกซ้อมบ่อยแค่ไหน?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620629"
+    },
+    {
+      "english": "Do you need any help?",
+      "thai": "คุณต้องการความช่วยเหลือไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620630"
+    },
+    {
+      "english": "What's the best way to train?",
+      "thai": "วิธีฝึกที่ดีที่สุดคืออะไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620632"
+    },
+    {
+      "english": "Can you hold this longer?",
+      "thai": "คุณจะถือสิ่งนี้ได้นานกว่านี้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620634"
+    },
+    {
+      "english": "How do you maintain this strength?",
+      "thai": "คุณรักษากำลังนี้ไว้ได้อย่างไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620636"
+    },
+    {
+      "english": "What muscles are you working?",
+      "thai": "คุณกำลังบริหารกล้ามเนื้อส่วนไหน?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620638"
+    },
+    {
+      "english": "Can you spot me, please?",
+      "thai": "ช่วยดูให้ฉันหน่อยได้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620640"
+    },
+    {
+      "english": "Do you think I can do it?",
+      "thai": "คุณคิดว่าฉันทำได้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620642"
+    },
+    {
+      "english": "How do you handle the pressure?",
+      "thai": "คุณรับมือกับความกดดันอย่างไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620643"
+    },
+    {
+      "english": "What's your favorite exercise?",
+      "thai": "ท่าออกกำลังกายที่คุณชอบที่สุดคืออะไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620645"
+    },
+    {
+      "english": "Can you give me some advice?",
+      "thai": "คุณให้คำแนะนำฉันหน่อยได้ไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620647"
+    },
+    {
+      "english": "Believe in your inner strength.",
+      "thai": "เชื่อมั่นในพลังที่ซ่อนอยู่.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620649"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "thai": "คุณแข็งแกร่งกว่าที่คิด.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620651"
+    },
+    {
+      "english": "Your resilience is amazing.",
+      "thai": "ความยืดหยุ่นของคุณน่าทึ่งมาก.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620653"
+    },
+    {
+      "english": "Stay determined, you'll succeed.",
+      "thai": "ตั้งใจไว้, คุณจะสำเร็จ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620655"
+    },
+    {
+      "english": "Every step forward counts.",
+      "thai": "ทุกก้าวที่ไปข้างหน้ามีความหมาย.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620658"
+    },
+    {
+      "english": "You have overcome challenges before.",
+      "thai": "คุณเคยผ่านอุปสรรคมาก่อน.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620659"
+    },
+    {
+      "english": "Embrace the struggle, it makes you grow.",
+      "thai": "ยอมรับความยากลำบาก, มันทำให้คุณเติบโต.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620662"
+    },
+    {
+      "english": "Your spirit is unbreakable.",
+      "thai": "จิตวิญญาณของคุณไม่สามารถทำลายได้.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620663"
+    },
+    {
+      "english": "Stay strong, mentally and physically.",
+      "thai": "เข้มแข็งไว้นะ, ทั้งกายและใจ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620665"
+    },
+    {
+      "english": "You possess great inner power.",
+      "thai": "คุณมีพลังภายในที่ยิ่งใหญ่.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620668"
+    },
+    {
+      "english": "Never underestimate your capabilities.",
+      "thai": "อย่าประเมินความสามารถของตัวเองต่ำไป.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620669"
+    },
+    {
+      "english": "Face difficulties with courage.",
+      "thai": "เผชิญหน้ากับความยากลำบากด้วยความกล้าหาญ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620671"
+    },
+    {
+      "english": "Your determination is inspiring.",
+      "thai": "ความมุ่งมั่นของคุณเป็นแรงบันดาลใจ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620673"
+    },
+    {
+      "english": "Find strength in every situation.",
+      "thai": "ค้นหาความแข็งแกร่งในทุกสถานการณ์.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620675"
+    },
+    {
+      "english": "Let your spirit shine through.",
+      "thai": "ปล่อยให้จิตวิญญาณของคุณเปล่งประกาย.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620677"
+    },
+    {
+      "english": "You are a source of strength.",
+      "thai": "คุณคือแหล่งพลัง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620680"
+    },
+    {
+      "english": "Cultivate a strong mindset.",
+      "thai": "สร้างกรอบความคิดที่แข็งแกร่ง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620682"
+    },
+    {
+      "english": "Your inner strength will guide you.",
+      "thai": "พลังภายในของคุณจะนำทางคุณ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620684"
+    },
+    {
+      "english": "Stand tall, even when it's tough.",
+      "thai": "ยืนหยัดไว้, แม้ว่ามันจะยาก.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620686"
+    },
+    {
+      "english": "You have the power to change things.",
+      "thai": "คุณมีอำนาจที่จะเปลี่ยนแปลงสิ่งต่างๆ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620688"
+    },
+    {
+      "english": "Keep your head up, stay positive.",
+      "thai": "เชิดหน้าเข้าไว้, คิดบวกเสมอ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620690"
+    },
+    {
+      "english": "Your perseverance is admirable.",
+      "thai": "ความอดทนของคุณน่าชื่นชม.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620692"
+    },
+    {
+      "english": "You can weather any storm.",
+      "thai": "คุณสามารถผ่านพายุได้ทุกอย่าง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620694"
+    },
+    {
+      "english": "Strength comes from within.",
+      "thai": "ความแข็งแกร่งมาจากข้างใน.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620696"
+    },
+    {
+      "english": "Believe you are strong enough.",
+      "thai": "เชื่อว่าคุณแข็งแกร่งพอ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620698"
+    },
+    {
+      "english": "You are a force to be reckoned with.",
+      "thai": "คุณคือพลังที่ต้องจับตามอง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620699"
+    },
+    {
+      "english": "Tap into your inner reserves.",
+      "thai": "ดึงพลังสำรองที่ซ่อนอยู่ของคุณออกมา.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620701"
+    },
+    {
+      "english": "Your resolve is unbreakable.",
+      "thai": "ความเด็ดเดี่ยวของคุณไม่สั่นคลอน.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620703"
+    },
+    {
+      "english": "Feel your own power, inside.",
+      "thai": "สัมผัสพลังของตัวเอง, ข้างใน.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620705"
+    },
+    {
+      "english": "This feeling, it's pure strength.",
+      "thai": "ความรู้สึกนี้, คือพลังที่แท้จริง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620708"
+    },
+    {
+      "english": "Patience, builds deep strength.",
+      "thai": "ความอดทน, สร้างความแข็งแกร่งที่ลึกซึ้ง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620711"
+    },
+    {
+      "english": "Reflect, on how far you've come.",
+      "thai": "ลองทบทวน, ว่ามาไกลแค่ไหนแล้ว.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620713"
+    },
+    {
+      "english": "Honesty, with yourself, is strength.",
+      "thai": "ความซื่อสัตย์, กับตัวเอง, คือความเข้มแข็ง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620715"
+    },
+    {
+      "english": "Your quiet strength, is powerful.",
+      "thai": "ความแข็งแกร่งเงียบๆ ของคุณ, ทรงพลังมาก.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620717"
+    },
+    {
+      "english": "What do you truly feel now?",
+      "thai": "ตอนนี้คุณรู้สึกอะไรจริงๆ?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620719"
+    },
+    {
+      "english": "Allow yourself, to be vulnerable.",
+      "thai": "ปล่อยให้ตัวเอง, อ่อนแอได้บ้าง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620721"
+    },
+    {
+      "english": "That vulnerability, is a strength too.",
+      "thai": "ความอ่อนแอนั้น, ก็เป็นความเข้มแข็งเหมือนกัน.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620723"
+    },
+    {
+      "english": "Trust your intuition, it's strong.",
+      "thai": "เชื่อสัญชาตญาณของคุณ, มันแข็งแกร่ง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620725"
+    },
+    {
+      "english": "Deep breaths, bring inner calm.",
+      "thai": "หายใจลึกๆ, นำมาซึ่งความสงบภายใน.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620727"
+    },
+    {
+      "english": "This moment, you are strong enough.",
+      "thai": "ช่วงเวลานี้, คุณแข็งแกร่งพอแล้ว.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620731"
+    },
+    {
+      "english": "Don't rush growth, let it happen.",
+      "thai": "อย่าเร่งการเติบโต, ปล่อยให้มันเกิดขึ้น.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620733"
+    },
+    {
+      "english": "True strength, is being authentic.",
+      "thai": "ความแข็งแกร่งที่แท้จริง, คือการเป็นตัวของตัวเอง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620735"
+    },
+    {
+      "english": "What does your heart tell you?",
+      "thai": "หัวใจของคุณบอกอะไร?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620737"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "thai": "ฟังเสียงข้างในของคุณ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620740"
+    },
+    {
+      "english": "Strength means accepting, who you are.",
+      "thai": "ความแข็งแกร่งหมายถึงการยอมรับ, ว่าคุณเป็นใคร.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620742"
+    },
+    {
+      "english": "This quiet resilience, is powerful.",
+      "thai": "ความอดทนเงียบๆ นี้, ทรงพลัง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620744"
+    },
+    {
+      "english": "Let go, of what doesn't serve.",
+      "thai": "ปล่อยวาง, สิ่งที่ไม่จำเป็น.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620746"
+    },
+    {
+      "english": "Forgiveness, is a strong act.",
+      "thai": "การให้อภัย, คือการกระทำที่แข็งแกร่ง.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620749"
+    },
+    {
+      "english": "Your feelings, are valid, okay?",
+      "thai": "ความรู้สึกของคุณ, มีเหตุผล, โอเคไหม?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620751"
+    },
+    {
+      "english": "Embrace your emotions, fully.",
+      "thai": "โอบกอดอารมณ์ของคุณ, อย่างเต็มที่.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620753"
+    },
+    {
+      "english": "Strength is knowing, your limits.",
+      "thai": "ความแข็งแกร่งคือการรู้, ขีดจำกัดของคุณ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620755"
+    },
+    {
+      "english": "Be kind to yourself, always.",
+      "thai": "ใจดีกับตัวเอง, เสมอ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620757"
+    },
+    {
+      "english": "This quiet confidence, grows.",
+      "thai": "ความมั่นใจเงียบๆ นี้, เติบโตขึ้น.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620759"
+    },
+    {
+      "english": "Your journey, is your strength.",
+      "thai": "เส้นทางของคุณ, คือความแข็งแกร่งของคุณ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620760"
+    },
+    {
+      "english": "What truly matters, to you?",
+      "thai": "อะไรสำคัญกับคุณจริงๆ?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620762"
+    },
+    {
+      "english": "Inner peace, is a great strength.",
+      "thai": "ความสงบภายใน, คือความแข็งแกร่งที่ยิ่งใหญ่.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620764"
+    },
+    {
+      "english": "This inner calm, is your power.",
+      "thai": "ความสงบภายในนี้, คือพลังของคุณ.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620766"
+    },
+    {
+      "english": "Be brave, try something new.",
+      "thai": "กล้าหน่อย, ลองอะไรใหม่ๆ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620768"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "thai": "ขอความช่วยเหลือ, ไม่เป็นไรนะ",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620770"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger.",
+      "thai": "เรียนรู้จากผิดพลาด, แข็งแกร่งขึ้น",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620772"
+    },
+    {
+      "english": "What's your plan for today?",
+      "thai": "วันนี้มีแผนอะไรบ้าง?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620774"
+    },
+    {
+      "english": "Take it one step at a time.",
+      "thai": "ค่อยๆ ทำไปทีละขั้น",
+      "category": "Strength",
+      "generated_at": "2026-10-20T08:05:52.620776"
     }
   ],
-  "last_updated": "2026-10-19T08:21:09.655468"
+  "last_updated": "2026-10-20T08:05:52.620778"
 }

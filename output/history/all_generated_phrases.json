@@ -2879,7 +2879,727 @@
       "thai": "ค่อยๆ ทำไปทีละขั้น",
       "category": "Strength",
       "generated_at": "2026-10-20T08:05:52.620776"
+    },
+    {
+      "english": "Wisdom comes, with experience.",
+      "thai": "ปัญญาเกิด, จากประสบการณ์",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494292"
+    },
+    {
+      "english": "Learn from mistakes, always.",
+      "thai": "เรียนรู้จากความผิดพลาด, เสมอ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494306"
+    },
+    {
+      "english": "Patience is, a virtue.",
+      "thai": "ความอดทน, คือคุณธรรม",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494310"
+    },
+    {
+      "english": "Think before, you speak.",
+      "thai": "คิดก่อน, พูดเสมอ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494313"
+    },
+    {
+      "english": "Knowledge is, power.",
+      "thai": "ความรู้, คือพลัง",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494316"
+    },
+    {
+      "english": "Be humble, always.",
+      "thai": "ถ่อมตน, ไว้เสมอ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494319"
+    },
+    {
+      "english": "Seek truth, diligently.",
+      "thai": "แสวงหาความจริง, อย่างตั้งใจ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494322"
+    },
+    {
+      "english": "Open mind, open heart.",
+      "thai": "ใจกว้าง, รับฟัง",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494327"
+    },
+    {
+      "english": "Understand first, then speak.",
+      "thai": "เข้าใจก่อน, ค่อยพูด",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494331"
+    },
+    {
+      "english": "True wisdom, is knowing, you know nothing.",
+      "thai": "ปราชญ์แท้, คือรู้ว่า, ไม่รู้อะไรเลย",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494412"
+    },
+    {
+      "english": "Observe, and learn.",
+      "thai": "สังเกต, และเรียนรู้",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494415"
+    },
+    {
+      "english": "Silence is, golden.",
+      "thai": "ความเงียบ, มีค่า",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494418"
+    },
+    {
+      "english": "Reflect daily, on life.",
+      "thai": "ทบทวนชีวิต, ทุกวัน",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494421"
+    },
+    {
+      "english": "Choose your words, wisely.",
+      "thai": "เลือกคำพูด, อย่างฉลาด",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494426"
+    },
+    {
+      "english": "Seek knowledge, everywhere.",
+      "thai": "หาความรู้, ทุกที่",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494429"
+    },
+    {
+      "english": "Wisdom is, not for sale.",
+      "thai": "ปัญญา, ซื้อขายไม่ได้",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494431"
+    },
+    {
+      "english": "Be present, in the moment.",
+      "thai": "อยู่กับปัจจุบัน, ให้เต็มที่",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494434"
+    },
+    {
+      "english": "Empathy, is wisdom.",
+      "thai": "ความเห็นอกเห็นใจ, คือปัญญา",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494437"
+    },
+    {
+      "english": "Wisdom guides, your actions.",
+      "thai": "ปัญญา, นำทางชีวิต",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494441"
+    },
+    {
+      "english": "Ask questions, to understand.",
+      "thai": "ถามคำถาม, เพื่อเข้าใจ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494444"
+    },
+    {
+      "english": "Learn from, the elders.",
+      "thai": "เรียนรู้, จากผู้ใหญ่",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494446"
+    },
+    {
+      "english": "True wealth, is wisdom.",
+      "thai": "ความมั่งคั่งที่แท้จริง, คือปัญญา",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494449"
+    },
+    {
+      "english": "Think deeply, act calmly.",
+      "thai": "คิดลึก, ทำนิ่ง",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494451"
+    },
+    {
+      "english": "Wisdom lights, the path.",
+      "thai": "ปัญญา, ส่องทาง",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494454"
+    },
+    {
+      "english": "Be wise, with your time.",
+      "thai": "ใช้เวลา, อย่างชาญฉลาด",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494456"
+    },
+    {
+      "english": "Inner peace, brings wisdom.",
+      "thai": "ความสงบภายใน, นำมาซึ่งปัญญา",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494459"
+    },
+    {
+      "english": "Live and, learn.",
+      "thai": "ใช้ชีวิต, และเรียนรู้",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494462"
+    },
+    {
+      "english": "What's your best advice, for a beginner?",
+      "thai": "มีคำแนะนำดีๆ, สำหรับมือใหม่บ้างไหมครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494465"
+    },
+    {
+      "english": "What's the secret, to happiness?",
+      "thai": "ความสุข, มีเคล็ดลับอะไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494468"
+    },
+    {
+      "english": "Can you share, a lesson learned?",
+      "thai": "เล่าบทเรียนที่ได้เรียนรู้, ให้ฟังหน่อยได้ไหมครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494471"
+    },
+    {
+      "english": "What's something, you find surprising?",
+      "thai": "มีอะไรที่ทำให้คุณ, ประหลาดใจบ้างครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494474"
+    },
+    {
+      "english": "How do you handle, difficult people?",
+      "thai": "รับมือกับคนยากๆ, ยังไงครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494477"
+    },
+    {
+      "english": "What's your perspective, on change?",
+      "thai": "คุณมองเรื่องการเปลี่ยนแปลง, ว่าอย่างไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494480"
+    },
+    {
+      "english": "Is it worth it, to pursue dreams?",
+      "thai": "การไล่ตามความฝัน, มันคุ้มค่าไหมครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494482"
+    },
+    {
+      "english": "What's a common misunderstanding, about life?",
+      "thai": "อะไรคือความเข้าใจผิด, ทั่วไปเกี่ยวกับชีวิตครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494485"
+    },
+    {
+      "english": "How do you find, inner peace?",
+      "thai": "คุณค้นหาความสงบในใจ, ได้อย่างไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494488"
+    },
+    {
+      "english": "What advice, would you give yourself?",
+      "thai": "คุณจะแนะนำอะไร, ให้กับตัวเองครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494491"
+    },
+    {
+      "english": "What's your take, on success?",
+      "thai": "คุณมีความเห็นอย่างไร, เกี่ยวกับความสำเร็จครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494494"
+    },
+    {
+      "english": "Do you believe, in fate?",
+      "thai": "คุณเชื่อ, ในโชคชะตาไหมครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494496"
+    },
+    {
+      "english": "What's a simple joy, you appreciate?",
+      "thai": "ความสุขง่ายๆ, ที่คุณชื่นชมคืออะไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494504"
+    },
+    {
+      "english": "How do you deal, with failure?",
+      "thai": "คุณจัดการกับความล้มเหลว, อย่างไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494507"
+    },
+    {
+      "english": "What makes a good, relationship?",
+      "thai": "อะไรทำให้ความสัมพันธ์, ดีครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494512"
+    },
+    {
+      "english": "Is it important, to forgive?",
+      "thai": "การให้อภัย, เป็นสิ่งสำคัญไหมครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494517"
+    },
+    {
+      "english": "What's a valuable lesson, from nature?",
+      "thai": "บทเรียนอันมีค่า, จากธรรมชาติคืออะไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494520"
+    },
+    {
+      "english": "How do you find, motivation?",
+      "thai": "คุณหาแรงบันดาลใจ, ได้อย่างไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494523"
+    },
+    {
+      "english": "What's the best way, to help others?",
+      "thai": "วิธีที่ดีที่สุด, ในการช่วยเหลือผู้อื่นคืออะไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494526"
+    },
+    {
+      "english": "Do you think, we control our lives?",
+      "thai": "คุณคิดว่า, เราควบคุมชีวิตตัวเองได้ไหมครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494528"
+    },
+    {
+      "english": "What's a simple truth, everyone knows?",
+      "thai": "ความจริงง่ายๆ, ที่ทุกคนรู้คืออะไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494531"
+    },
+    {
+      "english": "How do you define, success?",
+      "thai": "คุณนิยามคำว่าสำเร็จ, ว่าอย่างไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494534"
+    },
+    {
+      "english": "What's a good way, to start the day?",
+      "thai": "วิธีที่ดีในการเริ่มต้นวัน, คืออะไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494537"
+    },
+    {
+      "english": "Can we learn, from animals?",
+      "thai": "เราเรียนรู้, จากสัตว์ได้ไหมครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494541"
+    },
+    {
+      "english": "What's your hope, for the future?",
+      "thai": "ความหวังของคุณ, สำหรับอนาคตคืออะไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494544"
+    },
+    {
+      "english": "How do you show, gratitude?",
+      "thai": "คุณแสดงความขอบคุณ, อย่างไรครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494547"
+    },
+    {
+      "english": "Is it better, to give or receive?",
+      "thai": "การให้, หรือการรับ, อะไรดีกว่ากันครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494549"
+    },
+    {
+      "english": "What's a common mistake, people make?",
+      "thai": "อะไรคือความผิดพลาด, ทั่วไปที่คนเราทำครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494552"
+    },
+    {
+      "english": "What makes life, meaningful?",
+      "thai": "อะไรทำให้ชีวิต, มีความหมายครับ/คะ?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494555"
+    },
+    {
+      "english": "Believe in yourself, it's the first step.",
+      "thai": "เชื่อมั่นในตัวเอง, คือก้าวแรก.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494558"
+    },
+    {
+      "english": "Your effort, is never wasted.",
+      "thai": "ความพยายามของคุณ, ไม่สูญเปล่า.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494561"
+    },
+    {
+      "english": "Every challenge, makes you grow.",
+      "thai": "ทุกอุปสรรค, ทำให้เราเติบโต.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494563"
+    },
+    {
+      "english": "Good job, keep it up!",
+      "thai": "ทำได้ดีมาก, สู้ๆ!",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494566"
+    },
+    {
+      "english": "Positive thoughts, attract good things.",
+      "thai": "คิดบวก, สิ่งดีๆ ก็จะตามมา.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494569"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "thai": "ศักยภาพของคุณ, ไร้ขีดจำกัด.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494572"
+    },
+    {
+      "english": "Be proud, of your progress.",
+      "thai": "ภูมิใจ, กับความก้าวหน้า.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494575"
+    },
+    {
+      "english": "Small steps, lead to big results.",
+      "thai": "ก้าวเล็กๆ, นำไปสู่ผลลัพธ์ใหญ่.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494577"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "thai": "คุณทำได้แน่นอน.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494580"
+    },
+    {
+      "english": "Celebrate, your victories.",
+      "thai": "เฉลิมฉลอง, ชัยชนะของคุณ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494583"
+    },
+    {
+      "english": "Your attitude, determines everything.",
+      "thai": "ทัศนคติของคุณ, กำหนดทุกสิ่ง.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494586"
+    },
+    {
+      "english": "Never underestimate, your own power.",
+      "thai": "อย่าดูถูก, พลังตัวเอง.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494589"
+    },
+    {
+      "english": "Tomorrow is a new chance.",
+      "thai": "พรุ่งนี้, เป็นโอกาสใหม่.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494591"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "thai": "เชิดหน้าไว้, เสมอ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494594"
+    },
+    {
+      "english": "Focus on, the good.",
+      "thai": "จดจ่อ, กับสิ่งดีๆ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494597"
+    },
+    {
+      "english": "What a great effort!",
+      "thai": "สุดยอดความพยายาม!",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494599"
+    },
+    {
+      "english": "You shine, brightly.",
+      "thai": "คุณเปล่งประกาย, สดใส.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494602"
+    },
+    {
+      "english": "Don't be afraid, to try.",
+      "thai": "อย่ากลัว, ที่จะลอง.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494607"
+    },
+    {
+      "english": "You make, a difference.",
+      "thai": "คุณสร้าง, ความแตกต่าง.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494610"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "thai": "คิดบวกไว้, แข็งแกร่งไว้.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494613"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "thai": "เส้นทางของคุณ, ไม่เหมือนใคร.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494615"
+    },
+    {
+      "english": "You inspire, many people.",
+      "thai": "คุณสร้างแรงบันดาลใจ, ให้หลายคน.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494618"
+    },
+    {
+      "english": "Take a deep breath, and continue.",
+      "thai": "หายใจลึกๆ, แล้วลุยต่อ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494620"
+    },
+    {
+      "english": "Success is, on its way.",
+      "thai": "ความสำเร็จ, กำลังจะมา.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494623"
+    },
+    {
+      "english": "Patience, is a rare gem.",
+      "thai": "ความอดทน, คืออัญมณีล้ำค่า",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494626"
+    },
+    {
+      "english": "Honesty, costs nothing.",
+      "thai": "ความซื่อสัตย์, ไม่ได้เสียอะไร",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494628"
+    },
+    {
+      "english": "True feelings, are hard to hide.",
+      "thai": "ความรู้สึกที่แท้จริง, ซ่อนไว้ไม่อยู่",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494633"
+    },
+    {
+      "english": "Reflect often, learn more.",
+      "thai": "ทบทวนบ่อยๆ, จะได้เรียนรู้",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494635"
+    },
+    {
+      "english": "Empathy, bridges hearts.",
+      "thai": "ความเห็นอกเห็นใจ, เชื่อมใจคน",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494638"
+    },
+    {
+      "english": "Understanding, takes time.",
+      "thai": "ความเข้าใจ, ต้องใช้เวลา",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494641"
+    },
+    {
+      "english": "Sincerity, is always beautiful.",
+      "thai": "ความจริงใจ, งามเสมอ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494643"
+    },
+    {
+      "english": "Accept flaws, find peace.",
+      "thai": "ยอมรับข้อบกพร่อง, พบความสงบ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494646"
+    },
+    {
+      "english": "Inner peace, starts within.",
+      "thai": "ความสงบใจ, เริ่มที่ใจเรา",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494649"
+    },
+    {
+      "english": "Wisdom, grows with experience.",
+      "thai": "ปัญญา, เกิดจากประสบการณ์",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494651"
+    },
+    {
+      "english": "Listen to your heart, carefully.",
+      "thai": "ฟังเสียงหัวใจ, ให้ดีนะ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494654"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "thai": "ใจดี, กับตัวเองด้วยนะ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494656"
+    },
+    {
+      "english": "Vulnerability, shows strength.",
+      "thai": "ความอ่อนแอ, แสดงความเข้มแข็ง",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494659"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "thai": "การให้อภัย, ปลดปล่อยเรา",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494662"
+    },
+    {
+      "english": "Let go, of what hurts.",
+      "thai": "ปล่อยวาง, สิ่งที่ทำให้เจ็บ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494665"
+    },
+    {
+      "english": "Cherish moments, like treasures.",
+      "thai": "เก็บเกี่ยวเวลา, ดั่งสมบัติ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494667"
+    },
+    {
+      "english": "Authenticity, is attractive.",
+      "thai": "ความเป็นตัวเอง, มีเสน่ห์",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494670"
+    },
+    {
+      "english": "Speak your truth, gently.",
+      "thai": "บอกความจริง, อย่างนุ่มนวล",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494673"
+    },
+    {
+      "english": "Self-awareness, is key.",
+      "thai": "การรู้จักตัวเอง, คือหัวใจ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494677"
+    },
+    {
+      "english": "Don't judge, too quickly.",
+      "thai": "อย่าเพิ่งตัดสิน, เร็วเกินไป",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494680"
+    },
+    {
+      "english": "Humility, is true greatness.",
+      "thai": "ความถ่อมตน, คือความยิ่งใหญ่",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494682"
+    },
+    {
+      "english": "Kindness, echoes forever.",
+      "thai": "ความเมตตา, ก้องกังวานนิรันดร์",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494685"
+    },
+    {
+      "english": "Gratitude, fills the heart.",
+      "thai": "ความกตัญญู, เติมเต็มใจ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494688"
+    },
+    {
+      "english": "What you feel, is valid.",
+      "thai": "ความรู้สึกเธอ, มีค่าเสมอ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494690"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "thai": "แสดงออก, อย่างอิสระ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494693"
+    },
+    {
+      "english": "A calm mind, sees clearly.",
+      "thai": "จิตใจสงบ, มองเห็นชัด",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494697"
+    },
+    {
+      "english": "Share your feelings, it helps.",
+      "thai": "เล่าความรู้สึก, มันช่วยได้",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494700"
+    },
+    {
+      "english": "Trust your intuition, always.",
+      "thai": "เชื่อสัญชาตญาณ, ของเธอไว้",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494703"
+    },
+    {
+      "english": "Love yourself, first and foremost.",
+      "thai": "รักตัวเอง, สำคัญที่สุด",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494706"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "thai": "ฟังให้มาก, พูดให้น้อย",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494708"
+    },
+    {
+      "english": "Observe carefully, then decide.",
+      "thai": "สังเกตให้ดี, แล้วค่อยตัดสินใจ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494711"
+    },
+    {
+      "english": "Help others, when you can.",
+      "thai": "ช่วยเหลือคนอื่น, เมื่อทำได้",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494714"
+    },
+    {
+      "english": "Be resourceful, find solutions.",
+      "thai": "รู้จักพลิกแพลง, หาทางออก",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494716"
+    },
+    {
+      "english": "Adapt to new situations, easily.",
+      "thai": "ปรับตัวเข้ากับสถานการณ์ใหม่, ได้ง่าย",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494722"
+    },
+    {
+      "english": "A little effort, makes a big difference.",
+      "thai": "ความพยายามเล็กน้อย, สร้างความเปลี่ยนแปลงใหญ่",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494725"
+    },
+    {
+      "english": "Share what you have, generously.",
+      "thai": "แบ่งปันสิ่งที่มี, อย่างใจกว้าง",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494728"
+    },
+    {
+      "english": "Stay calm, in tough times.",
+      "thai": "ใจเย็นไว้, ในช่วงเวลาลำบาก",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494731"
+    },
+    {
+      "english": "Respect elders, and their advice.",
+      "thai": "เคารพผู้ใหญ่, และคำแนะนำของท่าน",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494733"
+    },
+    {
+      "english": "Be open-minded, to new ideas.",
+      "thai": "เปิดใจกว้าง, รับฟังความคิดใหม่ๆ",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494736"
+    },
+    {
+      "english": "Manage your time, wisely.",
+      "thai": "จัดการเวลา, อย่างฉลาด",
+      "category": "Wisdom",
+      "generated_at": "2026-10-21T08:11:00.494739"
     }
   ],
-  "last_updated": "2026-10-20T08:05:52.620778"
+  "last_updated": "2026-10-21T08:11:00.494741"
 }

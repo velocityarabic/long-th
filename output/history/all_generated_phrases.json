@@ -3599,7 +3599,727 @@
       "thai": "จัดการเวลา, อย่างฉลาด",
       "category": "Wisdom",
       "generated_at": "2026-10-21T08:11:00.494739"
+    },
+    {
+      "english": "Sorry, my mistake.",
+      "thai": "ขอโทษครับ/ค่ะ, ผม/ฉันผิดเอง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092906"
+    },
+    {
+      "english": "I didn't mean to,",
+      "thai": "ผม/ฉันไม่ได้ตั้งใจ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092924"
+    },
+    {
+      "english": "Please forgive me.",
+      "thai": "ได้โปรดให้อภัยผม/ฉัน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092928"
+    },
+    {
+      "english": "My apologies.",
+      "thai": "ขออภัยด้วยครับ/ค่ะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092932"
+    },
+    {
+      "english": "It was an accident.",
+      "thai": "มันเป็นอุบัติเหตุครับ/ค่ะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092936"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "thai": "หวังว่าคุณจะให้อภัยผม/ฉันได้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092940"
+    },
+    {
+      "english": "I'm really sorry.",
+      "thai": "ผม/ฉันเสียใจจริงๆ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092943"
+    },
+    {
+      "english": "Can you let it go?",
+      "thai": "คุณยกโทษให้ได้ไหม",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092949"
+    },
+    {
+      "english": "Don't be angry.",
+      "thai": "อย่าโกรธเลยนะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092953"
+    },
+    {
+      "english": "It won't happen again.",
+      "thai": "จะไม่เกิดขึ้นอีก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092957"
+    },
+    {
+      "english": "I understand why you're upset.",
+      "thai": "ผม/ฉันเข้าใจว่าทำไมคุณถึงไม่พอใจ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092960"
+    },
+    {
+      "english": "Let's forget about it.",
+      "thai": "เราลืมเรื่องนี้กันเถอะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092963"
+    },
+    {
+      "english": "I take full responsibility.",
+      "thai": "ผม/ฉันรับผิดชอบทั้งหมด",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092966"
+    },
+    {
+      "english": "Is everything okay?",
+      "thai": "ทุกอย่างโอเคไหม",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092969"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "thai": "ผม/ฉันทำพลาดไป ขอโทษ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092972"
+    },
+    {
+      "english": "Please don't hold a grudge.",
+      "thai": "อย่าถือโทษโกรธเคืองกันเลย",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092976"
+    },
+    {
+      "english": "It's all good now.",
+      "thai": "ตอนนี้ทุกอย่างเรียบร้อยแล้ว",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092979"
+    },
+    {
+      "english": "I feel terrible about it.",
+      "thai": "ผม/ฉันรู้สึกแย่มากกับเรื่องนี้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092982"
+    },
+    {
+      "english": "Can we move past this?",
+      "thai": "เราจะก้าวข้ามเรื่องนี้ไปได้ไหม",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092985"
+    },
+    {
+      "english": "I owe you an apology.",
+      "thai": "ผม/ฉันเป็นหนี้คำขอโทษคุณ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092988"
+    },
+    {
+      "english": "Consider it forgiven.",
+      "thai": "ถือว่าให้อภัยแล้วกัน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092991"
+    },
+    {
+      "english": "I'm so embarrassed.",
+      "thai": "ผม/ฉันอายจริงๆ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092994"
+    },
+    {
+      "english": "No hard feelings, right?",
+      "thai": "ไม่ถือสาอะไรกันนะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.092997"
+    },
+    {
+      "english": "I regret my actions.",
+      "thai": "ผม/ฉันเสียใจกับการกระทำของผม/ฉัน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093000"
+    },
+    {
+      "english": "Let's start fresh.",
+      "thai": "เรามาเริ่มต้นกันใหม่",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093004"
+    },
+    {
+      "english": "I hope you accept my apology.",
+      "thai": "หวังว่าคุณจะยอมรับคำขอโทษของผม/ฉัน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093007"
+    },
+    {
+      "english": "Sorry for the inconvenience.",
+      "thai": "ขอโทษที่ทำให้ลำบาก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093010"
+    },
+    {
+      "english": "Can we make up?",
+      "thai": "เราคืนดีกันได้ไหม",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093013"
+    },
+    {
+      "english": "I value our friendship.",
+      "thai": "ผม/ฉันให้ความสำคัญกับมิตรภาพของเรา",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093016"
+    },
+    {
+      "english": "Forgive and forget.",
+      "thai": "ให้อภัยและลืมมันไป",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093019"
+    },
+    {
+      "english": "Can we talk about this, later?",
+      "thai": "เราคุยเรื่องนี้กันได้ไหม, ตอนหลัง?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093024"
+    },
+    {
+      "english": "What do you think, about this?",
+      "thai": "คุณคิดยังไง, กับเรื่องนี้?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093028"
+    },
+    {
+      "english": "How can I make it up, to you?",
+      "thai": "ฉันจะทำยังไง, ให้คุณหายโกรธ?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093032"
+    },
+    {
+      "english": "Did I offend you, somehow?",
+      "thai": "ฉันไปทำอะไรให้คุณ, ไม่พอใจหรือเปล่า?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093036"
+    },
+    {
+      "english": "Is there something, I can do?",
+      "thai": "มีอะไร, ที่ฉันพอจะช่วยได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093039"
+    },
+    {
+      "english": "Are you still upset, about it?",
+      "thai": "คุณยังโกรธ, เรื่องนั้นอยู่ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093044"
+    },
+    {
+      "english": "Can you explain, what happened?",
+      "thai": "คุณช่วยอธิบาย, ว่าเกิดอะไรขึ้นได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093047"
+    },
+    {
+      "english": "What would help, you feel better?",
+      "thai": "อะไรจะช่วย, ให้คุณรู้สึกดีขึ้น?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093051"
+    },
+    {
+      "english": "Do you need, some space?",
+      "thai": "คุณต้องการ, เวลาส่วนตัวหรือเปล่า?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093054"
+    },
+    {
+      "english": "Can we find, a solution together?",
+      "thai": "เราหาทางออก, ด้วยกันได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093057"
+    },
+    {
+      "english": "What's the best way, to fix this?",
+      "thai": "วิธีที่ดีที่สุด, ที่จะแก้ไขเรื่องนี้?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093061"
+    },
+    {
+      "english": "Can you give me, advice on this?",
+      "thai": "คุณให้คำแนะนำ, ฉันเกี่ยวกับเรื่องนี้ได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093065"
+    },
+    {
+      "english": "What are your thoughts, on moving forward?",
+      "thai": "คุณคิดยังไง, กับการก้าวต่อไป?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093068"
+    },
+    {
+      "english": "Is there anything, else I should know?",
+      "thai": "มีอะไรอีกไหม, ที่ฉันควรรู้?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093071"
+    },
+    {
+      "english": "Can we agree, on this?",
+      "thai": "เราตกลงกันได้ไหม, เรื่องนี้?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093074"
+    },
+    {
+      "english": "What's on your mind, really?",
+      "thai": "อะไรอยู่ในใจคุณ, จริงๆ?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093078"
+    },
+    {
+      "english": "How do you feel, about us?",
+      "thai": "คุณรู้สึกยังไง, กับความสัมพันธ์เรา?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093081"
+    },
+    {
+      "english": "Can you tell me, your perspective?",
+      "thai": "คุณบอกมุมมองของคุณ, ให้ฉันฟังได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093084"
+    },
+    {
+      "english": "What's important, to you now?",
+      "thai": "อะไรสำคัญ, สำหรับคุณตอนนี้?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093087"
+    },
+    {
+      "english": "Are we good, now?",
+      "thai": "เราโอเคกันแล้วใช่ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093091"
+    },
+    {
+      "english": "Can you help me, understand better?",
+      "thai": "คุณช่วยให้ฉัน, เข้าใจมากขึ้นได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093094"
+    },
+    {
+      "english": "What do you need, from me?",
+      "thai": "คุณต้องการอะไร, จากฉัน?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093097"
+    },
+    {
+      "english": "Can we clear the air, please?",
+      "thai": "เรามาเคลียร์ๆ กันได้ไหม, คะ/ครับ?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093102"
+    },
+    {
+      "english": "How can we reconnect, properly?",
+      "thai": "เราจะกลับมาสนิทกัน, อย่างถูกต้องได้อย่างไร?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093105"
+    },
+    {
+      "english": "What needs to change, for you?",
+      "thai": "อะไรที่ต้องเปลี่ยน, สำหรับคุณ?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093108"
+    },
+    {
+      "english": "Can you trust me, again?",
+      "thai": "คุณจะเชื่อใจฉัน, ได้อีกครั้งไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093111"
+    },
+    {
+      "english": "What's the path, forward?",
+      "thai": "เส้นทางข้างหน้า, เป็นอย่างไร?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093114"
+    },
+    {
+      "english": "Can we rebuild, our trust?",
+      "thai": "เราจะสร้างความเชื่อใจ, กันใหม่ได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093117"
+    },
+    {
+      "english": "What's your hope, for us?",
+      "thai": "ความหวังของคุณ, สำหรับเราคืออะไร?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093121"
+    },
+    {
+      "english": "I believe in you, always.",
+      "thai": "ฉันเชื่อในตัวคุณ, เสมอ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093124"
+    },
+    {
+      "english": "Your effort is appreciated.",
+      "thai": "ความพยายามของคุณ, น่าชื่นชม",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093127"
+    },
+    {
+      "english": "That's a wonderful idea!",
+      "thai": "เป็นความคิดที่ดีเยี่ยมเลย!",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093130"
+    },
+    {
+      "english": "You have a good heart.",
+      "thai": "คุณเป็นคนจิตใจดี",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093133"
+    },
+    {
+      "english": "Don't be too hard on yourself.",
+      "thai": "อย่าเข้มงวดกับตัวเองเกินไป",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093136"
+    },
+    {
+      "english": "Focus on the positive, always.",
+      "thai": "จงมองหาแต่สิ่งดีๆ, เสมอ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093139"
+    },
+    {
+      "english": "Every mistake is a lesson.",
+      "thai": "ทุกความผิดพลาดคือบทเรียน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093143"
+    },
+    {
+      "english": "Choose peace, over anger.",
+      "thai": "เลือกความสงบ, ดีกว่าความโกรธ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093147"
+    },
+    {
+      "english": "Let go, and be free.",
+      "thai": "ปล่อยวาง, แล้วเป็นอิสระ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093152"
+    },
+    {
+      "english": "You are worthy, of love.",
+      "thai": "คุณคู่ควร, กับความรัก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093155"
+    },
+    {
+      "english": "This too, shall pass.",
+      "thai": "เรื่องนี้, ก็จะผ่านไป",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093162"
+    },
+    {
+      "english": "You're learning and growing.",
+      "thai": "คุณกำลังเรียนรู้, และเติบโต",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093166"
+    },
+    {
+      "english": "That was very insightful.",
+      "thai": "นั่นเป็นข้อมูลเชิงลึกมาก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093169"
+    },
+    {
+      "english": "You have great potential.",
+      "thai": "คุณมีศักยภาพมาก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093172"
+    },
+    {
+      "english": "Keep an open mind.",
+      "thai": "เปิดใจกว้างๆ ไว้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093178"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "thai": "มุมมองของคุณ, มีค่า",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093181"
+    },
+    {
+      "english": "Embrace the journey.",
+      "thai": "โอบรับการเดินทางนี้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093184"
+    },
+    {
+      "english": "You handled that well.",
+      "thai": "คุณจัดการเรื่องนั้นได้ดี",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093187"
+    },
+    {
+      "english": "Think positive, feel positive.",
+      "thai": "คิดบวก, รู้สึกบวก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093190"
+    },
+    {
+      "english": "Let healing begin now.",
+      "thai": "ให้การเยียวยา, เริ่มต้นตอนนี้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093198"
+    },
+    {
+      "english": "You deserve happiness.",
+      "thai": "คุณสมควรได้รับความสุข",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093201"
+    },
+    {
+      "english": "Believe in second chances.",
+      "thai": "เชื่อในโอกาสครั้งที่สอง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093204"
+    },
+    {
+      "english": "Let go of the past.",
+      "thai": "ปล่อยวางอดีตเสีย",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093207"
+    },
+    {
+      "english": "Sending you good vibes.",
+      "thai": "ส่งพลังบวกให้คุณ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093210"
+    },
+    {
+      "english": "Your heart is pure.",
+      "thai": "ใจของคุณบริสุทธิ์",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093212"
+    },
+    {
+      "english": "Time heals wounds, slowly, but surely.",
+      "thai": "เวลาเยียวยาทุกสิ่ง, ช้าๆ, แต่แน่นอน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093216"
+    },
+    {
+      "english": "Let's give this, a real chance.",
+      "thai": "เราให้โอกาสนี้, อย่างจริงจังกันเถอะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093220"
+    },
+    {
+      "english": "I'm trying to understand, your pain.",
+      "thai": "ฉันพยายามเข้าใจ, ความเจ็บปวดของคุณ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093224"
+    },
+    {
+      "english": "Patience is key, for moving on.",
+      "thai": "ความอดทนคือกุญแจ, สู่การก้าวต่อไป",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093227"
+    },
+    {
+      "english": "We both made mistakes, didn't we?",
+      "thai": "เราทั้งคู่ทำผิดพลาด, ใช่ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093231"
+    },
+    {
+      "english": "My feelings are complicated, right now.",
+      "thai": "ความรู้สึกฉันซับซ้อน, ตอนนี้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093234"
+    },
+    {
+      "english": "Can we just, be honest with each other?",
+      "thai": "เราแค่, พูดความจริงต่อกันได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093238"
+    },
+    {
+      "english": "It takes courage, to forgive completely.",
+      "thai": "ต้องใช้ความกล้าหาญ, เพื่อให้อภัยอย่างแท้จริง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093242"
+    },
+    {
+      "english": "I need time, to process this.",
+      "thai": "ฉันต้องการเวลา, เพื่อจัดการเรื่องนี้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093245"
+    },
+    {
+      "english": "Holding grudges, hurts no one else.",
+      "thai": "การแบกความแค้น, ทำร้ายใครอื่นไม่",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093250"
+    },
+    {
+      "english": "Let's start fresh, with understanding.",
+      "thai": "เริ่มต้นใหม่กัน, ด้วยความเข้าใจ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093253"
+    },
+    {
+      "english": "My heart feels lighter, now.",
+      "thai": "ใจฉันรู้สึกเบาขึ้น, ตอนนี้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093257"
+    },
+    {
+      "english": "What truly matters, is moving forward.",
+      "thai": "สิ่งสำคัญจริงๆ, คือการก้าวไปข้างหน้า",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093260"
+    },
+    {
+      "english": "I'm working on myself, truly.",
+      "thai": "ฉันกำลังพัฒนาตัวเอง, อย่างแท้จริง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093263"
+    },
+    {
+      "english": "Let's focus on, what we share.",
+      "thai": "มาโฟกัสกันที่, สิ่งที่เรามีร่วมกัน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093267"
+    },
+    {
+      "english": "Forgiveness is, a gift to yourself.",
+      "thai": "การให้อภัยคือ, ของขวัญให้ตัวเอง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093273"
+    },
+    {
+      "english": "Can we agree, to try harder?",
+      "thai": "เราตกลงกัน, จะพยายามให้มากขึ้นได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093277"
+    },
+    {
+      "english": "Your honesty helps, a lot.",
+      "thai": "ความซื่อสัตย์ของคุณช่วย, ได้มาก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093280"
+    },
+    {
+      "english": "Let's rebuild, brick by brick.",
+      "thai": "มาสร้างใหม่กัน, ทีละก้อน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093284"
+    },
+    {
+      "english": "I'm learning, to let go.",
+      "thai": "ฉันกำลังเรียนรู้, ที่จะปล่อยวาง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093287"
+    },
+    {
+      "english": "Our shared future, matters most.",
+      "thai": "อนาคตร่วมกันของเรา, สำคัญที่สุด",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093290"
+    },
+    {
+      "english": "I value your feelings, deeply.",
+      "thai": "ฉันให้ค่าความรู้สึกของคุณ, อย่างลึกซึ้ง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093294"
+    },
+    {
+      "english": "Can we reset, and start again?",
+      "thai": "เราจะเริ่มใหม่, และเริ่มต้นอีกครั้งได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093297"
+    },
+    {
+      "english": "This requires, a lot of grace.",
+      "thai": "เรื่องนี้ต้องการ, ความเมตตาอย่างมาก",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093300"
+    },
+    {
+      "english": "I forgive you, truly from my heart.",
+      "thai": "ฉันให้อภัยคุณ, จากใจจริง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093303"
+    },
+    {
+      "english": "Let's find common ground, again.",
+      "thai": "มาหาจุดร่วมกัน, อีกครั้ง",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093308"
+    },
+    {
+      "english": "Moving past this, is our goal.",
+      "thai": "การก้าวข้ามเรื่องนี้, คือเป้าหมายของเรา",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093311"
+    },
+    {
+      "english": "I'm committed, to healing.",
+      "thai": "ฉันมุ่งมั่น, ที่จะเยียวยา",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093314"
+    },
+    {
+      "english": "Let understanding, guide us now.",
+      "thai": "ให้ความเข้าใจ, นำทางเราตอนนี้",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093317"
+    },
+    {
+      "english": "Mistakes happen, let's move on.",
+      "thai": "คนเราก็ผิดพลาดกันได้, ไปกันต่อเถอะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093321"
+    },
+    {
+      "english": "Let's not dwell, on what's done.",
+      "thai": "อย่าไปคิดมาก, กับเรื่องที่ผ่านไปแล้ว",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093325"
+    },
+    {
+      "english": "Can we be friends, again?",
+      "thai": "เรากลับมาเป็นเพื่อนกัน, ได้ไหม?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093328"
+    },
+    {
+      "english": "I accept your apology, thank you.",
+      "thai": "ฉันยอมรับคำขอโทษ, ขอบคุณนะ",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093331"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "thai": "ไม่โกรธกันแล้วนะ, โอเค?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093335"
+    },
+    {
+      "english": "Let's just forget, and laugh about it.",
+      "thai": "ลืมๆ มันไป, แล้วหัวเราะกันดีกว่า",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093338"
+    },
+    {
+      "english": "Life's too short, to be angry.",
+      "thai": "ชีวิตสั้นเกินไป, ที่จะมาโกรธกัน",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T08:26:34.093341"
     }
   ],
-  "last_updated": "2026-10-21T08:11:00.494741"
+  "last_updated": "2026-10-22T08:26:34.093344"
 }

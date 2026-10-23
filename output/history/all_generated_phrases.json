@@ -4319,7 +4319,727 @@
       "thai": "ชีวิตสั้นเกินไป, ที่จะมาโกรธกัน",
       "category": "Forgiveness",
       "generated_at": "2026-10-22T08:26:34.093341"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "thai": "อย่าเพิ่งท้อนะ, ลองต่อไป",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874422"
+    },
+    {
+      "english": "It's tough, but you can do it.",
+      "thai": "มันยากนะ, แต่เธอทำได้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874436"
+    },
+    {
+      "english": "One step at a time.",
+      "thai": "ทีละก้าวเล็กๆ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874440"
+    },
+    {
+      "english": "Hang in there, it will pass.",
+      "thai": "อดทนไว้นะ, มันจะผ่านไป",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874443"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "thai": "ไปต่อเลย, อย่าหยุดตอนนี้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874446"
+    },
+    {
+      "english": "This is a challenge, right?",
+      "thai": "นี่คือความท้าทาย, ใช่ไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874449"
+    },
+    {
+      "english": "Slowly but surely.",
+      "thai": "ช้าๆ แต่แน่นอน",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874452"
+    },
+    {
+      "english": "You're almost there.",
+      "thai": "เธอใกล้จะถึงแล้ว",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874457"
+    },
+    {
+      "english": "Just a little more effort.",
+      "thai": "อีกนิดเดียวก็สำเร็จ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874461"
+    },
+    {
+      "english": "Don't get discouraged, please.",
+      "thai": "อย่าเพิ่งเสียกำลังใจนะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874464"
+    },
+    {
+      "english": "Persistence pays off, you know.",
+      "thai": "ความพยายามคุ้มค่านะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874467"
+    },
+    {
+      "english": "Let's try again, okay?",
+      "thai": "ลองอีกครั้งนะ, ได้ไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874470"
+    },
+    {
+      "english": "It takes time, be patient.",
+      "thai": "ต้องใช้เวลา, อดทนหน่อย",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874474"
+    },
+    {
+      "english": "Push through the difficulty.",
+      "thai": "ฝ่าฟันความยากลำบากไป",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874477"
+    },
+    {
+      "english": "Don't let it beat you.",
+      "thai": "อย่าให้มันเอาชนะเธอ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874479"
+    },
+    {
+      "english": "We can overcome this.",
+      "thai": "เราจะผ่านมันไปได้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874482"
+    },
+    {
+      "english": "Stay strong, my friend.",
+      "thai": "เข้มแข็งไว้นะ, เพื่อน",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874485"
+    },
+    {
+      "english": "Every effort counts.",
+      "thai": "ทุกความพยายามมีความหมาย",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874487"
+    },
+    {
+      "english": "Keep your head up.",
+      "thai": "เชิดหน้าเข้าไว้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874490"
+    },
+    {
+      "english": "Don't give up hope.",
+      "thai": "อย่าหมดหวังนะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874492"
+    },
+    {
+      "english": "We learn from mistakes.",
+      "thai": "เราเรียนรู้จากความผิดพลาด",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874495"
+    },
+    {
+      "english": "Keep your focus steady.",
+      "thai": "รักษาสมาธิไว้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874497"
+    },
+    {
+      "english": "This is just a setback.",
+      "thai": "นี่เป็นแค่อุปสรรคชั่วคราว",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874500"
+    },
+    {
+      "english": "Never surrender, always fight.",
+      "thai": "อย่า ยอมแพ้, สู้เสมอ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874504"
+    },
+    {
+      "english": "Let's keep pushing, together.",
+      "thai": "เรามาสู้ต่อไปด้วยกัน",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874507"
+    },
+    {
+      "english": "It's worth the struggle.",
+      "thai": "มันคุ้มค่ากับความเหนื่อยนะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874510"
+    },
+    {
+      "english": "Don't quit, believe in yourself.",
+      "thai": "อย่าเลิกนะ, เชื่อมั่นในตัวเอง",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874513"
+    },
+    {
+      "english": "Keep at it, you're strong.",
+      "thai": "ทำต่อไปนะ, เธอแข็งแกร่ง",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874516"
+    },
+    {
+      "english": "We can overcome any obstacle.",
+      "thai": "เราจะเอาชนะทุกอุปสรรคได้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874519"
+    },
+    {
+      "english": "What's your secret, really?",
+      "thai": "เคล็ดลับของคุณคืออะไร, จริงๆ?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874522"
+    },
+    {
+      "english": "Any tips for overcoming doubt?",
+      "thai": "มีเคล็ดลับในการเอาชนะความสงสัยไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874525"
+    },
+    {
+      "english": "What if I feel like quitting?",
+      "thai": "ถ้าฉันรู้สึกอยากยอมแพ้ล่ะ?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874527"
+    },
+    {
+      "english": "Can you share some advice, please?",
+      "thai": "คุณช่วยแนะนำหน่อยได้ไหม, กรุณา?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874530"
+    },
+    {
+      "english": "When it gets hard, what then?",
+      "thai": "พอเจอมันยาก, แล้วทำไงต่อ?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874534"
+    },
+    {
+      "english": "Do you ever get tired of trying?",
+      "thai": "คุณเคยเหนื่อยกับการพยายามบ้างไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874536"
+    },
+    {
+      "english": "What helps you bounce back, fast?",
+      "thai": "อะไรช่วยให้คุณกลับมาได้เร็ว?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874539"
+    },
+    {
+      "english": "Do you believe in second chances?",
+      "thai": "คุณเชื่อในโอกาสครั้งที่สองไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874542"
+    },
+    {
+      "english": "What's your perspective on failure?",
+      "thai": "คุณมองความล้มเหลวว่าอย่างไร?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874545"
+    },
+    {
+      "english": "How do you keep your spirits up?",
+      "thai": "คุณรักษากำลังใจตัวเองอย่างไร?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874547"
+    },
+    {
+      "english": "What if progress feels very slow?",
+      "thai": "ถ้าความคืบหน้ามันช้ามากจะทำไง?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874551"
+    },
+    {
+      "english": "Can we learn from difficult times?",
+      "thai": "เราเรียนรู้จากช่วงเวลายากลำบากได้ไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874554"
+    },
+    {
+      "english": "What keeps you going, through it all?",
+      "thai": "อะไรทำให้คุณสู้ต่อไป, ผ่านทุกอย่าง?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874559"
+    },
+    {
+      "english": "Do you think it's worth it, eventually?",
+      "thai": "คุณคิดว่ามันคุ้มค่า, ในที่สุดไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874562"
+    },
+    {
+      "english": "What's the first step, when stuck?",
+      "thai": "ก้าวแรกคืออะไร, เมื่อติดขัด?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874565"
+    },
+    {
+      "english": "Do you prefer to work alone or together?",
+      "thai": "คุณชอบทำงานคนเดียวหรือด้วยกัน?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874568"
+    },
+    {
+      "english": "What motivates you the most, today?",
+      "thai": "อะไรกระตุ้นคุณมากที่สุด, วันนี้?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874570"
+    },
+    {
+      "english": "How do you pick yourself up, after falling?",
+      "thai": "คุณลุกขึ้นได้อย่างไร, หลังล้ม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874573"
+    },
+    {
+      "english": "Is patience a virtue, you agree?",
+      "thai": "ความอดทนเป็นคุณธรรม, คุณเห็นด้วยไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874576"
+    },
+    {
+      "english": "What if the goal seems impossible?",
+      "thai": "ถ้าเป้าหมายดูเหมือนเป็นไปไม่ได้ล่ะ?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874578"
+    },
+    {
+      "english": "Can we learn from others' struggles?",
+      "thai": "เราเรียนรู้จากความยากลำบากของคนอื่นได้ไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874581"
+    },
+    {
+      "english": "What's your biggest lesson learned?",
+      "thai": "บทเรียนที่ใหญ่ที่สุดที่คุณได้รับคืออะไร?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874584"
+    },
+    {
+      "english": "How do you manage expectations, realistically?",
+      "thai": "คุณจัดการความคาดหวังอย่างสมเหตุสมผลอย่างไร?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874587"
+    },
+    {
+      "english": "Do you believe in your own strength?",
+      "thai": "คุณเชื่อในความแข็งแกร่งของตัวเองไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874589"
+    },
+    {
+      "english": "What's your strategy for tough times?",
+      "thai": "กลยุทธ์ของคุณสำหรับช่วงเวลายากลำบากคืออะไร?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874592"
+    },
+    {
+      "english": "Every little step matters, you know.",
+      "thai": "ทุกก้าวเล็กๆ มีความหมายนะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874595"
+    },
+    {
+      "english": "Believe in your progress, slowly.",
+      "thai": "เชื่อมั่นในความก้าวหน้า, ช้าๆ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874599"
+    },
+    {
+      "english": "You've come so far already.",
+      "thai": "คุณมาไกลมากแล้วนะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874602"
+    },
+    {
+      "english": "Don't underestimate your own power.",
+      "thai": "อย่าดูถูกพลังของตัวเอง",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874606"
+    },
+    {
+      "english": "Think positive, stay determined.",
+      "thai": "คิดบวกเข้าไว้, ตั้งใจแน่วแน่",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874608"
+    },
+    {
+      "english": "Good job, keep that momentum.",
+      "thai": "เยี่ยมมาก, รักษาโมเมนตัมไว้นะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874611"
+    },
+    {
+      "english": "You're stronger than you realize.",
+      "thai": "คุณแข็งแกร่งกว่าที่คิดนะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874614"
+    },
+    {
+      "english": "This challenge will make you grow.",
+      "thai": "ความท้าทายนี้จะทำให้คุณเติบโต",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874617"
+    },
+    {
+      "english": "Your dedication is inspiring, really.",
+      "thai": "ความทุ่มเทของคุณน่าประทับใจจริงๆ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874620"
+    },
+    {
+      "english": "Keep nurturing that inner fire.",
+      "thai": "รักษาไฟในตัวคุณไว้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874623"
+    },
+    {
+      "english": "Success is often built on persistence.",
+      "thai": "ความสำเร็จมักสร้างจากความไม่ย่อท้อ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874625"
+    },
+    {
+      "english": "Proud of your hard work, always.",
+      "thai": "ภูมิใจในความขยันของคุณเสมอ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874628"
+    },
+    {
+      "english": "You can achieve your dreams, slowly.",
+      "thai": "คุณทำความฝันให้เป็นจริงได้, ทีละน้อย",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874631"
+    },
+    {
+      "english": "What a fantastic effort you've made.",
+      "thai": "คุณพยายามได้อย่างยอดเยี่ยมจริงๆ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874634"
+    },
+    {
+      "english": "Keep embracing the journey, forward.",
+      "thai": "โอบกอดการเดินทางต่อไปข้างหน้า",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874636"
+    },
+    {
+      "english": "Don't let small failures stop you.",
+      "thai": "อย่าให้ความล้มเหลวเล็กๆ หยุดคุณ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874639"
+    },
+    {
+      "english": "Keep that positive energy flowing.",
+      "thai": "รักษาพลังบวกนั้นไว้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874642"
+    },
+    {
+      "english": "Your resilience is very impressive.",
+      "thai": "ความสามารถในการฟื้นตัวของคุณน่าประทับใจมาก",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874646"
+    },
+    {
+      "english": "Push through, you've got this.",
+      "thai": "ผลักดันต่อไป, คุณทำได้",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874649"
+    },
+    {
+      "english": "Never doubt the power of trying.",
+      "thai": "อย่าสงสัยในพลังของการลองทำ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874652"
+    },
+    {
+      "english": "You're building something great, see?",
+      "thai": "คุณกำลังสร้างสิ่งที่ยิ่งใหญ่, เห็นไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874654"
+    },
+    {
+      "english": "One more try, it might work.",
+      "thai": "ลองอีกครั้ง, อาจจะสำเร็จนะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874657"
+    },
+    {
+      "english": "Your persistence is truly admirable.",
+      "thai": "ความเพียรของคุณน่าชื่นชมจริงๆ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874660"
+    },
+    {
+      "english": "Slowly, but surely, we get there.",
+      "thai": "ค่อยๆ ไป, แต่ถึงแน่.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874664"
+    },
+    {
+      "english": "Don't give up, just a little more.",
+      "thai": "อย่าเพิ่งท้อ, อีกนิดเดียว.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874667"
+    },
+    {
+      "english": "Even a small effort, counts.",
+      "thai": "ความพยายามนิดหน่อย, ก็สำคัญ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874670"
+    },
+    {
+      "english": "We learn from every stumble.",
+      "thai": "เราเรียนรู้, จากทุกก้าวพลาด.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874673"
+    },
+    {
+      "english": "Keep pushing forward, don't stop.",
+      "thai": "สู้ต่อไป, อย่าหยุด.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874675"
+    },
+    {
+      "english": "The reward is worth the struggle.",
+      "thai": "รางวัลคุ้มค่า, กับความเหนื่อย.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874678"
+    },
+    {
+      "english": "Little by little, the task finishes.",
+      "thai": "ทีละเล็กทีละน้อย, งานเสร็จ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874681"
+    },
+    {
+      "english": "Try again, don't lose hope.",
+      "thai": "ลองอีกครั้ง, อย่าหมดหวัง.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874684"
+    },
+    {
+      "english": "This journey, takes time.",
+      "thai": "การเดินทางนี้, ต้องใช้เวลา.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874687"
+    },
+    {
+      "english": "We rise after each fall.",
+      "thai": "ล้มแล้ว, ลุกให้เป็น.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874691"
+    },
+    {
+      "english": "Persistence, beats everything.",
+      "thai": "ความพากเพียร, ชนะทุกสิ่ง.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874694"
+    },
+    {
+      "english": "Keep the fire burning, inside.",
+      "thai": "อย่าดับไฟ, ในใจ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874696"
+    },
+    {
+      "english": "Every effort, builds towards success.",
+      "thai": "ทุกความพยายาม, สร้างสู่ความสำเร็จ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874699"
+    },
+    {
+      "english": "Don't get discouraged, easily.",
+      "thai": "อย่าเพิ่งท้อแท้, ง่ายๆ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874702"
+    },
+    {
+      "english": "Stay strong, through hardship.",
+      "thai": "เข้มแข็งไว้, ยามลำบาก.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874705"
+    },
+    {
+      "english": "The end goal, is near.",
+      "thai": "เป้าหมายสุดท้าย, ใกล้เข้ามา.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874708"
+    },
+    {
+      "english": "We learn to adapt, and continue.",
+      "thai": "เราเรียนรู้, ปรับตัว, และไปต่อ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874710"
+    },
+    {
+      "english": "Keep trying, with all your might.",
+      "thai": "พยายามต่อไป, ให้เต็มที่.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874713"
+    },
+    {
+      "english": "This is a test, of will.",
+      "thai": "นี่คือบททดสอบ, ของใจ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874716"
+    },
+    {
+      "english": "Your strength grows, with each challenge.",
+      "thai": "พลังคุณเพิ่มขึ้น, ทุกครั้งที่เจอ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874719"
+    },
+    {
+      "english": "Don't give up, on yourself.",
+      "thai": "อย่าทิ้ง, ตัวเอง.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874722"
+    },
+    {
+      "english": "Slow progress, is still progress.",
+      "thai": "ก้าวช้าๆ, ก็คือความก้าวหน้า.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874724"
+    },
+    {
+      "english": "Keep that determination, alive.",
+      "thai": "รักษาความมุ่งมั่น, ไว้.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874727"
+    },
+    {
+      "english": "We all face obstacles, sometimes.",
+      "thai": "เราทุกคนเจออุปสรรค, บ้าง.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874729"
+    },
+    {
+      "english": "Just one more step, you can.",
+      "thai": "อีกก้าวเดียว, คุณทำได้.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874732"
+    },
+    {
+      "english": "Never underestimate, persistence.",
+      "thai": "อย่าประมาท, ความเพียร.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874735"
+    },
+    {
+      "english": "Your resilience, shines through.",
+      "thai": "ความอดทนของคุณ, ฉายแสง.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874737"
+    },
+    {
+      "english": "Keep going, don't look back.",
+      "thai": "เดินหน้าต่อ, อย่ามองหลัง.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874740"
+    },
+    {
+      "english": "We learn the most, from difficulty.",
+      "thai": "เราเรียนรู้มากสุด, จากความยาก.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874748"
+    },
+    {
+      "english": "This tough time, will pass.",
+      "thai": "ช่วงเวลายากลำบาก, จะผ่านไป.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874750"
+    },
+    {
+      "english": "Try a new approach, if stuck.",
+      "thai": "ถ้าติด, ลองวิธีใหม่นะ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874753"
+    },
+    {
+      "english": "Break down big goals, into small steps.",
+      "thai": "แบ่งเป้าหมายใหญ่, เป็นขั้นเล็กๆ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874756"
+    },
+    {
+      "english": "Mistakes are learning chances, embrace them.",
+      "thai": "ผิดพลาดคือโอกาสเรียนรู้, ยอมรับมัน",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874759"
+    },
+    {
+      "english": "What's the easiest first step?",
+      "thai": "ก้าวแรกที่ง่ายที่สุดคืออะไร?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874762"
+    },
+    {
+      "english": "Just focus on today's task, right?",
+      "thai": "แค่โฟกัสงานวันนี้, ใช่ไหม?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874765"
+    },
+    {
+      "english": "Don't compare your progress, to others'.",
+      "thai": "อย่าเทียบความก้าวหน้า, กับคนอื่น",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874768"
+    },
+    {
+      "english": "Celebrate small wins, often.",
+      "thai": "ฉลองชัยชนะเล็กๆ, บ่อยๆ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874771"
+    },
+    {
+      "english": "It's okay to rest, then restart.",
+      "thai": "พักก่อนแล้วค่อยเริ่มใหม่, ไม่เป็นไร",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874774"
+    },
+    {
+      "english": "Think about why you started, again.",
+      "thai": "ลองคิดถึงเหตุผลที่เริ่ม, อีกที",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874777"
+    },
+    {
+      "english": "This difficulty, is temporary.",
+      "thai": "ความยากลำบากนี้, เป็นแค่ชั่วคราว",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874779"
+    },
+    {
+      "english": "Keep practicing, it gets easier.",
+      "thai": "ฝึกฝนไปเรื่อยๆ, มันจะง่ายขึ้น",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874782"
+    },
+    {
+      "english": "What can I control, right now?",
+      "thai": "ตอนนี้, อะไรที่ควบคุมได้บ้าง?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874786"
+    },
+    {
+      "english": "Remember past successes, they inspire.",
+      "thai": "จำความสำเร็จที่ผ่านมา, มันสร้างแรงบันดาลใจ",
+      "category": "Perseverance",
+      "generated_at": "2026-10-23T08:10:30.874789"
     }
   ],
-  "last_updated": "2026-10-22T08:26:34.093344"
+  "last_updated": "2026-10-23T08:10:30.874792"
 }

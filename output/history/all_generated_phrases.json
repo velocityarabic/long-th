@@ -6479,7 +6479,727 @@
       "thai": "อันนี้ต้องการความเก๋เพิ่มหน่อย",
       "category": "Creativity",
       "generated_at": "2026-10-25T07:59:51.984518"
+    },
+    {
+      "english": "That's a great idea, let's do it.",
+      "thai": "เป็นไอเดียที่ดีมาก, ไปกันเลย.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.941989"
+    },
+    {
+      "english": "This is going well, excellent progress.",
+      "thai": "นี่ไปได้สวย, ความคืบหน้ายอดเยี่ยม.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942004"
+    },
+    {
+      "english": "Congratulations, you've earned this.",
+      "thai": "ยินดีด้วย, คุณคู่ควรกับสิ่งนี้.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942007"
+    },
+    {
+      "english": "Well done, fantastic achievement.",
+      "thai": "ทำได้ดีมาก, ความสำเร็จที่ยอดเยี่ยม.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942009"
+    },
+    {
+      "english": "I'm so proud of you.",
+      "thai": "ฉันภูมิใจในตัวคุณมาก.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942012"
+    },
+    {
+      "english": "This is your moment, shine bright.",
+      "thai": "นี่คือช่วงเวลาของคุณ, จงเปล่งประกาย.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942014"
+    },
+    {
+      "english": "You're on the right track.",
+      "thai": "คุณมาถูกทางแล้ว.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942016"
+    },
+    {
+      "english": "Every step counts, keep moving.",
+      "thai": "ทุกย่างก้าวมีความหมาย, ก้าวต่อไป.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942021"
+    },
+    {
+      "english": "Your hard work paid off.",
+      "thai": "ความพากเพียรของคุณได้ผลแล้ว.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942023"
+    },
+    {
+      "english": "This is just the beginning.",
+      "thai": "นี่เป็นเพียงจุดเริ่มต้น.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942026"
+    },
+    {
+      "english": "You're making great strides.",
+      "thai": "คุณกำลังก้าวหน้าอย่างมาก.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942028"
+    },
+    {
+      "english": "Let's celebrate this victory.",
+      "thai": "มาฉลองชัยชนะนี้กัน.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942030"
+    },
+    {
+      "english": "You exceeded expectations.",
+      "thai": "คุณทำเกินความคาดหมาย.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942032"
+    },
+    {
+      "english": "Amazing effort, keep it up.",
+      "thai": "ความพยายามที่น่าทึ่ง, ทำต่อไป.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942034"
+    },
+    {
+      "english": "Success is within reach.",
+      "thai": "ความสำเร็จอยู่แค่เอื้อม.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942036"
+    },
+    {
+      "english": "This is a significant milestone.",
+      "thai": "นี่คือหมุดหมายสำคัญ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942038"
+    },
+    {
+      "english": "You handled it perfectly.",
+      "thai": "คุณจัดการมันได้อย่างสมบูรณ์แบบ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942040"
+    },
+    {
+      "english": "This outcome is fantastic.",
+      "thai": "ผลลัพธ์นี้ยอดเยี่ยมมาก.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942042"
+    },
+    {
+      "english": "You truly shine today.",
+      "thai": "วันนี้คุณเปล่งประกายอย่างแท้จริง.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942044"
+    },
+    {
+      "english": "Let's aim higher next time.",
+      "thai": "ครั้งต่อไปเราตั้งเป้าให้สูงขึ้น.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942046"
+    },
+    {
+      "english": "This proves your potential.",
+      "thai": "นี่พิสูจน์ศักยภาพของคุณ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942049"
+    },
+    {
+      "english": "You made it happen, wow!",
+      "thai": "คุณทำให้มันเกิดขึ้นได้, ว้าว!",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942053"
+    },
+    {
+      "english": "Keep that winning spirit.",
+      "thai": "รักษาจิตวิญญาณแห่งชัยชนะนั้นไว้.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942055"
+    },
+    {
+      "english": "This is a job well done.",
+      "thai": "นี่คืองานที่ทำได้ดี.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942057"
+    },
+    {
+      "english": "You've truly mastered this.",
+      "thai": "คุณเชี่ยวชาญสิ่งนี้อย่างแท้จริง.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942059"
+    },
+    {
+      "english": "What's your next plan?",
+      "thai": "แผนต่อไปของคุณคืออะไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942062"
+    },
+    {
+      "english": "How can I help you succeed?",
+      "thai": "ฉันจะช่วยให้คุณสำเร็จได้อย่างไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942064"
+    },
+    {
+      "english": "Any advice for me?",
+      "thai": "มีคำแนะนำอะไรให้ฉันบ้าง?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942068"
+    },
+    {
+      "english": "Is this the best way?",
+      "thai": "นี่เป็นวิธีที่ดีที่สุดแล้วหรือยัง?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942070"
+    },
+    {
+      "english": "Where should I focus now?",
+      "thai": "ตอนนี้ฉันควรจะโฟกัสที่ไหน?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942072"
+    },
+    {
+      "english": "Do you agree with this approach?",
+      "thai": "คุณเห็นด้วยกับแนวทางนี้ไหม?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942075"
+    },
+    {
+      "english": "What's the secret to your success?",
+      "thai": "เคล็ดลับความสำเร็จของคุณคืออะไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942077"
+    },
+    {
+      "english": "What’s your opinion on this?",
+      "thai": "คุณมีความเห็นอย่างไรกับเรื่องนี้?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942080"
+    },
+    {
+      "english": "What opportunities are there?",
+      "thai": "มีโอกาสอะไรบ้าง?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942082"
+    },
+    {
+      "english": "How do you overcome challenges?",
+      "thai": "คุณเอาชนะอุปสรรคได้อย่างไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942084"
+    },
+    {
+      "english": "What resources do we need?",
+      "thai": "เราต้องการทรัพยากรณ์อะไรบ้าง?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942086"
+    },
+    {
+      "english": "Shall we discuss this later?",
+      "thai": "เราค่อยมาคุยเรื่องนี้กันทีหลังไหม?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942089"
+    },
+    {
+      "english": "What's the biggest lesson learned?",
+      "thai": "บทเรียนที่ได้เรียนรู้มากที่สุดคืออะไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942091"
+    },
+    {
+      "english": "Can we collaborate on this?",
+      "thai": "เรามาร่วมมือกันในเรื่องนี้ได้ไหม?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942093"
+    },
+    {
+      "english": "What are your goals?",
+      "thai": "เป้าหมายของคุณคืออะไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942095"
+    },
+    {
+      "english": "Any feedback for improvement?",
+      "thai": "มีข้อเสนอแนะเพื่อการปรับปรุงไหม?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942096"
+    },
+    {
+      "english": "What's holding us back?",
+      "thai": "อะไรคือสิ่งที่ฉุดรั้งเราไว้?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942098"
+    },
+    {
+      "english": "What’s your vision?",
+      "thai": "วิสัยทัศน์ของคุณคืออะไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942101"
+    },
+    {
+      "english": "Is there another option?",
+      "thai": "มีทางเลือกอื่นอีกไหม?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942103"
+    },
+    {
+      "english": "What’s your strategy?",
+      "thai": "กลยุทธ์ของคุณคืออะไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942105"
+    },
+    {
+      "english": "Can we trust this source?",
+      "thai": "เราเชื่อถือแหล่งข้อมูลนี้ได้ไหม?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942107"
+    },
+    {
+      "english": "What's the potential impact?",
+      "thai": "ผลกระทบที่อาจเกิดขึ้นคืออะไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942109"
+    },
+    {
+      "english": "How do we measure success?",
+      "thai": "เราจะวัดความสำเร็จได้อย่างไร?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942111"
+    },
+    {
+      "english": "Your effort, it's amazing.",
+      "thai": "ความพยายามของคุณ, มันยอดเยี่ยมมาก",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942113"
+    },
+    {
+      "english": "You're doing so well, really.",
+      "thai": "คุณทำได้ดีมากจริงๆ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942116"
+    },
+    {
+      "english": "Such talent, you know?",
+      "thai": "พรสวรรค์แบบนี้, รู้ไหม?",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942118"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "thai": "เชื่อมั่นในตัวเอง, เสมอ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942120"
+    },
+    {
+      "english": "This progress is impressive.",
+      "thai": "ความคืบหน้านี้, น่าประทับใจ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942124"
+    },
+    {
+      "english": "You've got this, totally.",
+      "thai": "คุณทำได้แน่นอน",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942128"
+    },
+    {
+      "english": "Your dedication, it shows.",
+      "thai": "ความทุ่มเทของคุณ, มันแสดงออก",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942133"
+    },
+    {
+      "english": "You're a natural learner.",
+      "thai": "คุณเรียนรู้ได้เป็นธรรมชาติ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942135"
+    },
+    {
+      "english": "Keep that fire burning.",
+      "thai": "รักษาไฟนั้นไว้",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942137"
+    },
+    {
+      "english": "Your potential, it's huge.",
+      "thai": "ศักยภาพของคุณ, มันมหาศาล",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942140"
+    },
+    {
+      "english": "This is great work, really.",
+      "thai": "นี่เป็นงานที่ดีมากจริงๆ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942142"
+    },
+    {
+      "english": "Your confidence, admirable.",
+      "thai": "ความมั่นใจของคุณ, น่าชื่นชม",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942144"
+    },
+    {
+      "english": "You inspire me, honestly.",
+      "thai": "คุณสร้างแรงบันดาลใจให้ฉัน, บอกตรงๆ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942146"
+    },
+    {
+      "english": "You handle pressure well.",
+      "thai": "คุณรับมือกับความกดดันได้ดี",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942148"
+    },
+    {
+      "english": "This success is well-deserved.",
+      "thai": "ความสำเร็จนี้, สมควรได้รับแล้ว",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942151"
+    },
+    {
+      "english": "You're a quick study.",
+      "thai": "คุณเป็นคนที่เรียนรู้เร็ว",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942153"
+    },
+    {
+      "english": "Your determination, fantastic.",
+      "thai": "ความมุ่งมั่นของคุณ, เยี่ยมมาก",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942155"
+    },
+    {
+      "english": "You make it look easy.",
+      "thai": "คุณทำให้มันดูง่าย",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942157"
+    },
+    {
+      "english": "This is truly your moment.",
+      "thai": "นี่คือช่วงเวลาของคุณอย่างแท้จริง",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942159"
+    },
+    {
+      "english": "You're breaking new ground.",
+      "thai": "คุณกำลังบุกเบิกสิ่งใหม่",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942161"
+    },
+    {
+      "english": "Your focus, sharp as ever.",
+      "thai": "สมาธิของคุณ, เฉียบคมเหมือนเคย",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942163"
+    },
+    {
+      "english": "You're growing so much.",
+      "thai": "คุณกำลังเติบโตขึ้นมาก",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942166"
+    },
+    {
+      "english": "This is a great achievement.",
+      "thai": "นี่คือความสำเร็จที่ยิ่งใหญ่",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942168"
+    },
+    {
+      "english": "You're a true problem-solver.",
+      "thai": "คุณคือผู้แก้ปัญหาตัวจริง",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942170"
+    },
+    {
+      "english": "Your persistence pays off.",
+      "thai": "ความอุตสาหะของคุณ, ได้ผลตอบแทน",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942172"
+    },
+    {
+      "english": "You're exceeding yourself.",
+      "thai": "คุณกำลังก้าวข้ามขีดจำกัดของตัวเอง",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942174"
+    },
+    {
+      "english": "This is a testament to you.",
+      "thai": "นี่คือข้อพิสูจน์ถึงตัวคุณ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942176"
+    },
+    {
+      "english": "You're truly capable.",
+      "thai": "คุณมีความสามารถอย่างแท้จริง",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942177"
+    },
+    {
+      "english": "Never doubt your skills.",
+      "thai": "อย่าสงสัยในทักษะของคุณเลย",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942179"
+    },
+    {
+      "english": "Climb the mountain, reach the peak.",
+      "thai": "ปีนภูเขา, ถึงยอดเขา",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942182"
+    },
+    {
+      "english": "Plant the seed, watch it grow.",
+      "thai": "ปลูกเมล็ด, ดูให้โต",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942184"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "thai": "ช้าๆ, ชนะแน่นอน",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942186"
+    },
+    {
+      "english": "Every drop, fills the ocean.",
+      "thai": "ทุกหยด, เติมเต็มมหาสมุทร",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942190"
+    },
+    {
+      "english": "Don't fear falling, just get up.",
+      "thai": "อย่ากลัวล้ม, ลุกขึ้นมา",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942192"
+    },
+    {
+      "english": "Build the foundation, strong and deep.",
+      "thai": "สร้างรากฐาน, ให้แข็งแรง",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942194"
+    },
+    {
+      "english": "Taste the bitterness, then sweetness.",
+      "thai": "ขมก่อน, หวานตามมา",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942196"
+    },
+    {
+      "english": "Follow your heart's true calling.",
+      "thai": "ตามเสียงหัวใจ, ที่เรียกหา",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942200"
+    },
+    {
+      "english": "A small step, a big journey.",
+      "thai": "ก้าวเล็กๆ, คือการเดินทางใหญ่",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942203"
+    },
+    {
+      "english": "Chase the dream, don't delay.",
+      "thai": "ไล่ตามฝัน, อย่ารอช้า",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942205"
+    },
+    {
+      "english": "Learn from mistakes, move forward.",
+      "thai": "เรียนรู้ผิด, ก้าวต่อไป",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942207"
+    },
+    {
+      "english": "Success, a journey, not destination.",
+      "thai": "ความสำเร็จ, คือการเดินทาง",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942209"
+    },
+    {
+      "english": "The effort, it will pay off.",
+      "thai": "ความพยายาม, จะได้ผล",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942211"
+    },
+    {
+      "english": "Keep your eyes, on the prize.",
+      "thai": "จับตาดู, รางวัลไว้",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942214"
+    },
+    {
+      "english": "From zero, to hero, you go.",
+      "thai": "จากศูนย์, เป็นฮีโร่, คุณทำได้",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942216"
+    },
+    {
+      "english": "The best is yet to come.",
+      "thai": "สิ่งที่ดีที่สุด, ยังรออยู่",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942218"
+    },
+    {
+      "english": "A wise person, learns from all.",
+      "thai": "คนฉลาด, เรียนรู้จากทุกคน",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942220"
+    },
+    {
+      "english": "Sow good deeds, reap rewards.",
+      "thai": "ทำดี, ย่อมได้ดี",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942222"
+    },
+    {
+      "english": "Forge ahead, with courage.",
+      "thai": "ก้าวไปข้างหน้า, ด้วยความกล้า",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942224"
+    },
+    {
+      "english": "Every challenge, is a lesson.",
+      "thai": "ทุกความท้าทาย, คือบทเรียน",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942226"
+    },
+    {
+      "english": "Believe in the process, unfold.",
+      "thai": "เชื่อมั่นในกระบวนการ, แล้วจะเห็นผล",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942228"
+    },
+    {
+      "english": "Go the extra mile, always.",
+      "thai": "พยายามให้เกินร้อย, เสมอ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942230"
+    },
+    {
+      "english": "Turn obstacles, into stepping stones.",
+      "thai": "เปลี่ยนอุปสรรค, เป็นบันได",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942232"
+    },
+    {
+      "english": "Focus your energy, on the goal.",
+      "thai": "รวมพลัง, ไปที่เป้าหมาย",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942234"
+    },
+    {
+      "english": "The fruit of labor, is sweet.",
+      "thai": "ผลของแรงงาน, ช่างหอมหวาน",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942236"
+    },
+    {
+      "english": "Keep pushing forward, strong and true.",
+      "thai": "ผลักดันต่อไป, แข็งแกร่งและจริงใจ",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942238"
+    },
+    {
+      "english": "Success is earned, not given.",
+      "thai": "ความสำเร็จ, ต้องสร้างขึ้น",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942240"
+    },
+    {
+      "english": "The journey shapes, the destination.",
+      "thai": "การเดินทาง, หล่อหลอมปลายทาง",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942242"
+    },
+    {
+      "english": "Daily practice, makes perfect, really.",
+      "thai": "ฝึกฝนทุกวัน, ทำให้เก่ง, จริงๆ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942244"
+    },
+    {
+      "english": "Observe locals, learn their ways, naturally.",
+      "thai": "สังเกตคนท้องถิ่น, เรียนรู้วิถี, เป็นธรรมชาติ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942247"
+    },
+    {
+      "english": "Don't be afraid, to make mistakes.",
+      "thai": "อย่ากลัว, ที่จะทำผิดพลาด.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942250"
+    },
+    {
+      "english": "Try a little, every single day.",
+      "thai": "ลองทำนิดหน่อย, ทุกๆ วัน.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942252"
+    },
+    {
+      "english": "Connect with people, make good friends.",
+      "thai": "สร้างสัมพันธ์, กับผู้คน, หาเพื่อนที่ดี.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942254"
+    },
+    {
+      "english": "Patience is key, for real fluency.",
+      "thai": "ความอดทน, คือกุญแจ, สู่ความคล่อง.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942256"
+    },
+    {
+      "english": "Find your niche, practice there often.",
+      "thai": "หาแนวทางที่ชอบ, ฝึกฝนบ่อยๆ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942260"
+    },
+    {
+      "english": "Immerse yourself, in the language.",
+      "thai": "ให้ตัวเอง, ซึมซับภาษา.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942262"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "thai": "ฉลองชัยชนะเล็กๆ, รักษาแรงใจ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942264"
+    },
+    {
+      "english": "Ask 'why', understand the context.",
+      "thai": "ถามว่า 'ทำไม', เข้าใจบริบท.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942266"
+    },
+    {
+      "english": "Use gestures, help yourself communicate.",
+      "thai": "ใช้ท่าทาง, ช่วยให้สื่อสาร.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942268"
+    },
+    {
+      "english": "Review past lessons, reinforce learning.",
+      "thai": "ทบทวนบทเรียนเก่า, เสริมการเรียนรู้.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942272"
+    },
+    {
+      "english": "Be curious, ask many questions.",
+      "thai": "อยากรู้อยู่เสมอ, ถามเยอะๆ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942274"
+    },
+    {
+      "english": "Adapt to situations, learn on the go.",
+      "thai": "ปรับตัวตามสถานการณ์, เรียนรู้ไปเรื่อยๆ.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942276"
+    },
+    {
+      "english": "Don't give up, persist with effort.",
+      "thai": "อย่าเพิ่งยอมแพ้, พยายามต่อไป.",
+      "category": "Success",
+      "generated_at": "2026-10-26T09:41:54.942280"
     }
   ],
-  "last_updated": "2026-10-25T07:59:51.984520"
+  "last_updated": "2026-10-26T09:41:54.942282"
 }

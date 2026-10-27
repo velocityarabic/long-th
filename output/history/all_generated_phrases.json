@@ -7199,7 +7199,727 @@
       "thai": "อย่าเพิ่งยอมแพ้, พยายามต่อไป.",
       "category": "Success",
       "generated_at": "2026-10-26T09:41:54.942280"
+    },
+    {
+      "english": "Help, please,",
+      "thai": "ช่วยด้วยครับ/ค่ะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682151"
+    },
+    {
+      "english": "I need a doctor,",
+      "thai": "ผม/ฉันต้องการหมอ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682164"
+    },
+    {
+      "english": "Is there a hospital nearby?",
+      "thai": "โรงพยาบาลอยู่ใกล้ๆ ไหมครับ/คะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682167"
+    },
+    {
+      "english": "I'm not feeling well,",
+      "thai": "ผม/ฉันรู้สึกไม่สบาย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682168"
+    },
+    {
+      "english": "It hurts here,",
+      "thai": "เจ็บตรงนี้ครับ/ค่ะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682170"
+    },
+    {
+      "english": "I'm having trouble breathing,",
+      "thai": "ผม/ฉันหายใจไม่ออก",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682173"
+    },
+    {
+      "english": "Call an ambulance,",
+      "thai": "เรียกรถพยาบาล",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682175"
+    },
+    {
+      "english": "I've lost consciousness,",
+      "thai": "ผม/ฉันหมดสติ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682179"
+    },
+    {
+      "english": "Is anyone a doctor?",
+      "thai": "มีใครเป็นหมอบ้างไหมครับ/คะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682181"
+    },
+    {
+      "english": "I have an allergy,",
+      "thai": "ผม/ฉันแพ้อะไรบางอย่าง",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682183"
+    },
+    {
+      "english": "Can I have some water?",
+      "thai": "ขอน้ำหน่อยครับ/ค่ะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682185"
+    },
+    {
+      "english": "I feel dizzy,",
+      "thai": "ผม/ฉันเวียนหัว",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682186"
+    },
+    {
+      "english": "My stomach hurts,",
+      "thai": "ปวดท้องครับ/ค่ะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682188"
+    },
+    {
+      "english": "I've cut myself,",
+      "thai": "ผม/ฉันบาดเจ็บ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682190"
+    },
+    {
+      "english": "Is this medicine safe?",
+      "thai": "ยานี้ปลอดภัยไหมครับ/คะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682191"
+    },
+    {
+      "english": "I need a bandage,",
+      "thai": "ผม/ฉันต้องการผ้าพันแผล",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682193"
+    },
+    {
+      "english": "I've fainted,",
+      "thai": "ผม/ฉันเป็นลม",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682194"
+    },
+    {
+      "english": "Where is the emergency room?",
+      "thai": "ห้องฉุกเฉินอยู่ไหนครับ/คะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682196"
+    },
+    {
+      "english": "I have a fever,",
+      "thai": "ผม/ฉันเป็นไข้",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682197"
+    },
+    {
+      "english": "Don't move,",
+      "thai": "อยู่นิ่งๆ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682199"
+    },
+    {
+      "english": "I need a wheelchair,",
+      "thai": "ผม/ฉันต้องการรถเข็น",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682200"
+    },
+    {
+      "english": "Is it serious?",
+      "thai": "อาการหนักไหมครับ/คะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682202"
+    },
+    {
+      "english": "I have a headache,",
+      "thai": "ปวดหัวครับ/ค่ะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682203"
+    },
+    {
+      "english": "Can you help me sit up?",
+      "thai": "ช่วยผม/ฉันนั่งขึ้นหน่อย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682205"
+    },
+    {
+      "english": "I'm feeling nauseous,",
+      "thai": "ผม/ฉันคลื่นไส้",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682207"
+    },
+    {
+      "english": "I need to lie down,",
+      "thai": "ผม/ฉันขอนอนพัก",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682208"
+    },
+    {
+      "english": "What happened?",
+      "thai": "เกิดอะไรขึ้น",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682209"
+    },
+    {
+      "english": "I have chest pain,",
+      "thai": "เจ็บหน้าอก",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682212"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "thai": "ร้านยาอยู่ใกล้ๆ ไหมครับ/คะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682234"
+    },
+    {
+      "english": "Take deep breaths,",
+      "thai": "หายใจลึกๆ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682235"
+    },
+    {
+      "english": "What should I do now?,",
+      "thai": "ตอนนี้ควรทำอย่างไรดีครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682237"
+    },
+    {
+      "english": "Can you call for help?,",
+      "thai": "ช่วยเรียกคนมาหน่อยได้ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682239"
+    },
+    {
+      "english": "Is there a nurse here?,",
+      "thai": "มีพยาบาลอยู่ที่นี่ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682241"
+    },
+    {
+      "english": "What is the problem?,",
+      "thai": "มีปัญหาอะไรครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682244"
+    },
+    {
+      "english": "Can you explain this?,",
+      "thai": "อธิบายอันนี้ให้ฟังหน่อยได้ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682246"
+    },
+    {
+      "english": "Is this serious?,",
+      "thai": "อาการนี้หนักไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682248"
+    },
+    {
+      "english": "When did this start?,",
+      "thai": "มันเริ่มเป็นตั้งแต่เมื่อไหร่ครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682250"
+    },
+    {
+      "english": "Can you show me?,",
+      "thai": "คุณช่วยชี้ให้ดูหน่อยได้ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682252"
+    },
+    {
+      "english": "Where is the nearest clinic?,",
+      "thai": "คลินิกที่ใกล้ที่สุดอยู่ที่ไหนครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682253"
+    },
+    {
+      "english": "Can I lie down here?,",
+      "thai": "ผมนอนตรงนี้ได้ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682255"
+    },
+    {
+      "english": "Do you have any pain medication?,",
+      "thai": "มียาแก้ปวดให้หน่อยไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682257"
+    },
+    {
+      "english": "How long will this take?,",
+      "thai": "จะต้องใช้เวลานานแค่ไหนครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682259"
+    },
+    {
+      "english": "Can you get me a blanket?,",
+      "thai": "ช่วยเอาผ้าห่มมาให้หน่อยได้ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682261"
+    },
+    {
+      "english": "What are the side effects?,",
+      "thai": "มีผลข้างเคียงอะไรบ้างครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682270"
+    },
+    {
+      "english": "Can you check my blood pressure?,",
+      "thai": "ช่วยวัดความดันให้หน่อยได้ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682271"
+    },
+    {
+      "english": "I need to see a specialist.,",
+      "thai": "ผม/ฉันต้องการพบแพทย์ผู้เชี่ยวชาญครับ/คะ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682274"
+    },
+    {
+      "english": "Is this an emergency?,",
+      "thai": "นี่เป็นเรื่องฉุกเฉินหรือเปล่าครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682276"
+    },
+    {
+      "english": "I feel very weak.,",
+      "thai": "ผม/ฉันรู้สึกอ่อนเพลียมากครับ/คะ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682277"
+    },
+    {
+      "english": "What is this symptom?,",
+      "thai": "อาการนี้คืออะไรครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682279"
+    },
+    {
+      "english": "Can you speak slower?,",
+      "thai": "ช่วยพูดช้าลงหน่อยได้ไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682281"
+    },
+    {
+      "english": "I'm a bit scared.,",
+      "thai": "ผม/ฉันกลัวนิดหน่อยครับ/คะ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682283"
+    },
+    {
+      "english": "Do you understand?,",
+      "thai": "คุณเข้าใจไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682284"
+    },
+    {
+      "english": "What is the procedure?,",
+      "thai": "ขั้นตอนการรักษาเป็นอย่างไรครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682286"
+    },
+    {
+      "english": "I'm feeling better now.,",
+      "thai": "ผม/ฉันรู้สึกดีขึ้นแล้วครับ/คะ.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682288"
+    },
+    {
+      "english": "Where can I rest?,",
+      "thai": "ผม/ฉันสามารถพักผ่อนที่ไหนได้บ้างครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682289"
+    },
+    {
+      "english": "What should I eat?,",
+      "thai": "ควรจะทานอะไรดีครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682291"
+    },
+    {
+      "english": "Is there anything else?,",
+      "thai": "มีอะไรอีกไหมครับ/คะ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682292"
+    },
+    {
+      "english": "You can do this, keep going.",
+      "thai": "คุณทำได้นะ สู้ๆ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682294"
+    },
+    {
+      "english": "Stay positive, it helps a lot.",
+      "thai": "คิดบวกไว้นะ มันช่วยเยอะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682297"
+    },
+    {
+      "english": "Don't give up, you're strong.",
+      "thai": "อย่าเพิ่งท้อนะ คุณแข็งแรง",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682299"
+    },
+    {
+      "english": "Good job, I'm proud of you.",
+      "thai": "เยี่ยมมาก, ฉันภูมิใจในตัวคุณ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682301"
+    },
+    {
+      "english": "Believe in yourself, you've got this.",
+      "thai": "เชื่อมั่นในตัวเองสิ คุณทำได้",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682304"
+    },
+    {
+      "english": "You're healing, take your time.",
+      "thai": "คุณกำลังดีขึ้นนะ ใช้เวลาเลย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682308"
+    },
+    {
+      "english": "Focus on recovery, be patient.",
+      "thai": "โฟกัสที่การฟื้นฟูนะ อดทนหน่อย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682310"
+    },
+    {
+      "english": "You are so brave, I admire you.",
+      "thai": "คุณกล้าหาญมาก ฉันชื่นชมนะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682311"
+    },
+    {
+      "english": "This is a challenge, but you'll pass.",
+      "thai": "นี่คือความท้าทาย แต่คุณจะผ่านไป",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682313"
+    },
+    {
+      "english": "Think of the good things, stay hopeful.",
+      "thai": "คิดถึงสิ่งดีๆ นะ มีหวังไว้",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682315"
+    },
+    {
+      "english": "You have inner strength, use it.",
+      "thai": "คุณมีความแข็งแกร่งภายในนะ ใช้มันสิ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682317"
+    },
+    {
+      "english": "Small progress is still progress.",
+      "thai": "ความคืบหน้าเล็กๆ ก็คือความคืบหน้า",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682318"
+    },
+    {
+      "english": "You inspire me with your resilience.",
+      "thai": "คุณสร้างแรงบันดาลใจให้ฉันด้วยความทรหด",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682320"
+    },
+    {
+      "english": "Focus on healing, you deserve it.",
+      "thai": "โฟกัสที่การรักษานะ คุณคู่ควร",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682322"
+    },
+    {
+      "english": "You're not alone in this fight.",
+      "thai": "คุณไม่ได้ต่อสู้นี้คนเดียว",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682324"
+    },
+    {
+      "english": "Let's get through this together.",
+      "thai": "เราจะผ่านเรื่องนี้ไปด้วยกันนะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682325"
+    },
+    {
+      "english": "Your spirit is truly remarkable.",
+      "thai": "จิตใจของคุณยอดเยี่ยมจริงๆ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682327"
+    },
+    {
+      "english": "You're handling this very well.",
+      "thai": "คุณจัดการเรื่องนี้ได้ดีมาก",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682329"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "thai": "ความมุ่งมั่นของคุณน่าชื่นชม",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682331"
+    },
+    {
+      "english": "We're cheering for your recovery.",
+      "thai": "เราส่งกำลังใจให้คุณหายดีนะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682333"
+    },
+    {
+      "english": "You're incredibly resilient.",
+      "thai": "คุณมีความยืดหยุ่นอย่างไม่น่าเชื่อ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682335"
+    },
+    {
+      "english": "Keep that positive attitude, it matters.",
+      "thai": "รักษาทัศนคติเชิงบวกไว้นะ มันสำคัญ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682336"
+    },
+    {
+      "english": "Hang in there, brighter days ahead.",
+      "thai": "อดทนไว้นะ วันที่ดีกว่ากำลังจะมาถึง",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682338"
+    },
+    {
+      "english": "I need to reflect, please give me space.",
+      "thai": "ฉันขอเวลาคิดนิดนึงนะคะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682340"
+    },
+    {
+      "english": "This situation, really makes me think.",
+      "thai": "เรื่องนี้, ทำให้คิดเยอะเลย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682342"
+    },
+    {
+      "english": "I'm feeling truly grateful, for everything.",
+      "thai": "รู้สึกขอบคุณจริงๆ, ทุกอย่างเลย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682344"
+    },
+    {
+      "english": "Patience, is the most important thing now.",
+      "thai": "ความอดทน, สำคัญที่สุดตอนนี้",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682346"
+    },
+    {
+      "english": "Deep breaths, help me stay calm.",
+      "thai": "หายใจลึกๆ, ช่วยให้ใจเย็น",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682348"
+    },
+    {
+      "english": "I'm processing this, slowly.",
+      "thai": "กำลังทำใจ, ทีละนิด",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682350"
+    },
+    {
+      "english": "What did I learn from this?",
+      "thai": "ได้บทเรียนอะไรบ้างจากเรื่องนี้",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682351"
+    },
+    {
+      "english": "Honesty, is what I need right now.",
+      "thai": "ความจริงใจ, คือสิ่งที่ต้องการ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682353"
+    },
+    {
+      "english": "My feelings are complex, honestly.",
+      "thai": "ความรู้สึกซับซ้อน, บอกตรงๆ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682355"
+    },
+    {
+      "english": "I need to feel heard, truly.",
+      "thai": "อยากให้รับฟัง, จริงๆ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682357"
+    },
+    {
+      "english": "This experience, changed my perspective.",
+      "thai": "ประสบการณ์นี้, เปลี่ยนมุมมองเลย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682360"
+    },
+    {
+      "english": "Letting go, is part of healing.",
+      "thai": "ปล่อยวาง, ก็คือการเยียวยา",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682362"
+    },
+    {
+      "english": "I'm seeking inner peace.",
+      "thai": "กำลังหาความสงบภายใน",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682364"
+    },
+    {
+      "english": "My thoughts are quite deep now.",
+      "thai": "ความคิดลึกซึ้งขึ้นเยอะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682366"
+    },
+    {
+      "english": "Understanding comes, with time.",
+      "thai": "ความเข้าใจ, มาพร้อมเวลา",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682368"
+    },
+    {
+      "english": "I appreciate your understanding.",
+      "thai": "ขอบคุณที่เข้าใจนะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682370"
+    },
+    {
+      "english": "This feeling, is hard to explain.",
+      "thai": "ความรู้สึกนี้, อธิบายยาก",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682371"
+    },
+    {
+      "english": "I need to accept, what happened.",
+      "thai": "ต้องยอมรับ, สิ่งที่เกิดขึ้น",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682373"
+    },
+    {
+      "english": "Reflecting on my health journey.",
+      "thai": "ทบทวนการเดินทางสุขภาพ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682375"
+    },
+    {
+      "english": "A moment of pause, is needed.",
+      "thai": "ขอพักคิดสักครู่",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682376"
+    },
+    {
+      "english": "What truly matters, to me?",
+      "thai": "อะไรสำคัญกับฉันจริงๆ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682378"
+    },
+    {
+      "english": "I'm embracing vulnerability.",
+      "thai": "กำลังเปิดใจรับความอ่อนแอ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682380"
+    },
+    {
+      "english": "This situation, has taught me a lot.",
+      "thai": "สถานการณ์นี้, สอนอะไรเยอะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682382"
+    },
+    {
+      "english": "Seeking solace, in quiet moments.",
+      "thai": "หาความสบายใจ, ในความเงียบ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682385"
+    },
+    {
+      "english": "My inner dialogue, is ongoing.",
+      "thai": "การสนทนาในใจ, ยังดำเนินอยู่",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682386"
+    },
+    {
+      "english": "Trusting the process, takes effort.",
+      "thai": "เชื่อมั่นในกระบวนการ, ต้องใช้แรง",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682388"
+    },
+    {
+      "english": "Finding strength, within myself.",
+      "thai": "ค้นหาความแข็งแกร่ง, จากภายใน",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682390"
+    },
+    {
+      "english": "This requires deep contemplation.",
+      "thai": "เรื่องนี้ต้องครุ่นคิดอย่างลึกซึ้ง",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682392"
+    },
+    {
+      "english": "I'm reassessing priorities.",
+      "thai": "กำลังประเมินลำดับความสำคัญใหม่",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682393"
+    },
+    {
+      "english": "Hope is a powerful medicine.",
+      "thai": "ความหวัง, คือยาชั้นดี",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682395"
+    },
+    {
+      "english": "I have a fever, it's high.",
+      "thai": "ฉันเป็นไข้, สูงมาก",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682396"
+    },
+    {
+      "english": "I need medicine, please.",
+      "thai": "ขอซื้อยา, หน่อยครับ/ค่ะ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682398"
+    },
+    {
+      "english": "I feel dizzy, very lightheaded.",
+      "thai": "เวียนหัว, มากเลย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682400"
+    },
+    {
+      "english": "I am allergic, to penicillin.",
+      "thai": "แพ้ยา, เพนิซิลลิน",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682402"
+    },
+    {
+      "english": "Do you have, antiseptic wipes?",
+      "thai": "มียาฆ่าเชื้อ, แบบเช็ดไหม",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682404"
+    },
+    {
+      "english": "I cut my finger, it's bleeding.",
+      "thai": "นิ้วบาด, เลือดออก",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682405"
+    },
+    {
+      "english": "Where can I find, a first aid kit?",
+      "thai": "หาชุดปฐมพยาบาล, ได้ที่ไหน",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682407"
+    },
+    {
+      "english": "I have a headache, can I rest?",
+      "thai": "ปวดหัว, ขอนอนพักได้ไหม",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682409"
+    },
+    {
+      "english": "This food, made me sick.",
+      "thai": "อาหารจานนี้, ทำฉันป่วย",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682411"
+    },
+    {
+      "english": "I need to see a dentist, urgently.",
+      "thai": "ต้องไปหาหมอฟัน, ด่วน",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-27T08:33:15.682412"
     }
   ],
-  "last_updated": "2026-10-26T09:41:54.942282"
+  "last_updated": "2026-10-27T08:33:15.682414"
 }

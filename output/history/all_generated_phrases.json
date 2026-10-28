@@ -7919,7 +7919,727 @@
       "thai": "ต้องไปหาหมอฟัน, ด่วน",
       "category": "Emergency & Health",
       "generated_at": "2026-10-27T08:33:15.682412"
+    },
+    {
+      "english": "That's right, indeed.",
+      "thai": "ใช่เลย, จริงๆ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367247"
+    },
+    {
+      "english": "I agree, totally.",
+      "thai": "เห็นด้วย, อย่างแรง",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367260"
+    },
+    {
+      "english": "Exactly, you got it.",
+      "thai": "เป๊ะเลย, เข้าใจถูก",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367262"
+    },
+    {
+      "english": "That makes sense, yes.",
+      "thai": "มีเหตุผล, ครับ/ค่ะ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367264"
+    },
+    {
+      "english": "Good point, I see.",
+      "thai": "ประเด็นดี, เข้าใจแล้ว",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367267"
+    },
+    {
+      "english": "I feel the same.",
+      "thai": "ฉันก็รู้สึกเหมือนกัน",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367269"
+    },
+    {
+      "english": "You're absolutely right.",
+      "thai": "คุณพูดถูกเป๊ะเลย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367271"
+    },
+    {
+      "english": "My thoughts exactly.",
+      "thai": "คิดเหมือนกันเป๊ะเลย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367275"
+    },
+    {
+      "english": "I can't argue with that.",
+      "thai": "เถียงไม่ออกเลย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367278"
+    },
+    {
+      "english": "No doubt about it.",
+      "thai": "ไม่มีข้อสงสัยเลย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367280"
+    },
+    {
+      "english": "I disagree, sorry.",
+      "thai": "ฉันไม่เห็นด้วย, ขอโทษ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367282"
+    },
+    {
+      "english": "That's not quite right.",
+      "thai": "นั่นไม่ค่อยถูกนะ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367284"
+    },
+    {
+      "english": "I don't think so.",
+      "thai": "ฉันไม่คิดอย่างนั้น",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367288"
+    },
+    {
+      "english": "We see it differently.",
+      "thai": "เรามองต่างกัน",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367290"
+    },
+    {
+      "english": "I have a different view.",
+      "thai": "ฉันมีความเห็นต่าง",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367292"
+    },
+    {
+      "english": "That's not what I think.",
+      "thai": "นั่นไม่ใช่ที่ฉันคิด",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367294"
+    },
+    {
+      "english": "I'm not so sure.",
+      "thai": "ฉันไม่ค่อยแน่ใจ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367295"
+    },
+    {
+      "english": "That's debatable, really.",
+      "thai": "นั่นน่าถกเถียงนะ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367299"
+    },
+    {
+      "english": "I disagree with that.",
+      "thai": "ฉันไม่เห็นด้วยกับเรื่องนั้น",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367301"
+    },
+    {
+      "english": "Can't say I agree.",
+      "thai": "บอกไม่ได้ว่าเห็นด้วย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367303"
+    },
+    {
+      "english": "That's not entirely true.",
+      "thai": "นั่นไม่จริงทั้งหมดหรอก",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367305"
+    },
+    {
+      "english": "I understand, but...",
+      "thai": "เข้าใจนะ, แต่ว่า...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367307"
+    },
+    {
+      "english": "Respectfully, I disagree.",
+      "thai": "ด้วยความเคารพ, ฉันไม่เห็นด้วย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367309"
+    },
+    {
+      "english": "That's a valid point.",
+      "thai": "นั่นเป็นประเด็นที่รับฟังได้",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367311"
+    },
+    {
+      "english": "I can see your point.",
+      "thai": "ฉันเข้าใจที่คุณพูด",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367313"
+    },
+    {
+      "english": "Fair enough, I guess.",
+      "thai": "ก็สมเหตุสมผลนะ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367315"
+    },
+    {
+      "english": "That's one way to look at it.",
+      "thai": "นั่นก็เป็นมุมมองหนึ่ง",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367317"
+    },
+    {
+      "english": "I'm on the fence.",
+      "thai": "ฉันยังลังเลอยู่",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367319"
+    },
+    {
+      "english": "I'll have to think about it.",
+      "thai": "คงต้องลองคิดดู",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367321"
+    },
+    {
+      "english": "Let's agree to disagree.",
+      "thai": "เราเห็นต่างกันนะ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367323"
+    },
+    {
+      "english": "What do you think, really?",
+      "thai": "คุณคิดว่าไง, จริงๆ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367325"
+    },
+    {
+      "english": "Do you see it that way?",
+      "thai": "คุณมองแบบนั้นไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367327"
+    },
+    {
+      "english": "Is that your final say?",
+      "thai": "นี่คือคำพูดสุดท้ายของคุณเหรอ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367329"
+    },
+    {
+      "english": "Tell me your thoughts, please.",
+      "thai": "บอกความคิดของคุณหน่อย, ครับ/คะ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367331"
+    },
+    {
+      "english": "Are we on the same page?",
+      "thai": "เราเข้าใจตรงกันไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367333"
+    },
+    {
+      "english": "Let's hear your side, too.",
+      "thai": "เราขอฟังมุมของคุณบ้าง.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367337"
+    },
+    {
+      "english": "Have you considered this, though?",
+      "thai": "คุณได้คิดถึงเรื่องนี้บ้างไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367340"
+    },
+    {
+      "english": "Do you have a suggestion?",
+      "thai": "คุณมีข้อเสนอแนะไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367342"
+    },
+    {
+      "english": "What's the best approach?",
+      "thai": "วิธีไหนดีที่สุด?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367344"
+    },
+    {
+      "english": "Shall we seek advice?",
+      "thai": "เราไปขอคำปรึกษาไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367347"
+    },
+    {
+      "english": "What do you suggest we do?",
+      "thai": "คุณแนะนำให้เราทำอะไร?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367349"
+    },
+    {
+      "english": "Can we revisit this later?",
+      "thai": "เรากลับมาคุยเรื่องนี้ทีหลังได้ไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367352"
+    },
+    {
+      "english": "Are we both happy with this?",
+      "thai": "เราทั้งคู่พอใจกับสิ่งนี้ไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367354"
+    },
+    {
+      "english": "Let's confirm our understanding.",
+      "thai": "เรามาทวนความเข้าใจกัน.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367356"
+    },
+    {
+      "english": "Did I get that right?",
+      "thai": "ฉันเข้าใจถูกไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367358"
+    },
+    {
+      "english": "What's the consensus here?",
+      "thai": "ความเห็นส่วนใหญ่เป็นอย่างไร?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367360"
+    },
+    {
+      "english": "Are you sure about that?",
+      "thai": "คุณแน่ใจเรื่องนั้นเหรอ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367362"
+    },
+    {
+      "english": "Can you elaborate a bit more?",
+      "thai": "คุณช่วยขยายความหน่อยได้ไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367364"
+    },
+    {
+      "english": "What outcome do you expect?",
+      "thai": "คุณคาดหวังผลลัพธ์อะไร?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367365"
+    },
+    {
+      "english": "How should we proceed now?",
+      "thai": "ตอนนี้เราควรทำอย่างไรต่อไป?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367369"
+    },
+    {
+      "english": "Is everyone in agreement?",
+      "thai": "ทุกคนเห็นด้วยไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367371"
+    },
+    {
+      "english": "You've got this, believe it!",
+      "thai": "เธอทำได้แน่ เชื่อเลย!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367373"
+    },
+    {
+      "english": "That's a brilliant idea, really!",
+      "thai": "เป็นความคิดที่ดีเยี่ยมเลย จริงๆ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367375"
+    },
+    {
+      "english": "I totally agree, well said!",
+      "thai": "เห็นด้วยอย่างยิ่ง พูดได้ดีมาก!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367378"
+    },
+    {
+      "english": "That's the spirit, I love it!",
+      "thai": "นั่นแหละสไตล์ ฉันชอบมาก!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367380"
+    },
+    {
+      "english": "You're so inspiring, truly!",
+      "thai": "คุณสร้างแรงบันดาลใจมากจริงๆ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367382"
+    },
+    {
+      "english": "Exactly what I was thinking!",
+      "thai": "ตรงกับที่คิดไว้เลย!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367384"
+    },
+    {
+      "english": "Let's nail this together!",
+      "thai": "มาทำสิ่งนี้ให้สำเร็จด้วยกัน!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367386"
+    },
+    {
+      "english": "Wow, amazing progress, wow!",
+      "thai": "ว้าว ความคืบหน้าสุดยอด ว้าว!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367389"
+    },
+    {
+      "english": "I'm fully on board with that!",
+      "thai": "ฉันเห็นด้วยเต็มที่กับเรื่องนั้น!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367391"
+    },
+    {
+      "english": "That's a fantastic mindset!",
+      "thai": "เป็นทัศนคติที่ยอดเยี่ยมมาก!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367393"
+    },
+    {
+      "english": "You nailed it perfectly!",
+      "thai": "คุณทำได้เพอร์เฟกต์เลย!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367395"
+    },
+    {
+      "english": "Absolutely, we're aligned!",
+      "thai": "แน่นอน เราตรงกัน!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367397"
+    },
+    {
+      "english": "That's a winning attitude!",
+      "thai": "นั่นคือทัศนคติที่ชนะ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367399"
+    },
+    {
+      "english": "I couldn't agree more, wow!",
+      "thai": "เห็นด้วยอย่างไม่น่าเชื่อ ว้าว!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367401"
+    },
+    {
+      "english": "That's the way to think!",
+      "thai": "นั่นคือวิธีคิดที่ถูกต้อง!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367405"
+    },
+    {
+      "english": "You've inspired me, thanks!",
+      "thai": "คุณสร้างแรงบันดาลใจให้ฉัน ขอบคุณ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367407"
+    },
+    {
+      "english": "Totally on the same wavelength!",
+      "thai": "อยู่ในคลื่นเดียวกันเลย!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367409"
+    },
+    {
+      "english": "You're a natural problem-solver!",
+      "thai": "คุณคือคนแก้ปัญหาโดยธรรมชาติ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367411"
+    },
+    {
+      "english": "Yes, brilliant execution!",
+      "thai": "ใช่ การดำเนินการยอดเยี่ยม!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367413"
+    },
+    {
+      "english": "That's a game-changer, truly!",
+      "thai": "นั่นคือตัวเปลี่ยนเกมจริงๆ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367416"
+    },
+    {
+      "english": "I'm feeling that energy too!",
+      "thai": "ฉันก็รู้สึกถึงพลังนั้นด้วย!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367418"
+    },
+    {
+      "english": "You're crushing it, fantastic!",
+      "thai": "คุณทำได้ดีมาก เยี่ยมไปเลย!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367420"
+    },
+    {
+      "english": "That's a winning perspective!",
+      "thai": "นั่นคือมุมมองที่ชนะ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367422"
+    },
+    {
+      "english": "Absolutely perfect, well done!",
+      "thai": "สมบูรณ์แบบอย่างแน่นอน ทำได้ดี!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367424"
+    },
+    {
+      "english": "Let's aim high, always!",
+      "thai": "มาตั้งเป้าหมายให้สูงกันเสมอ!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367426"
+    },
+    {
+      "english": "It sounds good, let's go.",
+      "thai": "ฟังดูดี, เอาเลย.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367428"
+    },
+    {
+      "english": "I see your point, but...",
+      "thai": "เข้าใจที่คุณพูดนะ, แต่ว่า...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367431"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "thai": "ฉันไม่ค่อยแน่ใจเรื่องนั้น.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367433"
+    },
+    {
+      "english": "We see things differently.",
+      "thai": "เรามองต่างกันนะ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367435"
+    },
+    {
+      "english": "That makes sense, actually.",
+      "thai": "ก็มีเหตุผลนะ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367438"
+    },
+    {
+      "english": "I'm not convinced yet.",
+      "thai": "ยังไม่ค่อยเชื่อเท่าไหร่.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367440"
+    },
+    {
+      "english": "That's an interesting thought.",
+      "thai": "เป็นความคิดที่น่าสนใจดี.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367442"
+    },
+    {
+      "english": "I have a different opinion.",
+      "thai": "ฉันมีความเห็นต่างออกไป.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367444"
+    },
+    {
+      "english": "Okay, I can work with that.",
+      "thai": "โอเค, พอได้.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367446"
+    },
+    {
+      "english": "That's a bit risky, don't you think?",
+      "thai": "เสี่ยงไปหน่อยไหม.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367450"
+    },
+    {
+      "english": "You're pulling my leg, right?",
+      "thai": "ล้อเล่นใช่ไหมเนี่ย.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367452"
+    },
+    {
+      "english": "That's beside the point.",
+      "thai": "มันนอกเรื่องนะ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367454"
+    },
+    {
+      "english": "Don't count your chickens yet.",
+      "thai": "อย่าเพิ่งดีใจไป.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367456"
+    },
+    {
+      "english": "That's water under the bridge.",
+      "thai": "เรื่องนั้นมันผ่านไปแล้ว.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367458"
+    },
+    {
+      "english": "You took the words right out of my mouth.",
+      "thai": "พูดเหมือนฉันเลย.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367460"
+    },
+    {
+      "english": "We're miles apart on this.",
+      "thai": "เราห่างกันคนละเรื่องเลย.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367464"
+    },
+    {
+      "english": "That's food for thought.",
+      "thai": "น่าคิดนะ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367466"
+    },
+    {
+      "english": "That's easier said than done.",
+      "thai": "พูดง่ายแต่ทำยาก.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367468"
+    },
+    {
+      "english": "I'll go with the flow.",
+      "thai": "ตามน้ำไปละกัน.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367470"
+    },
+    {
+      "english": "That's a tough pill to swallow.",
+      "thai": "ทำใจยากหน่อยนะ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367472"
+    },
+    {
+      "english": "We're singing from the same songbook.",
+      "thai": "เราคิดเหมือนกันเลย.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367475"
+    },
+    {
+      "english": "I beg to differ.",
+      "thai": "ฉันขอแย้งนะ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367478"
+    },
+    {
+      "english": "Let's give it a shot.",
+      "thai": "ลองดูสักตั้ง.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367480"
+    },
+    {
+      "english": "I understand, but, I feel differently.",
+      "thai": "เข้าใจนะ, แต่, ฉันรู้สึกอีกแบบ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367483"
+    },
+    {
+      "english": "My gut feeling, says no.",
+      "thai": "สัญชาตญาณฉัน, บอกว่าไม่",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367485"
+    },
+    {
+      "english": "I need some time, to think.",
+      "thai": "ขอเวลาหน่อย, นะ, คิดดูก่อน",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367487"
+    },
+    {
+      "english": "I'm hesitant, to agree fully.",
+      "thai": "ฉันยังลังเล, ที่จะเห็นด้วยทั้งหมด",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367489"
+    },
+    {
+      "english": "That perspective, is new to me.",
+      "thai": "มุมมองนั้น, ใหม่สำหรับฉัน",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367491"
+    },
+    {
+      "english": "I hear you, but I'm worried.",
+      "thai": "ฉันได้ยินนะ, แต่ฉันกังวล",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367493"
+    },
+    {
+      "english": "It doesn't sit right, with me.",
+      "thai": "มันไม่ค่อย, ถูกใจฉันเท่าไหร่",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367495"
+    },
+    {
+      "english": "I need more evidence, honestly.",
+      "thai": "ฉันต้องการหลักฐานเพิ่ม, จริงๆ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367498"
+    },
+    {
+      "english": "My intuition, suggests otherwise.",
+      "thai": "สัญชาตญาณฉัน, บอกเป็นอย่างอื่น",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367500"
+    },
+    {
+      "english": "Let's revisit this, later.",
+      "thai": "เรากลับมาคุยเรื่องนี้, ทีหลังนะ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367502"
+    },
+    {
+      "english": "I'm not feeling confident, yet.",
+      "thai": "ฉันยังไม่มั่นใจ, เท่าไหร่",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367504"
+    },
+    {
+      "english": "That sounds logical, but risky.",
+      "thai": "ฟังดูมีเหตุผล, แต่มันเสี่ยง",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367506"
+    },
+    {
+      "english": "I'm struggling, to see that.",
+      "thai": "ฉันพยายามจะมอง, แบบนั้นนะ",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367508"
+    },
+    {
+      "english": "My heart says, go for it.",
+      "thai": "ใจฉันบอกว่า, เอาเลย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367512"
+    },
+    {
+      "english": "I trust my gut, on this.",
+      "thai": "ฉันเชื่อสัญชาตญาณ, เรื่องนี้",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367514"
+    },
+    {
+      "english": "That's a tough call, for me.",
+      "thai": "นั่นเป็นการตัดสินใจ, ที่ยากสำหรับฉัน",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367516"
+    },
+    {
+      "english": "My inner voice, disagrees.",
+      "thai": "เสียงในใจฉัน, ไม่เห็นด้วย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367518"
+    },
+    {
+      "english": "That gives me pause, you know?",
+      "thai": "นั่นทำให้ฉันคิดหนัก, รู้ไหม?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367521"
+    },
+    {
+      "english": "I need reassurance, if possible.",
+      "thai": "ฉันต้องการความมั่นใจ, ถ้าเป็นไปได้",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367523"
+    },
+    {
+      "english": "I'm leaning towards, another option.",
+      "thai": "ฉันเอนเอียงไปทาง, ตัวเลือกอื่น",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367525"
+    },
+    {
+      "english": "That doesn't resonate, with me.",
+      "thai": "นั่นไม่โดนใจ, ฉันเลย",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:12:13.367532"
     }
   ],
-  "last_updated": "2026-10-27T08:33:15.682414"
+  "last_updated": "2026-10-28T09:12:13.367533"
 }

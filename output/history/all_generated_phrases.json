@@ -8639,7 +8639,727 @@
       "thai": "นั่นไม่โดนใจ, ฉันเลย",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-28T09:12:13.367532"
+    },
+    {
+      "english": "Just breathe, relax.",
+      "thai": "หายใจเข้า, ผ่อนคลายนะ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412011"
+    },
+    {
+      "english": "Take it easy, friend.",
+      "thai": "สบายๆ นะเพื่อน",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412020"
+    },
+    {
+      "english": "No worries, it's fine.",
+      "thai": "ไม่เป็นไร, ชิลๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412024"
+    },
+    {
+      "english": "Slow down, enjoy this.",
+      "thai": "ช้าๆ, เพลินๆ กับสิ่งนี้",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412027"
+    },
+    {
+      "english": "Be present, right now.",
+      "thai": "อยู่กับปัจจุบัน, ตอนนี้เลย",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412030"
+    },
+    {
+      "english": "Listen closely, to yourself.",
+      "thai": "ตั้งใจฟัง, ฟังเสียงตัวเอง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412033"
+    },
+    {
+      "english": "Observe, without judging.",
+      "thai": "สังเกต, ไม่ต้องตัดสิน",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412038"
+    },
+    {
+      "english": "Feel the moment, truly.",
+      "thai": "รู้สึกถึงมัน, จริงๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412044"
+    },
+    {
+      "english": "Let it go, gently.",
+      "thai": "ปล่อยมันไป, เบาๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412048"
+    },
+    {
+      "english": "This is enough, right?",
+      "thai": "แค่นี้ก็พอแล้ว, ใช่ไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412051"
+    },
+    {
+      "english": "Just be, don't force.",
+      "thai": "เป็นตัวของตัวเอง, อย่าฝืน",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412056"
+    },
+    {
+      "english": "What's happening, now?",
+      "thai": "เกิดอะไรขึ้น, ตอนนี้",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412059"
+    },
+    {
+      "english": "Deep breaths, calm down.",
+      "thai": "หายใจลึกๆ, ใจเย็นๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412062"
+    },
+    {
+      "english": "It's okay, to feel this.",
+      "thai": "ไม่เป็นไร, ที่จะรู้สึกแบบนี้",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412065"
+    },
+    {
+      "english": "Focus here, on this.",
+      "thai": "โฟกัสที่นี่, ที่สิ่งนี้",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412084"
+    },
+    {
+      "english": "One thing at a time.",
+      "thai": "ทีละอย่างนะ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412087"
+    },
+    {
+      "english": "Just notice, that's all.",
+      "thai": "แค่สังเกต, แค่นั้นเอง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412091"
+    },
+    {
+      "english": "Everything passes, eventually.",
+      "thai": "ทุกอย่างผ่านไป, อยู่แล้ว",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412094"
+    },
+    {
+      "english": "Find your center, now.",
+      "thai": "หาจุดศูนย์กลาง, ตอนนี้เลย",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412096"
+    },
+    {
+      "english": "A moment of peace.",
+      "thai": "ช่วงเวลาแห่งความสงบ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412099"
+    },
+    {
+      "english": "Let go of tension.",
+      "thai": "ปล่อยความตึงเครียด",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412101"
+    },
+    {
+      "english": "This feeling, is temporary.",
+      "thai": "ความรู้สึกนี้, มันชั่วคราว",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412104"
+    },
+    {
+      "english": "Just observe, observe.",
+      "thai": "แค่สังเกต, ไปเรื่อยๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412107"
+    },
+    {
+      "english": "Stillness is a gift.",
+      "thai": "ความสงบคือของขวัญ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412109"
+    },
+    {
+      "english": "Ground yourself, firmly.",
+      "thai": "ตั้งหลักให้มั่นคง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412112"
+    },
+    {
+      "english": "Embrace the quiet.",
+      "thai": "โอบกอดความเงียบ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412114"
+    },
+    {
+      "english": "It's all connected, see?",
+      "thai": "มันเชื่อมโยงกันหมด, เห็นไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412117"
+    },
+    {
+      "english": "Just be here, now.",
+      "thai": "อยู่ตรงนี้, ตอนนี้",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412119"
+    },
+    {
+      "english": "What are you thinking about?",
+      "thai": "คุณกำลังคิดเรื่องอะไรอยู่",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412122"
+    },
+    {
+      "english": "Is something bothering you?",
+      "thai": "มีอะไรกวนใจคุณอยู่หรือเปล่า",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412124"
+    },
+    {
+      "english": "Can I help you with anything?",
+      "thai": "ฉันช่วยอะไรคุณได้ไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412129"
+    },
+    {
+      "english": "How was your day, generally?",
+      "thai": "วันของคุณเป็นอย่างไรบ้าง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412132"
+    },
+    {
+      "english": "Are you finding this helpful?",
+      "thai": "คุณคิดว่าสิ่งนี้มีประโยชน์ไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412136"
+    },
+    {
+      "english": "Did you learn something new?",
+      "thai": "คุณได้เรียนรู้อะไรใหม่บ้างไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412139"
+    },
+    {
+      "english": "What is your intention today?",
+      "thai": "วันนี้คุณตั้งใจจะทำอะไร",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412141"
+    },
+    {
+      "english": "Are you feeling calm, now?",
+      "thai": "ตอนนี้คุณรู้สึกสงบไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412144"
+    },
+    {
+      "english": "What's on your mind, tell me.",
+      "thai": "มีอะไรในใจคุณ บอกฉันได้นะ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412147"
+    },
+    {
+      "english": "How can we practice together?",
+      "thai": "เราจะฝึกฝนไปด้วยกันได้อย่างไร",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412150"
+    },
+    {
+      "english": "What helps you feel centered?",
+      "thai": "อะไรช่วยให้คุณรู้สึกมั่นคง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412152"
+    },
+    {
+      "english": "Can you share your experience?",
+      "thai": "คุณแบ่งปันประสบการณ์ของคุณได้ไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412155"
+    },
+    {
+      "english": "What did you notice just now?",
+      "thai": "เมื่อสักครู่คุณสังเกตเห็นอะไร",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412158"
+    },
+    {
+      "english": "Is this a good time to talk?",
+      "thai": "ตอนนี้เป็นเวลาที่ดีที่จะคุยกันไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412161"
+    },
+    {
+      "english": "What brings you here today?",
+      "thai": "อะไรพาคุณมาที่นี่วันนี้",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412164"
+    },
+    {
+      "english": "How can I support you best?",
+      "thai": "ฉันจะสนับสนุนคุณได้อย่างไรดีที่สุด",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412167"
+    },
+    {
+      "english": "What are you grateful for, now?",
+      "thai": "ตอนนี้คุณรู้สึกขอบคุณอะไรบ้าง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412170"
+    },
+    {
+      "english": "Do you want to try this?",
+      "thai": "คุณอยากลองทำสิ่งนี้ไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412172"
+    },
+    {
+      "english": "What's coming up for you?",
+      "thai": "มีอะไรกำลังจะเกิดขึ้นกับคุณ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412175"
+    },
+    {
+      "english": "Can we pause for a moment?",
+      "thai": "เราหยุดพักสักครู่ได้ไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412177"
+    },
+    {
+      "english": "What are you noticing internally?",
+      "thai": "คุณสังเกตเห็นอะไรภายในบ้าง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412180"
+    },
+    {
+      "english": "Do you need a moment alone?",
+      "thai": "คุณต้องการเวลาอยู่คนเดียวไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412183"
+    },
+    {
+      "english": "What is your energy like?",
+      "thai": "พลังงานของคุณเป็นอย่างไร",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412185"
+    },
+    {
+      "english": "Can you describe this feeling?",
+      "thai": "คุณอธิบายความรู้สึกนี้ได้ไหม",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412187"
+    },
+    {
+      "english": "What are we exploring today?",
+      "thai": "วันนี้เราจะสำรวจอะไรกัน",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412190"
+    },
+    {
+      "english": "Your effort is truly valued.",
+      "thai": "ความพยายามของคุณ, มีคุณค่าจริงๆ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412192"
+    },
+    {
+      "english": "This is your journey, own it.",
+      "thai": "นี่คือเส้นทางของคุณ, จงเป็นเจ้าของมัน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412195"
+    },
+    {
+      "english": "Shine bright, you amazing soul.",
+      "thai": "เปล่งประกาย, จิตใจอันน่าทึ่งของคุณ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412198"
+    },
+    {
+      "english": "Keep that positive vibe going.",
+      "thai": "รักษาพลังบวกนั้นไว้.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412202"
+    },
+    {
+      "english": "You are enough, right now.",
+      "thai": "คุณดีพอแล้ว, ในตอนนี้.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412205"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "thai": "เชื่อมั่นในกระบวนการ, มันจะค่อยๆ เผยออกมา.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412207"
+    },
+    {
+      "english": "Your presence matters, a lot.",
+      "thai": "การที่คุณอยู่ที่นี่, สำคัญมาก.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412210"
+    },
+    {
+      "english": "You are resilient, and strong.",
+      "thai": "คุณมีความยืดหยุ่น, และแข็งแกร่ง.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412213"
+    },
+    {
+      "english": "Good job on your progress!",
+      "thai": "ทำได้ดีมากกับความก้าวหน้าของคุณ!",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412215"
+    },
+    {
+      "english": "You radiate kindness, see that?",
+      "thai": "คุณแผ่รังสีความเมตตา, เห็นไหม?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412218"
+    },
+    {
+      "english": "Keep that spirit alive, always.",
+      "thai": "รักษาจิตวิญญาณนั้นไว้, เสมอ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412220"
+    },
+    {
+      "english": "Embrace your unique journey, friend.",
+      "thai": "โอบกอดการเดินทางที่ไม่เหมือนใครของคุณ, เพื่อน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412225"
+    },
+    {
+      "english": "Your mind is a powerful tool.",
+      "thai": "จิตใจของคุณคือเครื่องมืออันทรงพลัง.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412228"
+    },
+    {
+      "english": "You are getting better, day by day.",
+      "thai": "คุณกำลังดีขึ้น, วันต่อวัน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412231"
+    },
+    {
+      "english": "Plant seeds of positivity, grow.",
+      "thai": "หว่านเมล็ดพันธุ์แห่งความดีงาม, แล้วเติบโต.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412233"
+    },
+    {
+      "english": "Let your light shine, freely.",
+      "thai": "ปล่อยให้แสงสว่างของคุณเปล่งประกาย, อย่างอิสระ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412236"
+    },
+    {
+      "english": "You inspire others, truly.",
+      "thai": "คุณเป็นแรงบันดาลใจให้ผู้อื่น, จริงๆ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412239"
+    },
+    {
+      "english": "You are capable of great peace.",
+      "thai": "คุณสามารถมีความสงบสุขที่ยิ่งใหญ่ได้.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412241"
+    },
+    {
+      "english": "Keep pushing your boundaries, gently.",
+      "thai": "ผลักดันขอบเขตของคุณต่อไป, อย่างอ่อนโยน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412244"
+    },
+    {
+      "english": "You are a work in progress.",
+      "thai": "คุณกำลังพัฒนาตัวเองอยู่.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412246"
+    },
+    {
+      "english": "Embrace the beautiful chaos, friend.",
+      "thai": "โอบกอดความวุ่นวายอันสวยงามนี้, เพื่อน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412249"
+    },
+    {
+      "english": "Breathe in, breathe out slowly.",
+      "thai": "หายใจเข้า, หายใจออกช้าๆ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412251"
+    },
+    {
+      "english": "Stillness speaks volumes, listen.",
+      "thai": "ความเงียบ, มีความหมายมาก.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412256"
+    },
+    {
+      "english": "Let thoughts drift by, like clouds.",
+      "thai": "ปล่อยความคิด, ลอยไปเหมือนเมฆ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412259"
+    },
+    {
+      "english": "This moment, is all we have.",
+      "thai": "ขณะนี้, คือทั้งหมดที่เรามี.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412261"
+    },
+    {
+      "english": "Find peace, within yourself.",
+      "thai": "ค้นพบความสงบ, ในตัวเอง.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412264"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "thai": "สังเกต, โดยไม่ตัดสิน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412266"
+    },
+    {
+      "english": "The present is a gift, truly.",
+      "thai": "ปัจจุบันคือของขวัญ, จริงๆ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412269"
+    },
+    {
+      "english": "Let go of what's heavy.",
+      "thai": "ปล่อยวาง, สิ่งที่หนักอึ้ง.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412272"
+    },
+    {
+      "english": "Be here, now, fully.",
+      "thai": "อยู่ที่นี่, ตอนนี้, เต็มที่.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412275"
+    },
+    {
+      "english": "Still your mind, find clarity.",
+      "thai": "ทำให้ใจสงบ, พบความกระจ่าง.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412277"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "thai": "รู้สึกถึงพื้นดิน, ใต้เท้า.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412280"
+    },
+    {
+      "english": "Every breath, a new start.",
+      "thai": "ทุกการหายใจ, คือการเริ่มต้นใหม่.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412284"
+    },
+    {
+      "english": "Quiet the noise, inside.",
+      "thai": "เงียบเสียงรบกวน, ข้างใน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412287"
+    },
+    {
+      "english": "Anchor yourself, in this moment.",
+      "thai": "ยึดเหนี่ยวตัวเอง, ในขณะนี้.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412289"
+    },
+    {
+      "english": "Gentle awareness, is key.",
+      "thai": "การรู้ตัวอย่างอ่อนโยน, คือกุญแจ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412292"
+    },
+    {
+      "english": "Listen to your body's wisdom.",
+      "thai": "ฟังปัญญา, ของร่างกาย.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412295"
+    },
+    {
+      "english": "Find your calm center.",
+      "thai": "ค้นหาจุดศูนย์กลาง, ที่สงบของคุณ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412297"
+    },
+    {
+      "english": "Surrender, to the flow.",
+      "thai": "ยอมจำนน, ต่อการไหล.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412300"
+    },
+    {
+      "english": "Release tension, let it go.",
+      "thai": "คลายความตึงเครียด, ปล่อยมันไป.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412302"
+    },
+    {
+      "english": "Be present, with yourself.",
+      "thai": "อยู่กับปัจจุบัน, กับตัวเอง.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412305"
+    },
+    {
+      "english": "Mindful living, is simple.",
+      "thai": "การใช้ชีวิตอย่างมีสติ, เป็นเรื่องง่าย.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412307"
+    },
+    {
+      "english": "Feel your breath, deeply.",
+      "thai": "รู้สึกถึงลมหายใจ, ลึกๆ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412310"
+    },
+    {
+      "english": "Let worries fade away.",
+      "thai": "ปล่อยให้ความกังวล, เลือนหายไป.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412314"
+    },
+    {
+      "english": "In stillness, find strength.",
+      "thai": "ในความสงบ, ค้นพบความแข็งแกร่ง.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412317"
+    },
+    {
+      "english": "Just be, right here.",
+      "thai": "แค่เป็น, ตรงนี้.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412320"
+    },
+    {
+      "english": "Accept what is, friend.",
+      "thai": "ยอมรับสิ่งที่เกิดขึ้น, เพื่อน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412322"
+    },
+    {
+      "english": "Cultivate inner peace.",
+      "thai": "บ่มเพาะสันติสุข, ภายใน.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412324"
+    },
+    {
+      "english": "This moment, is enough.",
+      "thai": "ขณะนี้, เพียงพอแล้ว.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412327"
+    },
+    {
+      "english": "Listen to your heart's rhythm.",
+      "thai": "ฟังจังหวะ, ของหัวใจ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412330"
+    },
+    {
+      "english": "Need help? Just ask, politely.",
+      "thai": "ต้องการความช่วยเหลือ? แค่ขอ, สุภาพๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412332"
+    },
+    {
+      "english": "Mistake? Learn from it, move on.",
+      "thai": "ทำผิด? เรียนรู้, แล้วไปต่อ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412335"
+    },
+    {
+      "english": "Feeling stressed? Take a short break.",
+      "thai": "เครียดเหรอ? พักสักครู่",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412338"
+    },
+    {
+      "english": "Lost? Look around, ask directions.",
+      "thai": "หลงทาง? มองไปรอบๆ, ถามทาง",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412341"
+    },
+    {
+      "english": "Busy day? Prioritize, what's important.",
+      "thai": "วันยุ่ง? จัดลำดับ, อะไรสำคัญ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412344"
+    },
+    {
+      "english": "Tired? Rest is productive, you know.",
+      "thai": "เหนื่อยไหม? การพักผ่อนก็มีประโยชน์",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412346"
+    },
+    {
+      "english": "Someone rude? Don't take it personally.",
+      "thai": "คนไม่ดี? อย่าถือสา",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412349"
+    },
+    {
+      "english": "Need quiet? Find a peaceful corner.",
+      "thai": "อยากสงบ? หาที่เงียบๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412352"
+    },
+    {
+      "english": "Feeling rushed? Slow down, just a bit.",
+      "thai": "รีบร้อน? ช้าลงหน่อย",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412355"
+    },
+    {
+      "english": "Can't sleep? Listen to calm music.",
+      "thai": "นอนไม่หลับ? ฟังเพลงเบาๆ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412357"
+    },
+    {
+      "english": "Want to learn? Observe, then practice.",
+      "thai": "อยากเรียนรู้? สังเกต, แล้วฝึก",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412360"
+    },
+    {
+      "english": "Feeling overwhelmed? One step, at a time.",
+      "thai": "ท่วมท้น? ทีละก้าว",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412363"
+    },
+    {
+      "english": "Got a problem? Breathe, then think.",
+      "thai": "มีปัญหา? หายใจ, แล้วคิด",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412368"
+    },
+    {
+      "english": "Don't compare, your path is unique.",
+      "thai": "อย่าเทียบ, เส้นทางเราไม่เหมือนใคร",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412371"
+    },
+    {
+      "english": "Feeling down? Talk to a trusted friend.",
+      "thai": "เศร้าไหม? คุยกับเพื่อนที่ไว้ใจ",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412374"
+    },
+    {
+      "english": "Traffic jam? Listen to a podcast.",
+      "thai": "รถติด? ฟังพอดแคสต์",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412376"
+    },
+    {
+      "english": "Want to connect? Listen more, speak less.",
+      "thai": "อยากเชื่อมโยง? ฟังเยอะ, พูดน้อย",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-30T09:26:49.412379"
     }
   ],
-  "last_updated": "2026-10-28T09:12:13.367533"
+  "last_updated": "2026-10-30T09:26:49.412381"
 }

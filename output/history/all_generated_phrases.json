@@ -9359,7 +9359,727 @@
       "thai": "อยากเชื่อมโยง? ฟังเยอะ, พูดน้อย",
       "category": "Mindfulness",
       "generated_at": "2026-10-30T09:26:49.412379"
+    },
+    {
+      "english": "Are you free, tonight?",
+      "thai": "คืนนี้ว่างไหม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395113"
+    },
+    {
+      "english": "Let's go out, sometime.",
+      "thai": "ไปเที่ยวกันหน่อยไหม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395126"
+    },
+    {
+      "english": "This is nice, isn't it?",
+      "thai": "บรรยากาศดีนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395129"
+    },
+    {
+      "english": "What are you doing, later?",
+      "thai": "เดี๋ยวค่อยทำอะไร",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395131"
+    },
+    {
+      "english": "Can I have your number?",
+      "thai": "ขอเบอร์หน่อยได้ไหม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395134"
+    },
+    {
+      "english": "I'm single, right now.",
+      "thai": "ตอนนี้โสดนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395136"
+    },
+    {
+      "english": "You're very kind.",
+      "thai": "คุณใจดีมากเลย",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395138"
+    },
+    {
+      "english": "I'm nervous, a little.",
+      "thai": "ฉันประหม่าหน่อยๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395142"
+    },
+    {
+      "english": "It's nice, meeting you.",
+      "thai": "ยินดีที่ได้รู้จัก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395145"
+    },
+    {
+      "english": "Do you have a boyfriend/girlfriend?",
+      "thai": "มีแฟนหรือยัง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395148"
+    },
+    {
+      "english": "I miss you, already.",
+      "thai": "คิดถึงแล้วนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395150"
+    },
+    {
+      "english": "You make me smile.",
+      "thai": "คุณทำให้ฉันยิ้มได้",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395154"
+    },
+    {
+      "english": "I'm not busy, today.",
+      "thai": "วันนี้ไม่ค่อยยุ่ง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395156"
+    },
+    {
+      "english": "Let's take a picture.",
+      "thai": "ถ่ายรูปกันไหม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395158"
+    },
+    {
+      "english": "You have nice eyes.",
+      "thai": "ตาคุณสวยจัง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395160"
+    },
+    {
+      "english": "I'm a bit shy.",
+      "thai": "ฉันขี้อายหน่อย",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395162"
+    },
+    {
+      "english": "Are you hungry, yet?",
+      "thai": "หิวหรือยัง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395166"
+    },
+    {
+      "english": "This is delicious, wow.",
+      "thai": "อร่อยมากเลย",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395168"
+    },
+    {
+      "english": "Can I walk you home?",
+      "thai": "ไปส่งที่บ้านไหม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395170"
+    },
+    {
+      "english": "You smell good.",
+      "thai": "ตัวหอมจัง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395172"
+    },
+    {
+      "english": "I'm feeling happy.",
+      "thai": "รู้สึกดีจัง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395174"
+    },
+    {
+      "english": "Let's chat, more.",
+      "thai": "คุยกันอีกนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395176"
+    },
+    {
+      "english": "Your smile is bright.",
+      "thai": "ยิ้มสวยนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395178"
+    },
+    {
+      "english": "I'm a little tired.",
+      "thai": "เหนื่อยหน่อยๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395180"
+    },
+    {
+      "english": "This is so romantic.",
+      "thai": "โรแมนติกจัง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395181"
+    },
+    {
+      "english": "Can we meet, again?",
+      "thai": "เจอกันอีกได้ไหม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395185"
+    },
+    {
+      "english": "What's your favorite, hobby?",
+      "thai": "งานอดิเรกที่คุณชอบ, คืออะไร?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395188"
+    },
+    {
+      "english": "Do you like, Thai food?",
+      "thai": "คุณชอบ, อาหารไทยไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395190"
+    },
+    {
+      "english": "What kind of music, do you like?",
+      "thai": "คุณชอบฟังเพลง, แนวไหน?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395193"
+    },
+    {
+      "english": "What's your dream, destination?",
+      "thai": "สถานที่ในฝันของคุณ, คือที่ไหน?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395197"
+    },
+    {
+      "english": "Do you have, siblings?",
+      "thai": "คุณมี, พี่น้องไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395199"
+    },
+    {
+      "english": "Are you a morning, person?",
+      "thai": "คุณเป็นคนตื่นเช้า, หรือเปล่า?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395201"
+    },
+    {
+      "english": "What's your biggest, fear?",
+      "thai": "อะไรคือความกลัว, ที่ใหญ่ที่สุดของคุณ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395203"
+    },
+    {
+      "english": "Do you prefer, cats or dogs?",
+      "thai": "คุณชอบ, แมวหรือหมา?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395205"
+    },
+    {
+      "english": "What are you reading, now?",
+      "thai": "ตอนนี้คุณกำลังอ่าน, อะไรอยู่?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395208"
+    },
+    {
+      "english": "What's your favorite, movie genre?",
+      "thai": "หนังแนวโปรดของคุณ, คือแนวไหน?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395210"
+    },
+    {
+      "english": "What makes you, happy?",
+      "thai": "อะไรทำให้คุณ, มีความสุข?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395212"
+    },
+    {
+      "english": "How do you relax, after work?",
+      "thai": "คุณผ่อนคลาย, หลังเลิกงานอย่างไร?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395214"
+    },
+    {
+      "english": "What's your favorite, season?",
+      "thai": "ฤดูโปรดของคุณ, คือฤดูไหน?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395218"
+    },
+    {
+      "english": "Do you like, to travel?",
+      "thai": "คุณชอบ, เดินทางท่องเที่ยวไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395220"
+    },
+    {
+      "english": "What's your guilty, pleasure?",
+      "thai": "อะไรคือความสุข, ที่คุณยอมรับยาก?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395223"
+    },
+    {
+      "english": "Are you a coffee, or tea person?",
+      "thai": "คุณชอบดื่มกาแฟ, หรือชา?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395225"
+    },
+    {
+      "english": "What's your favorite, quote?",
+      "thai": "คำคมโปรดของคุณ, คืออะไร?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395227"
+    },
+    {
+      "english": "Do you enjoy, cooking?",
+      "thai": "คุณชอบ, ทำอาหารไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395229"
+    },
+    {
+      "english": "What's your biggest, pet peeve?",
+      "thai": "อะไรคือสิ่งที่คุณ, ทนไม่ได้มากที่สุด?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395231"
+    },
+    {
+      "english": "Do you like, surprises?",
+      "thai": "คุณชอบ, การเซอร์ไพรส์ไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395232"
+    },
+    {
+      "english": "What's your ideal, weekend?",
+      "thai": "สุดสัปดาห์ในอุดมคติของคุณ, เป็นแบบไหน?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395235"
+    },
+    {
+      "english": "Are you more, introverted or extroverted?",
+      "thai": "คุณเป็นคนเก็บตัว, หรือชอบเข้าสังคมมากกว่า?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395237"
+    },
+    {
+      "english": "What's your favorite, childhood memory?",
+      "thai": "ความทรงจำวัยเด็ก, ที่คุณชอบที่สุดคืออะไร?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395239"
+    },
+    {
+      "english": "What's your life, motto?",
+      "thai": "คติประจำใจของคุณ, คืออะไร?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395241"
+    },
+    {
+      "english": "Do you prefer, city or nature?",
+      "thai": "คุณชอบ, เมืองหรือธรรมชาติมากกว่า?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395243"
+    },
+    {
+      "english": "Do you believe, in luck?",
+      "thai": "คุณเชื่อ, ในความโชคดีไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395245"
+    },
+    {
+      "english": "Don't give up, easily.",
+      "thai": "อย่าเพิ่งยอมแพ้, ง่ายๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395247"
+    },
+    {
+      "english": "Positive vibes, attract good things.",
+      "thai": "คิดบวก, ดึงดูดสิ่งดีๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395249"
+    },
+    {
+      "english": "Focus on your strengths, honey.",
+      "thai": "โฟกัสที่จุดแข็ง, ของเธอสิ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395252"
+    },
+    {
+      "english": "Keep shining, brightly.",
+      "thai": "เปล่งประกายต่อไป, นะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395254"
+    },
+    {
+      "english": "Your heart is, so kind.",
+      "thai": "หัวใจเธอ, อ่อนโยนมาก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395256"
+    },
+    {
+      "english": "You bring out, the best.",
+      "thai": "เธอทำให้สิ่งที่ดีที่สุด, ออกมา",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395258"
+    },
+    {
+      "english": "You're a catch, honestly.",
+      "thai": "เธอเป็นคนที่น่าสนใจมาก, จริงๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395260"
+    },
+    {
+      "english": "Never settle, for less.",
+      "thai": "อย่าลดมาตรฐาน, เด็ดขาด",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395263"
+    },
+    {
+      "english": "You inspire, me a lot.",
+      "thai": "เธอเป็นแรงบันดาลใจ, ให้ฉันมาก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395281"
+    },
+    {
+      "english": "You're growing, beautifully.",
+      "thai": "เธอกำลังเติบโต, อย่างสวยงาม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395285"
+    },
+    {
+      "english": "Your spirit, is strong.",
+      "thai": "จิตวิญญาณของเธอ, แข็งแกร่ง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395288"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "thai": "ใจเย็นๆ, กับตัวเองนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395290"
+    },
+    {
+      "english": "You're amazing, just as you are.",
+      "thai": "เธอสุดยอดมาก, ในแบบของเธอ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395293"
+    },
+    {
+      "english": "Your presence, is a gift.",
+      "thai": "การมีอยู่ของเธอ, คือของขวัญ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395297"
+    },
+    {
+      "english": "You radiate, confidence.",
+      "thai": "เธอเปล่งประกาย, ความมั่นใจ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395299"
+    },
+    {
+      "english": "Keep that, wonderful heart.",
+      "thai": "รักษาหัวใจอันแสนดี, ไว้นะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395301"
+    },
+    {
+      "english": "You make, things brighter.",
+      "thai": "เธอทำให้ทุกอย่าง, สดใสขึ้น",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395303"
+    },
+    {
+      "english": "Embrace your, true self.",
+      "thai": "ยอมรับความเป็นตัวเอง, ที่แท้จริง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395305"
+    },
+    {
+      "english": "You're capable, of anything.",
+      "thai": "เธอทำได้ทุกอย่าง, เลยนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395307"
+    },
+    {
+      "english": "Your kindness, shines through.",
+      "thai": "ความใจดีของเธอ, ฉายออกมา",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395310"
+    },
+    {
+      "english": "Keep believing, in love.",
+      "thai": "เชื่อมั่นในความรัก, ต่อไปนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395312"
+    },
+    {
+      "english": "Let's get closer, shall we?",
+      "thai": "เรามาสนิทกัน, ไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395314"
+    },
+    {
+      "english": "You're my missing piece.",
+      "thai": "เธอคือส่วนที่, ขาดหาย.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395316"
+    },
+    {
+      "english": "You're my sweet dream.",
+      "thai": "เธอคือฝันหวาน, ของฉัน.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395318"
+    },
+    {
+      "english": "I miss your face, daily.",
+      "thai": "คิดถึงหน้าเธอ, ทุกวัน.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395320"
+    },
+    {
+      "english": "This feeling is, special.",
+      "thai": "ความรู้สึกนี้, พิเศษ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395324"
+    },
+    {
+      "english": "Let's take it, slow.",
+      "thai": "เราค่อยๆ, ไปกัน.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395326"
+    },
+    {
+      "english": "You're like a, song.",
+      "thai": "เธอเหมือนเพลง, ที่เพราะ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395328"
+    },
+    {
+      "english": "Can I call you, mine?",
+      "thai": "เป็นของฉันได้ไหม?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395330"
+    },
+    {
+      "english": "You stole my, heart.",
+      "thai": "เธอขโมยหัวใจ, ฉันไป.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395332"
+    },
+    {
+      "english": "You're my only one.",
+      "thai": "เธอคือคนเดียว, ของฉัน.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395334"
+    },
+    {
+      "english": "Love at first, sight.",
+      "thai": "รักแรกพบ, เลยนะ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395336"
+    },
+    {
+      "english": "You're my sun, and moon.",
+      "thai": "เธอคือดวงอาทิตย์, และจันทร์.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395338"
+    },
+    {
+      "english": "You're my true, love.",
+      "thai": "เธอคือรักแท้, ของฉัน.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395340"
+    },
+    {
+      "english": "Let's share, our lives.",
+      "thai": "มาแบ่งปัน, ชีวิตกันเถอะ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395342"
+    },
+    {
+      "english": "I feel so, comfortable with you.",
+      "thai": "ฉันรู้สึกสบาย, ใจกับเธอ.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395344"
+    },
+    {
+      "english": "You complete, my heart.",
+      "thai": "เธอเติมเต็ม, หัวใจฉัน.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395346"
+    },
+    {
+      "english": "Is this, real love?",
+      "thai": "นี่คือรักแท้, หรือเปล่า?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395348"
+    },
+    {
+      "english": "You're my forever, person.",
+      "thai": "เธอคือคนที่จะ, อยู่ตลอดไป.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395350"
+    },
+    {
+      "english": "I can't stop, thinking of you.",
+      "thai": "หยุดคิดถึงเธอ, ไม่ได้เลย.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395354"
+    },
+    {
+      "english": "You're the one, I dream of.",
+      "thai": "เธอคือคนที่, ฉันฝันถึง.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395358"
+    },
+    {
+      "english": "Let's make, memories together.",
+      "thai": "มาสร้าง, ความทรงจำด้วยกัน.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395360"
+    },
+    {
+      "english": "I'm thinking, about us, often.",
+      "thai": "ฉันคิดถึงเรื่องของเรา, บ่อยๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395362"
+    },
+    {
+      "english": "This connection, feels deep.",
+      "thai": "ความสัมพันธ์นี้, รู้สึกว่าลึกซึ้ง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395364"
+    },
+    {
+      "english": "I value, your honesty, a lot.",
+      "thai": "ฉันเห็นคุณค่า, ความซื่อสัตย์ของคุณ, มากเลย",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395366"
+    },
+    {
+      "english": "Let's be patient, with each other.",
+      "thai": "เรามาใจเย็น, ต่อกันและกันนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395369"
+    },
+    {
+      "english": "I'm learning, a lot from you.",
+      "thai": "ฉันได้เรียนรู้, อะไรมากมายจากคุณ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395371"
+    },
+    {
+      "english": "This moment, feels quite special.",
+      "thai": "ช่วงเวลานี้, รู้สึกพิเศษมาก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395373"
+    },
+    {
+      "english": "My feelings, are becoming stronger.",
+      "thai": "ความรู้สึกของฉัน, กำลังมากขึ้นเรื่อยๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395375"
+    },
+    {
+      "english": "I'm open, to exploring this.",
+      "thai": "ฉันเปิดใจ, ที่จะสำรวจเรื่องนี้",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395377"
+    },
+    {
+      "english": "Your perspective, is refreshing.",
+      "thai": "มุมมองของคุณ, มันสดชื่นดีนะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395380"
+    },
+    {
+      "english": "I want to understand, you better.",
+      "thai": "ฉันอยากจะเข้าใจ, คุณให้มากขึ้น",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395382"
+    },
+    {
+      "english": "I'm appreciating, your vulnerability.",
+      "thai": "ฉันรู้สึกซาบซึ้ง, กับความอ่อนไหวของคุณ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395384"
+    },
+    {
+      "english": "Let's build, something real.",
+      "thai": "เรามาสร้าง, อะไรที่แท้จริงกัน",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395386"
+    },
+    {
+      "english": "I'm really, enjoying this journey.",
+      "thai": "ฉันสนุกกับ, การเดินทางครั้งนี้จริงๆ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395388"
+    },
+    {
+      "english": "I'm feeling, very connected.",
+      "thai": "ฉันรู้สึก, ผูกพันกันมาก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395391"
+    },
+    {
+      "english": "Let's cherish, these moments.",
+      "thai": "เรามาถนอม, ช่วงเวลาเหล่านี้กัน",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395393"
+    },
+    {
+      "english": "I'm reflecting, on our growth.",
+      "thai": "ฉันกำลังทบทวน, การเติบโตของเรา",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395395"
+    },
+    {
+      "english": "This feels, like it's meant to be.",
+      "thai": "นี่รู้สึกเหมือน, มันต้องเป็นอย่างนี้",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395397"
+    },
+    {
+      "english": "I'm trusting, the process.",
+      "thai": "ฉันเชื่อมั่น, ในกระบวนการนี้",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395399"
+    },
+    {
+      "english": "Your insights, are valuable.",
+      "thai": "ความคิดเห็นของคุณ, มีค่ามาก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395401"
+    },
+    {
+      "english": "What are your, hopes for us?",
+      "thai": "คุณมีความหวัง, อะไรให้พวกเรา",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395403"
+    },
+    {
+      "english": "I'm giving, my honest feelings.",
+      "thai": "ฉันกำลังมอบ, ความรู้สึกที่แท้จริง",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395405"
+    },
+    {
+      "english": "This is more, than just fun.",
+      "thai": "นี่มันมากกว่า, แค่ความสนุก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395407"
+    },
+    {
+      "english": "I'm finding, myself in you.",
+      "thai": "ฉันกำลังค้นหา, ตัวเองในตัวคุณ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395410"
+    },
+    {
+      "english": "I'm reflecting, on love's meaning.",
+      "thai": "ฉันกำลังคิดทบทวน, ถึงความหมายของความรัก",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395413"
+    },
+    {
+      "english": "This is a, beautiful beginning.",
+      "thai": "นี่คือ, จุดเริ่มต้นที่สวยงาม",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395415"
+    },
+    {
+      "english": "Let's practice, Thai together, often.",
+      "thai": "เรามาฝึกภาษาไทยด้วยกันบ่อยๆ นะ",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-31T09:09:39.395418"
     }
   ],
-  "last_updated": "2026-10-30T09:26:49.412381"
+  "last_updated": "2026-10-31T09:09:39.395420"
 }

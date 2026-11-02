@@ -10799,7 +10799,727 @@
       "thai": "แบ่งเบาภาระ, อย่ากักเก็บไว้.",
       "category": "Balance",
       "generated_at": "2026-11-01T09:57:14.403889"
+    },
+    {
+      "english": "Hello, how are you?",
+      "thai": "สวัสดีครับ/ค่ะ, สบายดีไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703355"
+    },
+    {
+      "english": "Nice to meet you.",
+      "thai": "ยินดีที่ได้รู้จักครับ/ค่ะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703369"
+    },
+    {
+      "english": "Excuse me, please.",
+      "thai": "ขอโทษนะครับ/คะ, กรุณา.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703371"
+    },
+    {
+      "english": "Thank you very much.",
+      "thai": "ขอบคุณมากครับ/ค่ะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703373"
+    },
+    {
+      "english": "You're welcome.",
+      "thai": "ไม่เป็นไรครับ/ค่ะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703374"
+    },
+    {
+      "english": "Sorry, I don't understand.",
+      "thai": "ขอโทษครับ/ค่ะ, ผม/ฉันไม่เข้าใจ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703376"
+    },
+    {
+      "english": "Can you speak English?",
+      "thai": "พูดภาษาอังกฤษได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703378"
+    },
+    {
+      "english": "Where is the toilet?",
+      "thai": "ห้องน้ำอยู่ที่ไหนครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703382"
+    },
+    {
+      "english": "How much is this?",
+      "thai": "อันนี้ราคาเท่าไหร่ครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703384"
+    },
+    {
+      "english": "It's too expensive.",
+      "thai": "แพงเกินไปครับ/ค่ะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703386"
+    },
+    {
+      "english": "Can I have a discount?",
+      "thai": "ลดราคาหน่อยได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703388"
+    },
+    {
+      "english": "I want to go to...",
+      "thai": "ฉัน/ผมต้องการไปที่...",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703389"
+    },
+    {
+      "english": "Where can I find...",
+      "thai": "หา...ได้ที่ไหนครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703391"
+    },
+    {
+      "english": "Let's go, quickly!",
+      "thai": "ไปกันเลย, เร็วๆ!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703393"
+    },
+    {
+      "english": "Oh my gosh, really?",
+      "thai": "โอ้โห, จริงเหรอ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703394"
+    },
+    {
+      "english": "That's amazing!",
+      "thai": "สุดยอดเลย!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703396"
+    },
+    {
+      "english": "What a surprise!",
+      "thai": "น่าประหลาดใจจัง!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703398"
+    },
+    {
+      "english": "I'm so hungry.",
+      "thai": "หิวมากเลยครับ/ค่ะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703399"
+    },
+    {
+      "english": "I'm very tired.",
+      "thai": "เหนื่อยมากครับ/ค่ะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703400"
+    },
+    {
+      "english": "So hot today!",
+      "thai": "วันนี้ร้อนจัง!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703402"
+    },
+    {
+      "english": "It's raining, oh no.",
+      "thai": "ฝนตก, แย่แล้ว.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703405"
+    },
+    {
+      "english": "What time is it?",
+      "thai": "กี่โมงแล้วครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703407"
+    },
+    {
+      "english": "See you later.",
+      "thai": "เจอกันใหม่นะครับ/คะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703408"
+    },
+    {
+      "english": "Have a good trip.",
+      "thai": "เที่ยวให้สนุกนะครับ/คะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703410"
+    },
+    {
+      "english": "My flight is delayed.",
+      "thai": "เที่ยวบินของฉัน/ผมล่าช้า.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703411"
+    },
+    {
+      "english": "Where is Gate B5?",
+      "thai": "เกท B5 อยู่ที่ไหนครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703413"
+    },
+    {
+      "english": "I need help, please.",
+      "thai": "ต้องการความช่วยเหลือครับ/ค่ะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703415"
+    },
+    {
+      "english": "Do you have this?",
+      "thai": "มีอันนี้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703416"
+    },
+    {
+      "english": "Which way, please?",
+      "thai": "ไปทางไหนครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703419"
+    },
+    {
+      "english": "Could you show me, please?",
+      "thai": "ช่วยชี้ทางให้หน่อยได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703421"
+    },
+    {
+      "english": "What's this called?",
+      "thai": "อันนี้เรียกว่าอะไรครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703424"
+    },
+    {
+      "english": "Can I get a boarding pass?",
+      "thai": "ขอรับบัตรโดยสารได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703426"
+    },
+    {
+      "english": "Where is check-in?",
+      "thai": "เช็คอินอยู่ตรงไหนครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703428"
+    },
+    {
+      "english": "Is my flight on time?",
+      "thai": "เที่ยวบินผม/ฉันตรงเวลาไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703429"
+    },
+    {
+      "english": "What time does it board?",
+      "thai": "ขึ้นเครื่องกี่โมงครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703431"
+    },
+    {
+      "english": "Can I change my seat?",
+      "thai": "ขอเปลี่ยนที่นั่งได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703433"
+    },
+    {
+      "english": "Is there Wi-Fi here?",
+      "thai": "มีไวไฟตรงนี้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703434"
+    },
+    {
+      "english": "Can I borrow your pen?",
+      "thai": "ขอยืมปากกาหน่อยได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703436"
+    },
+    {
+      "english": "What do you recommend?",
+      "thai": "คุณแนะนำอะไรครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703438"
+    },
+    {
+      "english": "Is this seat taken?",
+      "thai": "ที่นั่งนี้มีคนนั่งหรือยังครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703439"
+    },
+    {
+      "english": "Can I get a blanket?",
+      "thai": "ขอผ้าห่มหน่อยได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703441"
+    },
+    {
+      "english": "Do you have water?",
+      "thai": "มีน้ำไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703443"
+    },
+    {
+      "english": "What's the next stop?",
+      "thai": "ป้ายต่อไปคือที่ไหนครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703444"
+    },
+    {
+      "english": "Is my luggage here?",
+      "thai": "กระเป๋าผม/ฉันอยู่ที่นี่ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703446"
+    },
+    {
+      "english": "Can I use your phone?",
+      "thai": "ขอใช้โทรศัพท์หน่อยได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703447"
+    },
+    {
+      "english": "Where can I charge my phone?",
+      "thai": "ชาร์จแบตมือถือตรงไหนได้บ้างครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703449"
+    },
+    {
+      "english": "What's the gate number?",
+      "thai": "หมายเลขเกทคืออะไรครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703452"
+    },
+    {
+      "english": "Can I have a map?",
+      "thai": "ขอแผนที่หน่อยได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703454"
+    },
+    {
+      "english": "What time is last call?",
+      "thai": "เรียกขึ้นเครื่องครั้งสุดท้ายกี่โมงครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703455"
+    },
+    {
+      "english": "How long is the flight?",
+      "thai": "บินนานเท่าไหร่ครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703457"
+    },
+    {
+      "english": "Can I have some ice?",
+      "thai": "ขอน้ำแข็งหน่อยได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703460"
+    },
+    {
+      "english": "Is there a duty-free shop?",
+      "thai": "มีร้านดิวตี้ฟรีไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703461"
+    },
+    {
+      "english": "What's the Wi-Fi password?",
+      "thai": "รหัสไวไฟคืออะไรครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703463"
+    },
+    {
+      "english": "Can I get a window seat?",
+      "thai": "ขอที่นั่งริมหน้าต่างได้ไหมครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703465"
+    },
+    {
+      "english": "Is this flight full?",
+      "thai": "เที่ยวบินนี้เต็มหรือยังครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703467"
+    },
+    {
+      "english": "You got this, keep going!",
+      "thai": "เธอทำได้นะ สู้ๆ!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703469"
+    },
+    {
+      "english": "Every step is progress, friend.",
+      "thai": "ทุกก้าวคือความก้าวหน้าเพื่อน.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703471"
+    },
+    {
+      "english": "This adventure will be great.",
+      "thai": "การผจญภัยครั้งนี้จะเยี่ยมมาก.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703472"
+    },
+    {
+      "english": "Stay positive, good things come.",
+      "thai": "คิดบวกเข้าไว้, สิ่งดีๆ จะมา.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703474"
+    },
+    {
+      "english": "Learn from everything, okay?",
+      "thai": "เรียนรู้จากทุกอย่างนะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703476"
+    },
+    {
+      "english": "You handle it perfectly.",
+      "thai": "เธอจัดการมันได้สมบูรณ์แบบ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703479"
+    },
+    {
+      "english": "Keep that smile going strong.",
+      "thai": "เก็บรอยยิ้มนั้นไว้ให้มั่นคง.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703481"
+    },
+    {
+      "english": "You're braver than you think.",
+      "thai": "เธอเก่งกว่าที่คิดนะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703483"
+    },
+    {
+      "english": "Every challenge makes you stronger.",
+      "thai": "ทุกความท้าทายทำให้แกร่งขึ้น.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703485"
+    },
+    {
+      "english": "Embrace the new experiences.",
+      "thai": "เปิดรับประสบการณ์ใหม่ๆ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703486"
+    },
+    {
+      "english": "You're a natural explorer.",
+      "thai": "เธอเป็นนักสำรวจโดยธรรมชาติ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703488"
+    },
+    {
+      "english": "Enjoy the journey, my dear.",
+      "thai": "สนุกกับระหว่างทางนะที่รัก.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703490"
+    },
+    {
+      "english": "You're doing great, no worries.",
+      "thai": "เธอทำได้ดีมาก, ไม่ต้องห่วง.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703492"
+    },
+    {
+      "english": "Your spirit is amazing.",
+      "thai": "จิตวิญญาณของเธอสุดยอดมาก.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703493"
+    },
+    {
+      "english": "You make this easy, you know.",
+      "thai": "เธอทำให้เรื่องนี้ง่ายนะรู้ไหม.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703495"
+    },
+    {
+      "english": "Keep that positive vibe up.",
+      "thai": "รักษาพลังบวกนั้นไว้.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703497"
+    },
+    {
+      "english": "You're handling this like a pro.",
+      "thai": "เธอจัดการเรื่องนี้เหมือนมืออาชีพ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703499"
+    },
+    {
+      "english": "This will be a story to tell.",
+      "thai": "นี่จะเป็นเรื่องเล่าที่น่าประทับใจ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703502"
+    },
+    {
+      "english": "You're doing better than expected.",
+      "thai": "เธอทำได้ดีเกินคาด.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703504"
+    },
+    {
+      "english": "Embrace the unexpected moments.",
+      "thai": "ยอมรับช่วงเวลาที่ไม่คาดฝัน.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703505"
+    },
+    {
+      "english": "You've got such a good heart.",
+      "thai": "เธอมีจิตใจดีจริงๆ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703507"
+    },
+    {
+      "english": "Your courage is inspiring.",
+      "thai": "ความกล้าหาญของเธอสร้างแรงบันดาลใจ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703509"
+    },
+    {
+      "english": "You're making memories now.",
+      "thai": "เธอกำลังสร้างความทรงจำนะ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703511"
+    },
+    {
+      "english": "Just be yourself, that's enough.",
+      "thai": "เป็นตัวของตัวเองก็พอแล้ว.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703513"
+    },
+    {
+      "english": "You make everything seem easy.",
+      "thai": "เธอทำให้ทุกอย่างดูง่ายไปเลย.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703514"
+    },
+    {
+      "english": "Feeling a bit tired, actually.",
+      "thai": "รู้สึกเหนื่อยๆ หน่อยค่ะ/ครับ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703516"
+    },
+    {
+      "english": "This trip, it's a deep breath.",
+      "thai": "ทริปนี้, เหมือนได้หายใจลึกๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703518"
+    },
+    {
+      "english": "Just need some quiet time.",
+      "thai": "แค่อยากได้เวลาเงียบๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703520"
+    },
+    {
+      "english": "Missing home a little bit.",
+      "thai": "คิดถึงบ้านนิดหน่อย",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703521"
+    },
+    {
+      "english": "It's okay, take your time.",
+      "thai": "ไม่เป็นไร, ค่อยๆ ทำก็ได้",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703523"
+    },
+    {
+      "english": "My heart is full right now.",
+      "thai": "ใจเราเต็มมากๆ เลยตอนนี้",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703525"
+    },
+    {
+      "english": "So grateful for this moment.",
+      "thai": "รู้สึกขอบคุณช่วงเวลานี้จัง",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703527"
+    },
+    {
+      "english": "Reflecting on the past journey.",
+      "thai": "นึกถึงการเดินทางที่ผ่านมา",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703528"
+    },
+    {
+      "english": "This feeling is quite profound.",
+      "thai": "ความรู้สึกนี้ลึกซึ้งจริงๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703529"
+    },
+    {
+      "english": "It’s a little overwhelming, you know.",
+      "thai": "มันก็ท่วมท้นนิดหน่อยนะ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703532"
+    },
+    {
+      "english": "Just need to pause and breathe.",
+      "thai": "แค่อยากหยุดพักหายใจ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703534"
+    },
+    {
+      "english": "A truly memorable experience.",
+      "thai": "เป็นประสบการณ์ที่น่าจดจำจริงๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703535"
+    },
+    {
+      "english": "Letting go of expectations.",
+      "thai": "ปล่อยวางความคาดหวัง",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703539"
+    },
+    {
+      "english": "Such a mixed set of emotions.",
+      "thai": "อารมณ์มันปนเปไปหมด",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703540"
+    },
+    {
+      "english": "Feeling a sense of wonder.",
+      "thai": "รู้สึกทึ่งนิดๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703542"
+    },
+    {
+      "english": "This journey changes perspectives.",
+      "thai": "การเดินทางเปลี่ยนมุมมอง",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703544"
+    },
+    {
+      "english": "Hoping for smooth travels ahead.",
+      "thai": "หวังว่าจะเดินทางราบรื่นนะ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703545"
+    },
+    {
+      "english": "A little bit nostalgic, I guess.",
+      "thai": "ออกแนวคิดถึงอดีตหน่อยๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703547"
+    },
+    {
+      "english": "Just going with the flow now.",
+      "thai": "ปล่อยไปตามน้ำเลย",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703549"
+    },
+    {
+      "english": "This solitude is quite welcome.",
+      "thai": "ความสันโดษนี้ดีจัง",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703551"
+    },
+    {
+      "english": "Feeling a gentle sense of calm.",
+      "thai": "รู้สึกใจเย็นๆ สบายๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703553"
+    },
+    {
+      "english": "It’s more than just a trip.",
+      "thai": "มันมากกว่าแค่การเดินทาง",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703555"
+    },
+    {
+      "english": "Appreciating the small moments.",
+      "thai": "ซาบซึ้งกับช่วงเวลาเล็กๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703557"
+    },
+    {
+      "english": "What a unique feeling this is.",
+      "thai": "รู้สึกแปลกใหม่จริงๆ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703558"
+    },
+    {
+      "english": "My mind feels much clearer.",
+      "thai": "ความคิดโล่งขึ้นเยอะเลย",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703559"
+    },
+    {
+      "english": "This is truly soul-refreshing.",
+      "thai": "นี่คือการเติมพลังใจอย่างแท้จริง",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703561"
+    },
+    {
+      "english": "Just being present, right now.",
+      "thai": "อยู่กับปัจจุบัน ณ ตอนนี้",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703563"
+    },
+    {
+      "english": "Excuse me, where is the gate?",
+      "thai": "ขอโทษครับ/ค่ะ, ประตูไปทางไหนครับ/คะ?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703564"
+    },
+    {
+      "english": "My luggage is lost.",
+      "thai": "กระเป๋าเดินทางของฉันหาย",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703566"
+    },
+    {
+      "english": "Can I have a window seat?",
+      "thai": "ขอที่นั่งริมหน้าต่างได้ไหม",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703567"
+    },
+    {
+      "english": "Is this the correct queue?",
+      "thai": "นี่คือคิวที่ถูกต้องใช่ไหม",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703569"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "thai": "แลกเงินได้ที่ไหนครับ/คะ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703570"
+    },
+    {
+      "english": "This bag is too heavy.",
+      "thai": "กระเป๋าใบนี้หนักเกินไป",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703572"
+    },
+    {
+      "english": "I need to rebook my flight.",
+      "thai": "ฉันต้องเปลี่ยนเที่ยวบิน",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703578"
+    },
+    {
+      "english": "Where is the restroom?",
+      "thai": "ห้องน้ำอยู่ที่ไหนครับ/คะ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703580"
+    },
+    {
+      "english": "Please fasten your seatbelt.",
+      "thai": "โปรดคาดเข็มขัด",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703581"
+    },
+    {
+      "english": "I have a connecting flight.",
+      "thai": "ฉันมีเที่ยวบินต่อ",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703583"
+    },
+    {
+      "english": "Can I have a blanket?",
+      "thai": "ขอผ้าห่มผืนหนึ่งได้ไหม",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703585"
+    },
+    {
+      "english": "What time is boarding?",
+      "thai": "เวลาขึ้นเครื่องกี่โมง",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703586"
+    },
+    {
+      "english": "I need a boarding pass.",
+      "thai": "ฉันต้องการบอร์ดดิ้งพาส",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-02T10:23:58.703588"
     }
   ],
-  "last_updated": "2026-11-01T09:57:14.403891"
+  "last_updated": "2026-11-02T10:23:58.703589"
 }

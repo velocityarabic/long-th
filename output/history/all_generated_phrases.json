@@ -11519,7 +11519,727 @@
       "thai": "ฉันต้องการบอร์ดดิ้งพาส",
       "category": "Travel & Airport",
       "generated_at": "2026-11-02T10:23:58.703588"
+    },
+    {
+      "english": "In my free time, I just chill.",
+      "thai": "เวลาว่างของฉัน, ฉันก็แค่อยู่เฉยๆ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029772"
+    },
+    {
+      "english": "After work, I scroll, then I plan.",
+      "thai": "หลังเลิกงาน, ฉันไถไปก่อน, แล้วค่อยวางแผน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029787"
+    },
+    {
+      "english": "Got any hobbies you actually stick with?",
+      "thai": "มีงานอดิเรกอะไร, ที่ทำจริงจังไหม",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029792"
+    },
+    {
+      "english": "I’m into gaming, what about you?",
+      "thai": "ฉันชอบเล่นเกม, แล้วคุณล่ะ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029796"
+    },
+    {
+      "english": "Wait, you’re serious about Thai cooking?",
+      "thai": "เดี๋ยวนะ, คุณจริงจังกับการทำอาหารไทยเหรอ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029800"
+    },
+    {
+      "english": "I try, but I get distracted fast.",
+      "thai": "ฉันพยายามนะ, แต่หลุดโฟกัสเร็วมาก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029803"
+    },
+    {
+      "english": "That sounds fun, I’ll try it.",
+      "thai": "ฟังดูสนุก, เดี๋ยวลองดู",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029807"
+    },
+    {
+      "english": "Really? No way, that’s awesome!",
+      "thai": "จริงเหรอ, ไม่ได้อะ, เจ๋งมาก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029814"
+    },
+    {
+      "english": "I’m off today, want to hang out?",
+      "thai": "วันนี้ฉันไม่ได้ทำงาน, ไปเจอกันไหม",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029820"
+    },
+    {
+      "english": "Let’s see, what should we do?",
+      "thai": "เอาไงดี, เราจะทำอะไรดี",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029824"
+    },
+    {
+      "english": "I’m tired, I’ll just rest today.",
+      "thai": "ฉันเหนื่อย, วันนี้ขอพักก่อน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029827"
+    },
+    {
+      "english": "Wow, you’re good at drawing!",
+      "thai": "โห, คุณวาดเก่งจังเลย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029831"
+    },
+    {
+      "english": "Keep it simple, just start small.",
+      "thai": "เอาให้ง่ายไว้, เริ่มจากน้อยๆก่อน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029833"
+    },
+    {
+      "english": "I’ll binge-watch, then I’ll do chores.",
+      "thai": "ฉันจะดูรวดเดียว, แล้วค่อยทำงานบ้าน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029838"
+    },
+    {
+      "english": "I’m brainstorming ideas for my weekend.",
+      "thai": "ฉันกำลังคิดไอเดียสำหรับวันหยุด",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029841"
+    },
+    {
+      "english": "No worries, we can do it later.",
+      "thai": "ไม่เป็นไร, เดี๋ยวค่อยทำทีหลัง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029844"
+    },
+    {
+      "english": "I’ll take a class, maybe twice a month.",
+      "thai": "ฉันจะไปเรียน, เดือนละสองครั้งก็ได้",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029847"
+    },
+    {
+      "english": "Careful, you’ll get addicted to it!",
+      "thai": "ระวังนะ, เดี๋ยวติดงอมเลย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029851"
+    },
+    {
+      "english": "I like it, but I don’t do it daily.",
+      "thai": "ฉันชอบนะ, แต่ไม่ได้ทำทุกวัน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029855"
+    },
+    {
+      "english": "That’s my vibe, let’s go!",
+      "thai": "นั่นแหละสไตล์ฉัน, ไปเลย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029858"
+    },
+    {
+      "english": "I’m practicing, slowly, but I’m improving.",
+      "thai": "ฉันกำลังฝึก, ค่อยๆไป, แต่มันดีขึ้น",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029862"
+    },
+    {
+      "english": "Give me a minute, I’ll set up.",
+      "thai": "ขอแป๊บหนึ่งนะ, เดี๋ยวฉันจัดให้",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029866"
+    },
+    {
+      "english": "Is it beginner-friendly, or too hard?",
+      "thai": "มันเหมาะกับคนเริ่มต้นไหม, หรือยากเกิน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029869"
+    },
+    {
+      "english": "I’m down, when do we start?",
+      "thai": "ได้เลย, เริ่มเมื่อไหร่",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029872"
+    },
+    {
+      "english": "I need a break, can we chill?",
+      "thai": "ฉันต้องพัก, เราไปชิลกันไหม",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029875"
+    },
+    {
+      "english": "Honestly, I’m obsessed with music playlists.",
+      "thai": "พูดตรงๆนะ, ฉันติดเพลย์ลิสต์เพลงมาก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029880"
+    },
+    {
+      "english": "Let’s swap tips, I’ll share mine too.",
+      "thai": "แลกทริคกัน, เดี๋ยวฉันแชร์ของฉันด้วย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029884"
+    },
+    {
+      "english": "That’s a great idea, I’m in!",
+      "thai": "ไอเดียดีมาก, ฉันเอาด้วย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029887"
+    },
+    {
+      "english": "I’ll try cooking, wish me luck!",
+      "thai": "ฉันจะลองทำอาหาร, ขอให้โชคดีนะ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029891"
+    },
+    {
+      "english": "No judgment, we all start somewhere.",
+      "thai": "ไม่ต้องตัดสิน, ทุกคนเริ่มจากที่หนึ่ง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029893"
+    },
+    {
+      "english": "What do you do on weekends, mostly?",
+      "thai": "เสาร์อาทิตย์คุณทำอะไรเป็นหลักครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029896"
+    },
+    {
+      "english": "Do you have any hobby you recommend?",
+      "thai": "คุณมีงานอดิเรกที่แนะนำไหมครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029900"
+    },
+    {
+      "english": "How did you get into that hobby?",
+      "thai": "คุณเริ่มทำงานอดิเรกนั้นได้ยังไงครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029902"
+    },
+    {
+      "english": "I’m curious, what music do you play?",
+      "thai": "ขอถามหน่อย คุณชอบฟังเพลงแนวไหนครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029906"
+    },
+    {
+      "english": "Which hobby helps you relax the most?",
+      "thai": "งานอดิเรกไหนช่วยให้คุณผ่อนคลายที่สุดครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029908"
+    },
+    {
+      "english": "Are you more into indoor or outdoor stuff?",
+      "thai": "คุณชอบแบบในบ้านหรือออกนอกบ้านมากกว่ากันครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029911"
+    },
+    {
+      "english": "What’s your go-to hobby when stressed?",
+      "thai": "เวลาเครียด คุณทำงานอดิเรกอะไรเป็นพิเศษครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029914"
+    },
+    {
+      "english": "Do you practice it weekly, or just weekends?",
+      "thai": "คุณทำบ่อยแค่ไหนครับ สัปดาห์ละครั้งหรือแค่เสาร์อาทิตย์?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029917"
+    },
+    {
+      "english": "How long have you been into this?",
+      "thai": "คุณชอบแบบนี้มานานแค่ไหนครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029919"
+    },
+    {
+      "english": "If I start, what should I buy first?",
+      "thai": "ถ้าผมเริ่ม คุณแนะนำให้ซื้ออะไรแรกๆครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029922"
+    },
+    {
+      "english": "Any tips for staying consistent, honestly?",
+      "thai": "มีวิธีทำให้ทำต่อเนื่องไหมครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029924"
+    },
+    {
+      "english": "What do you do first, before you start?",
+      "thai": "ก่อนเริ่ม คุณทำอะไรเป็นอย่างแรกครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029927"
+    },
+    {
+      "english": "Do you join clubs, or learn alone?",
+      "thai": "คุณเข้าชมรมไหมครับ หรือเรียนเองครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029930"
+    },
+    {
+      "english": "Which part do you enjoy most?",
+      "thai": "ส่วนไหนที่คุณชอบที่สุดครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029932"
+    },
+    {
+      "english": "Are there beginner classes near you?",
+      "thai": "แถวๆคุณมีคลาสสำหรับมือใหม่ไหมครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029936"
+    },
+    {
+      "english": "What’s the funniest thing that happened?",
+      "thai": "เรื่องตลกสุดๆ ที่เกิดขึ้นคืออะไรครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029940"
+    },
+    {
+      "english": "How do you balance hobbies and work?",
+      "thai": "คุณแบ่งเวลา ระหว่างงานกับงานอดิเรกยังไงครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029943"
+    },
+    {
+      "english": "What do you do when you need quiet?",
+      "thai": "เวลาต้องการความสงบ คุณทำอะไรครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029946"
+    },
+    {
+      "english": "Do you set goals for your hobby?",
+      "thai": "คุณตั้งเป้าหมายเรื่องงานอดิเรกไหมครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029948"
+    },
+    {
+      "english": "What’s your favorite weekend routine, really?",
+      "thai": "วันหยุดสุดสัปดาห์ คุณชอบทำรูทีนอะไรที่สุดครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029953"
+    },
+    {
+      "english": "Want to trade hobby ideas, tonight?",
+      "thai": "คืนนี้แลกไอเดียงานอดิเรกกันไหมครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029956"
+    },
+    {
+      "english": "Should I start small, or go all-in?",
+      "thai": "ผมควรเริ่มเล็กๆ หรือทุ่มไปเลยครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029959"
+    },
+    {
+      "english": "What’s a hobby that saves your mood?",
+      "thai": "งานอดิเรกอะไรช่วยปรับอารมณ์คุณที่สุดครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029962"
+    },
+    {
+      "english": "Do you ever switch hobbies, or stick long-term?",
+      "thai": "คุณเปลี่ยนงานอดิเรกบ่อยไหม หรือทำยาวๆครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029965"
+    },
+    {
+      "english": "How do you find new hobbies you like?",
+      "thai": "คุณหาแรงบันดาลใจให้เจองานอดิเรกใหม่ได้ยังไงครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029967"
+    },
+    {
+      "english": "What’s your ideal free-time activity, today?",
+      "thai": "วันนี้เวลาว่าง อยากทำอะไรที่สุดครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029971"
+    },
+    {
+      "english": "Can you teach me the basics, later?",
+      "thai": "ไว้ทีหลังสอนพื้นฐานให้ผมหน่อยได้ไหมครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029974"
+    },
+    {
+      "english": "What usually stops you from doing hobbies?",
+      "thai": "อะไรทำให้คุณเลิกหรือไม่ค่อยทำงานอดิเรกครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029977"
+    },
+    {
+      "english": "Do you prefer learning by videos, or in-person?",
+      "thai": "คุณเรียนจากวิดีโอ หรือเรียนด้วยตัวเองมากกว่ากันครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029980"
+    },
+    {
+      "english": "What’s the first small win you aim for?",
+      "thai": "เป้าหมายเล็กๆแรกๆที่คุณอยากทำคืออะไรครับ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029983"
+    },
+    {
+      "english": "Hobby time, no pressure, just enjoy.",
+      "thai": "เวลาเล่นงานอดิเรก, ไม่กดดัน, แค่อยู่กับมัน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029986"
+    },
+    {
+      "english": "Weekend vibes, out of office, mind at ease.",
+      "thai": "วันหยุดยิ้มๆ, ออกจากงาน, ใจสบาย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029989"
+    },
+    {
+      "english": "In Thai style, สนุกพอประมาณ, ไม่ต้องฝืน.",
+      "thai": "ทำแบบไทยๆ, สนุกพอประมาณ, ไม่ต้องฝืน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029995"
+    },
+    {
+      "english": "When you’re free, grab the moment, literally.",
+      "thai": "ว่างเมื่อไหร่, คว้าโอกาสไว้",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.029999"
+    },
+    {
+      "english": "Make it a habit, not just a mood.",
+      "thai": "ทำให้เป็นกิจวัตร, ไม่ใช่แค่ฟีล",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030002"
+    },
+    {
+      "english": "No rush, take it step by step, เพลินๆ.",
+      "thai": "ไม่ต้องรีบ, ค่อยเป็นค่อยไป, เพลินๆ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030006"
+    },
+    {
+      "english": "Let’s turn ‘free time’ into something fun.",
+      "thai": "แปลงเวลาว่าง, ให้เป็นเรื่องสนุก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030010"
+    },
+    {
+      "english": "After work, unwind first, then do your thing.",
+      "thai": "เลิกงานแล้ว, คลายเครียดก่อน, ค่อยทำที่ชอบ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030013"
+    },
+    {
+      "english": "Stay busy, but don’t burn out, นะคะ.",
+      "thai": "ทำให้ยุ่งได้, แต่ห้ามหมดไฟ, นะคะ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030017"
+    },
+    {
+      "english": "Find your chill spot, then stick with it.",
+      "thai": "หาโหมดสบายๆ, แล้วอยู่กับมัน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030020"
+    },
+    {
+      "english": "Enjoy small things, that’s the Thai secret.",
+      "thai": "สุขเล็กๆ น้อยๆ ก็พอแล้ว, นี่แหละทริคไทย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030023"
+    },
+    {
+      "english": "If it feels right, go for it today.",
+      "thai": "ถ้ามันใช่, ลองเลยวันนี้",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030026"
+    },
+    {
+      "english": "Play like it’s your ‘time with self’.",
+      "thai": "ปล่อยใจให้สนุก, เหมือนเวลาคุยกับตัวเอง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030030"
+    },
+    {
+      "english": "No drama, just do what makes you happy.",
+      "thai": "ไม่ต้องวุ่นวาย, ทำสิ่งที่ทำให้มีความสุข",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030032"
+    },
+    {
+      "english": "Switch off, recharge, then come back stronger.",
+      "thai": "ปิดเครื่องก่อน, ชาร์จใจ, แล้วค่อยไปใหม่",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030035"
+    },
+    {
+      "english": "Your free time should ‘fit your life’.",
+      "thai": "เวลาว่างต้องเข้ากับชีวิตนะ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030039"
+    },
+    {
+      "english": "Try new things, อย่ากลัวลองผิดลองถูก.",
+      "thai": "ลองของใหม่, อย่ากลัวลองผิดลองถูก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030043"
+    },
+    {
+      "english": "Do it for fun, ไม่ใช่ทำไปฝืนๆ.",
+      "thai": "ทำเอาสนุก, ไม่ใช่ทำไปฝืนๆ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030048"
+    },
+    {
+      "english": "Make time, ของมันต้องมี.",
+      "thai": "ต้องหาเวลา, ของมันต้องมี",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030052"
+    },
+    {
+      "english": "Let hobbies ‘keep your heart light’.",
+      "thai": "งานอดิเรกช่วยให้ใจเบา",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030055"
+    },
+    {
+      "english": "Start messy, anyway, it’ll get better.",
+      "thai": "เริ่มเละๆ ก็ได้, เดี๋ยวมันดีขึ้น",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030059"
+    },
+    {
+      "english": "If you can, do it with friends, สนุกกว่า.",
+      "thai": "ถ้าทำได้, ทำกับเพื่อน, สนุกกว่า",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030063"
+    },
+    {
+      "english": "After dinner, go out a bit, เดี๋ยวใจจะโล่ง.",
+      "thai": "หลังอาหาร, ออกไปนิดนึง, เดี๋ยวใจจะโล่ง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030068"
+    },
+    {
+      "english": "Don’t wait for motivation, just show up.",
+      "thai": "อย่ารอแรงบันดาลใจ, แค่ไปก่อน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030071"
+    },
+    {
+      "english": "Your hobby, your rules, ไม่มีใครห้าม.",
+      "thai": "งานอดิเรกของเรา, กติกาของเรา, ไม่มีใครห้าม",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030075"
+    },
+    {
+      "english": "Try it once, you might catch the bug.",
+      "thai": "ลองแค่ครั้งเดียว, เดี๋ยวติดงอมเลย",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030078"
+    },
+    {
+      "english": "Keep it light, don’t make it a burden.",
+      "thai": "ทำให้เบาๆ, อย่าทำเป็นภาระ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030081"
+    },
+    {
+      "english": "Free time is for living, not stressing.",
+      "thai": "เวลาว่างไว้ใช้ชีวิต, ไม่ใช่ไว้เครียด",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030084"
+    },
+    {
+      "english": "Honestly, I need calm before my hobby.",
+      "thai": "พูดตรงๆ ฉันต้องการความสงบก่อนทำงานอดิเรก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030088"
+    },
+    {
+      "english": "Sometimes I feel stuck, so I switch gears.",
+      "thai": "บางทีฉันรู้สึกตัน เลยเปลี่ยนโหมดนิดนึง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030091"
+    },
+    {
+      "english": "I don’t force it, I let it flow.",
+      "thai": "ฉันไม่ฝืนหรอก ปล่อยให้มันไหลไป",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030095"
+    },
+    {
+      "english": "When I make time, my mind softens.",
+      "thai": "พอฉันหาเวลาสักหน่อย ใจมันเบาลง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030097"
+    },
+    {
+      "english": "I’m patient, slow practice beats rushing.",
+      "thai": "ฉันใจเย็น ฝึกช้าๆ ยังดีกว่ารีบ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030101"
+    },
+    {
+      "english": "This hobby helps me be more honest.",
+      "thai": "งานอดิเรกนี้ทำให้ฉันซื่อสัตย์กับความรู้สึก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030104"
+    },
+    {
+      "english": "I don’t chase perfection, I chase peace.",
+      "thai": "ฉันไม่ไล่ความเป๊ะ ฉันไล่ความสบายใจ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030107"
+    },
+    {
+      "english": "Some days, I just want quiet fun.",
+      "thai": "บางวัน แค่อยากได้ความสนุกแบบเงียบๆ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030110"
+    },
+    {
+      "english": "I reflect while I do my hobby.",
+      "thai": "ฉันคิดทบทวนไปด้วยตอนทำงานอดิเรก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030112"
+    },
+    {
+      "english": "Honestly, I feel lighter after I create.",
+      "thai": "พูดจริงๆ ฉันเบาขึ้นหลังจากได้สร้างอะไร",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030116"
+    },
+    {
+      "english": "I’m learning, not judging myself.",
+      "thai": "ฉันกำลังเรียนรู้ ไม่ได้ตัดสินตัวเอง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030119"
+    },
+    {
+      "english": "My hobby is my safe place, really.",
+      "thai": "งานอดิเรกคือที่ปลอดภัยของฉันนะ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030122"
+    },
+    {
+      "english": "If I’m stressed, I choose something gentle.",
+      "thai": "ถ้าฉันเครียด ฉันจะเลือกแบบนุ่มๆ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030125"
+    },
+    {
+      "english": "I listen to my body, then start.",
+      "thai": "ฉันฟังร่างกายตัวเองก่อน แล้วค่อยเริ่ม",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030127"
+    },
+    {
+      "english": "I don’t mind slow progress, it’s real.",
+      "thai": "ไม่เป็นไรที่มันช้า เพราะมันเป็นของจริง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030131"
+    },
+    {
+      "english": "Sometimes I need a reset, not more tasks.",
+      "thai": "บางทีฉันต้องรีเซ็ต ไม่ใช่เพิ่มภาระ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030134"
+    },
+    {
+      "english": "I keep it real, I’m still improving.",
+      "thai": "ฉันพูดตามจริง ฉันยังพัฒนาอยู่",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030137"
+    },
+    {
+      "english": "I take breaks, so I don’t burn out.",
+      "thai": "ฉันพักเป็นช่วงๆ จะได้ไม่หมดแรง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030141"
+    },
+    {
+      "english": "My best moments happen when I slow down.",
+      "thai": "ช่วงที่ดีที่สุดของฉัน คือเวลาที่ช้าลง",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030144"
+    },
+    {
+      "english": "I enjoy the process, even when it’s messy.",
+      "thai": "ฉันชอบขั้นตอน ต่อให้มันยุ่งๆ ก็ตาม",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030148"
+    },
+    {
+      "english": "I journal after, it helps me sort feelings.",
+      "thai": "ฉันเขียนไดอารี่หลังทำ มันช่วยจัดความรู้สึก",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030151"
+    },
+    {
+      "english": "I don’t need big goals, just steady joy.",
+      "thai": "ไม่ต้องมีเป้าหมายใหญ่ ขอแค่ความสุขสม่ำเสมอ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030154"
+    },
+    {
+      "english": "Sometimes I’m tired, so I choose easier hobbies.",
+      "thai": "บางทีฉันเหนื่อย เลยเลือกงานอดิเรกที่เบากว่า",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030157"
+    },
+    {
+      "english": "I’m honest, I still want more time.",
+      "thai": "ฉันพูดตรงๆ ฉันก็อยากมีเวลามากขึ้น",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030160"
+    },
+    {
+      "english": "My hobby keeps me grounded, especially at night.",
+      "thai": "งานอดิเรกทำให้ฉันอยู่กับปัจจุบัน โดยเฉพาะตอนกลางคืน",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030164"
+    },
+    {
+      "english": "I let myself enjoy, no guilt attached.",
+      "thai": "ฉันอนุญาตให้ตัวเองสนุก ไม่ต้องรู้สึกผิด",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030166"
+    },
+    {
+      "english": "Even small hobbies can change my mood.",
+      "thai": "งานอดิเรกเล็กๆ ก็ช่วยเปลี่ยนอารมณ์ฉันได้",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030169"
+    },
+    {
+      "english": "I pause, breathe, then return to my hobby.",
+      "thai": "ฉันหยุด หายใจเข้าลึกๆ แล้วค่อยกลับไป",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030172"
+    },
+    {
+      "english": "I’m okay with it not working today.",
+      "thai": "วันนี้ถ้ามันไม่เวิร์กก็ไม่เป็นไรนะ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030175"
+    },
+    {
+      "english": "I choose hobbies that feel safe and warm.",
+      "thai": "ฉันเลือกงานอดิเรกที่รู้สึกปลอดภัย อบอุ่น",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030177"
+    },
+    {
+      "english": "On weekends, I try a new class, ใจชอบไหนไปทางนั้น",
+      "thai": "วันหยุด ผมลองคลาสใหม่, ใจชอบไหนไปทางนั้น",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030182"
+    },
+    {
+      "english": "Before I start, I clear my desk, ง่ายกว่าเยอะ",
+      "thai": "ก่อนเริ่ม ฉันจัดโต๊ะให้โล่งก่อน, ง่ายกว่าเยอะ",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:02.030187"
     }
   ],
-  "last_updated": "2026-11-02T10:23:58.703589"
+  "last_updated": "2026-11-03T10:23:02.030189"
 }

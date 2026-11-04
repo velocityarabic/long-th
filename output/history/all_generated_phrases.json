@@ -12239,7 +12239,727 @@
       "thai": "ก่อนเริ่ม ฉันจัดโต๊ะให้โล่งก่อน, ง่ายกว่าเยอะ",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-03T10:23:02.030187"
+    },
+    {
+      "english": "Before meals, say 'ขอบคุณ',นะ",
+      "thai": "ก่อนกิน, พูด 'ขอบคุณ', นะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327113"
+    },
+    {
+      "english": "Touch your forehead first, then wai",
+      "thai": "แตะหน้าผากก่อน, แล้วค่อยไหว",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327124"
+    },
+    {
+      "english": "When someone passes, step aside politely",
+      "thai": "เวลาคนผ่าน, ถอยให้สุภาพหน่อย",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327128"
+    },
+    {
+      "english": "If you’re unsure, ask gently",
+      "thai": "ถ้าไม่แน่ใจ, ถามแบบสุภาพนะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327131"
+    },
+    {
+      "english": "Look at the floor, keep your manners",
+      "thai": "มองพื้นก่อน, รักษามารยาทนะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327135"
+    },
+    {
+      "english": "Use 'ขอ' first, then ask your favor",
+      "thai": "เริ่มด้วย 'ขอ', แล้วค่อยขอร้อง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327138"
+    },
+    {
+      "english": "Sorry, I didn’t mean to cut in",
+      "thai": "ขอโทษนะ, ไม่ได้ตั้งใจจะแซง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327142"
+    },
+    {
+      "english": "Thanks for helping me, really appreciate it",
+      "thai": "ขอบคุณที่ช่วยนะ, ซึ้งมากเลย",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327149"
+    },
+    {
+      "english": "No worries, we’ll fix it together",
+      "thai": "ไม่เป็นไรนะ, เดี๋ยวเราจัดให้",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327153"
+    },
+    {
+      "english": "When you enter, say hello first",
+      "thai": "พอเข้าไป, ทักทายก่อนนะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327157"
+    },
+    {
+      "english": "At the temple, keep your voice low",
+      "thai": "ไปวัดแล้ว, พูดเบาๆ นะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327159"
+    },
+    {
+      "english": "Take a small bite, show respect",
+      "thai": "คำเล็กๆ ก่อน, แสดงความเกรงใจ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327162"
+    },
+    {
+      "english": "Wait your turn, it’s the polite way",
+      "thai": "รอคิวก่อนนะ, สุภาพดี",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327165"
+    },
+    {
+      "english": "If you’re late, apologize right away",
+      "thai": "มาช้าแล้ว, ขอโทษทันทีนะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327169"
+    },
+    {
+      "english": "Can I sit here, if it’s okay?",
+      "thai": "นั่งตรงนี้ได้ไหม, ถ้าไม่รบกวน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327174"
+    },
+    {
+      "english": "Please, take it slowly, don’t rush",
+      "thai": "ช้าๆ นะ, ค่อยๆ ทำ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327177"
+    },
+    {
+      "english": "Good luck, you’ll do great",
+      "thai": "สู้ๆ นะ, เดี๋ยวก็ผ่าน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327181"
+    },
+    {
+      "english": "Cheers, let’s toast together",
+      "thai": "แก้วนี้, ชนกันหน่อย",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327184"
+    },
+    {
+      "english": "Right there, that’s perfect, thank you",
+      "thai": "ตรงนั้นเลย, พอดีมาก ขอบคุณ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327187"
+    },
+    {
+      "english": "Wow, that’s so beautiful",
+      "thai": "ว้าว, สวยมากเลย",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327190"
+    },
+    {
+      "english": "Really? Tell me more, please",
+      "thai": "จริงเหรอ, เล่าให้ฟังหน่อย",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327193"
+    },
+    {
+      "english": "That’s my bad, I’ll fix it",
+      "thai": "ผิดเองเลย, เดี๋ยวทำใหม่",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327196"
+    },
+    {
+      "english": "Excuse me, where’s the bathroom?",
+      "thai": "ขอโทษนะ, ห้องน้ำอยู่ไหน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327199"
+    },
+    {
+      "english": "I’ll handle it, don’t worry",
+      "thai": "เดี๋ยวฉันจัดการเอง, ไม่ต้องกังวล",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327203"
+    },
+    {
+      "english": "Keep it, don’t throw it away",
+      "thai": "เก็บไว้หน่อยนะ, อย่าทิ้ง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327206"
+    },
+    {
+      "english": "Have you eaten yet?",
+      "thai": "กินข้าวหรือยัง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327208"
+    },
+    {
+      "english": "Not yet, I’ll eat soon",
+      "thai": "ยังไม่กิน, เดี๋ยวค่อยกิน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327211"
+    },
+    {
+      "english": "Please come in, make yourself at home",
+      "thai": "เชิญเข้ามา, สบายๆ นะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327214"
+    },
+    {
+      "english": "Okay, let’s do it, right now",
+      "thai": "ได้เลย, ไปกันเลย",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327217"
+    },
+    {
+      "english": "Thanks again, I owe you",
+      "thai": "ขอบคุณอีกครั้งนะ, เป็นบุญคุณ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327220"
+    },
+    {
+      "english": "Can I learn the proper wai steps?",
+      "thai": "ขอเรียนท่าการไหว้ที่ถูกต้องได้ไหมคะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327222"
+    },
+    {
+      "english": "How do I greet elders, politely?",
+      "thai": "ฉันควรทักผู้ใหญ่ยังไงให้สุภาพ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327225"
+    },
+    {
+      "english": "What should I say when I visit?",
+      "thai": "ไปเยี่ยมบ้านแล้วควรพูดอะไรบ้าง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327228"
+    },
+    {
+      "english": "May I ask about the house rules?",
+      "thai": "ขอถามกฎในบ้านได้ไหมคะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327231"
+    },
+    {
+      "english": "Is it okay to take photos inside?",
+      "thai": "ถ่ายรูปข้างในได้ไหมคะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327233"
+    },
+    {
+      "english": "Where should I put my shoes?",
+      "thai": "ฉันควรวางรองเท้าไว้ตรงไหน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327236"
+    },
+    {
+      "english": "When someone offers water, what do I do?",
+      "thai": "ถ้ามีคนยื่นน้ำให้ ควรทำยังไง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327239"
+    },
+    {
+      "english": "Should I use both hands for offerings?",
+      "thai": "เวลายื่นของควรใช้สองมือไหม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327242"
+    },
+    {
+      "english": "How do I show respect at the shrine?",
+      "thai": "ต้องทำยังไงให้เคารพศาลเจ้า",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327244"
+    },
+    {
+      "english": "Do I cover my shoulders inside?",
+      "thai": "ต้องคลุมไหล่เมื่อเข้าไปข้างในไหม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327248"
+    },
+    {
+      "english": "Can you recommend what to bring as a guest?",
+      "thai": "แนะนำหน่อยได้ไหม ว่าไปเป็นแขกควรนำอะไร",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327253"
+    },
+    {
+      "english": "What’s the best way to ask for permission?",
+      "thai": "วิธีที่ดีที่สุดในการขออนุญาตคืออะไร",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327257"
+    },
+    {
+      "english": "If I’m invited, what should I do next?",
+      "thai": "ถ้าเขาชวนมา ฉันควรทำอะไรต่อ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327260"
+    },
+    {
+      "english": "How long should I stay during a visit?",
+      "thai": "ไปเยี่ยมแล้วอยู่ประมาณกี่นาที",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327263"
+    },
+    {
+      "english": "What do Thais usually talk about first?",
+      "thai": "คนไทยคุยอะไรกันเป็นอย่างแรก",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327265"
+    },
+    {
+      "english": "Could you teach me a polite closing line?",
+      "thai": "ช่วยสอนประโยคปิดท้ายแบบสุภาพหน่อยได้ไหม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327269"
+    },
+    {
+      "english": "How should I respond if I get a gift?",
+      "thai": "ถ้าได้รับของขวัญ ควรตอบยังไง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327272"
+    },
+    {
+      "english": "Is it polite to refuse a second time?",
+      "thai": "การปฏิเสธครั้งที่สองถือว่าสุภาพไหม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327275"
+    },
+    {
+      "english": "What do I do if I’m confused?",
+      "thai": "ถ้าฉันไม่เข้าใจ ควรทำยังไงดี",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327278"
+    },
+    {
+      "english": "May I ask your opinion about this?",
+      "thai": "ขอถามความเห็นคุณได้ไหมคะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327280"
+    },
+    {
+      "english": "When should I use polite particles?",
+      "thai": "เมื่อไหร่ต้องใส่คำลงท้ายที่สุภาพ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327285"
+    },
+    {
+      "english": "How do I keep my voice respectful?",
+      "thai": "ฉันควรพูดเสียงเบาแค่ไหน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327287"
+    },
+    {
+      "english": "What’s the custom for giving flowers?",
+      "thai": "ธรรมเนียมการให้ดอกไม้คืออะไร",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327290"
+    },
+    {
+      "english": "Should I bow, or just wai?",
+      "thai": "ต้องโค้งไหม หรือแค่ไหว้ก็พอ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327293"
+    },
+    {
+      "english": "How can I learn faster, step by step?",
+      "thai": "เรียนให้ไวขึ้นได้ยังไง แบบทีละขั้น",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327296"
+    },
+    {
+      "english": "What should I avoid during ceremonies?",
+      "thai": "ช่วงพิธี ควรหลีกเลี่ยงอะไรบ้าง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327298"
+    },
+    {
+      "english": "Can I learn Thai greeting for today’s event?",
+      "thai": "วันนี้มีงานอะไร ผม/หนูทักแบบไหนได้บ้าง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327301"
+    },
+    {
+      "english": "What’s the right timing for questions?",
+      "thai": "ถามตอนไหนถึงจะเหมาะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327305"
+    },
+    {
+      "english": "If they correct me, what should I say?",
+      "thai": "ถ้าเขาช่วยปรับ ฉันควรพูดว่าอะไร",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327307"
+    },
+    {
+      "english": "How do you want me to address you?",
+      "thai": "คุณอยากให้เรียกชื่อยังไง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327310"
+    },
+    {
+      "english": "Make merit, but do good quietly, ok?",
+      "thai": "ทำบุญก็ทำเงียบๆนะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327313"
+    },
+    {
+      "english": "Respect first, we’ll talk after that.",
+      "thai": "ให้เกียรติก่อน ค่อยคุยกัน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327316"
+    },
+    {
+      "english": "Elders’ words, we listen, no arguing.",
+      "thai": "คำผู้ใหญ่ เราฟัง ไม่เถียง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327320"
+    },
+    {
+      "english": "Give face, keep the peace, always.",
+      "thai": "ให้หน้าไว้ ใจเย็นๆนะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327323"
+    },
+    {
+      "english": "Today we eat together, tomorrow we repay.",
+      "thai": "วันนี้กินด้วย พรุ่งนี้ตอบแทน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327325"
+    },
+    {
+      "english": "Small kindness, big heart, that’s Thai.",
+      "thai": "น้ำใจเล็กๆ ใจใหญ่ๆ นี่แหละไทย",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327329"
+    },
+    {
+      "english": "Don’t force it, go with the flow.",
+      "thai": "อย่าฝืน ทำตามจังหวะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327332"
+    },
+    {
+      "english": "Slow and steady, tradition will follow.",
+      "thai": "ช้าๆได้พร้าเล่มงาม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327335"
+    },
+    {
+      "english": "Family comes first, everything else later.",
+      "thai": "ครอบครัวมาก่อน ที่เหลือค่อยว่ากัน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327338"
+    },
+    {
+      "english": "We start with gratitude, not jokes.",
+      "thai": "เริ่มจากขอบคุณ อย่าเพิ่งล้อเล่น",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327341"
+    },
+    {
+      "english": "Share a bit, don’t keep everything.",
+      "thai": "แบ่งปันหน่อย อย่ากอดไว้คนเดียว",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327344"
+    },
+    {
+      "english": "If it’s not your job, don’t take it.",
+      "thai": "ไม่ใช่หน้าที่ ก็อย่ายื่นมือ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327349"
+    },
+    {
+      "english": "When guests arrive, hurry and prepare.",
+      "thai": "แขกมาแล้ว รีบจัด รีบต้อนรับ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327352"
+    },
+    {
+      "english": "No need to rush, we do things slowly.",
+      "thai": "ไม่ต้องรีบ ค่อยเป็นค่อยไป",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327354"
+    },
+    {
+      "english": "Today we’re lucky, don’t waste it.",
+      "thai": "วันนี้โอกาสมา อย่าปล่อยผ่าน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327358"
+    },
+    {
+      "english": "Bring your hands together, wai is enough.",
+      "thai": "ยกมือไหว้พอแล้ว",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327360"
+    },
+    {
+      "english": "Keep calm, we don’t make a scene.",
+      "thai": "ใจเย็นๆ อย่าทำเรื่องใหญ่",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327364"
+    },
+    {
+      "english": "Good manners open doors, every time.",
+      "thai": "มารยาทดี เปิดทาง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327366"
+    },
+    {
+      "english": "Don’t speak harshly, use gentle words.",
+      "thai": "พูดดีๆไว้ อย่าแรง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327369"
+    },
+    {
+      "english": "Take it easy, today is a merit day.",
+      "thai": "วันนี้ทำบุญ อยู่แบบสบายๆ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327372"
+    },
+    {
+      "english": "Wai lightly, smile a little, that’s it.",
+      "thai": "ไหว้นิด ยิ้มหน่อย ก็พอ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327375"
+    },
+    {
+      "english": "If you don’t know, ask politely.",
+      "thai": "ไม่รู้ก็ถามสุภาพๆ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327379"
+    },
+    {
+      "english": "Don’t point, it looks rude here.",
+      "thai": "อย่าชี้นะ ดูไม่สุภาพ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327382"
+    },
+    {
+      "english": "In Thai culture, we keep face.",
+      "thai": "วัฒนธรรมไทย เราไม่ให้เสียหน้า",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327385"
+    },
+    {
+      "english": "We do it together, no one left out.",
+      "thai": "ช่วยกันไว้ ทุกคนได้ร่วม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327387"
+    },
+    {
+      "english": "If offered, accept with a smile.",
+      "thai": "เขาให้ก็รับ ยิ้มไว้",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327390"
+    },
+    {
+      "english": "Be grateful, then pay it forward.",
+      "thai": "ขอบคุณก่อน แล้วตอบแทนทีหลัง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327395"
+    },
+    {
+      "english": "A small gift, big respect, that counts.",
+      "thai": "ของเล็กๆ ใส่ใจมากๆ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327398"
+    },
+    {
+      "english": "Don’t skip elders’ greetings, it matters.",
+      "thai": "ทักผู้ใหญ่ไม่ขาด นั่นสำคัญ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327401"
+    },
+    {
+      "english": "Good deeds return, karma doesn’t miss.",
+      "thai": "ทำดีได้ดี ทำชั่วได้ชั่ว",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327405"
+    },
+    {
+      "english": "I’m nervous, but I want to do it right.",
+      "thai": "ฉันกังวลนะ, แต่ก็อยากทำให้ถูกต้อง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327408"
+    },
+    {
+      "english": "Thank you for being patient with me.",
+      "thai": "ขอบคุณนะ, ที่ใจเย็นกับฉัน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327411"
+    },
+    {
+      "english": "Today I’ll slow down, and really listen.",
+      "thai": "วันนี้ฉันจะช้าลง, แล้วฟังให้จริงๆ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327414"
+    },
+    {
+      "english": "I’m learning, so please forgive my mistakes.",
+      "thai": "ฉันกำลังเรียนรู้, ช่วยให้อภัยความผิดพลาดหน่อยนะ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327418"
+    },
+    {
+      "english": "I feel grateful, and I’ll show it calmly.",
+      "thai": "ฉันรู้สึกขอบคุณ, แล้วจะแสดงออกอย่างใจเย็น",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327421"
+    },
+    {
+      "english": "My heart says thank you, even quietly.",
+      "thai": "ใจฉันบอกว่า ขอบคุณนะ, แม้จะเงียบๆ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327426"
+    },
+    {
+      "english": "I don’t want to rush, tradition deserves respect.",
+      "thai": "ฉันไม่อยากรีบ, ประเพณีต้องได้รับความเคารพ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327429"
+    },
+    {
+      "english": "I’ll keep my mind open, and learn gently.",
+      "thai": "ฉันจะเปิดใจ, แล้วเรียนแบบค่อยๆ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327433"
+    },
+    {
+      "english": "Even if I’m new, I’ll be mindful.",
+      "thai": "ถึงฉันจะใหม่, ฉันก็จะระวังตัว",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327436"
+    },
+    {
+      "english": "I appreciate the guidance, it helps me a lot.",
+      "thai": "ฉันขอบคุณคำแนะนำ, มันช่วยฉันมาก",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327439"
+    },
+    {
+      "english": "I’m trying to understand the meaning, not just copy.",
+      "thai": "ฉันพยายามเข้าใจความหมาย, ไม่ใช่แค่ทำตาม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327442"
+    },
+    {
+      "english": "If I feel unsure, I’ll pause and observe.",
+      "thai": "ถ้าฉันไม่แน่ใจ, ฉันจะหยุดก่อนแล้วสังเกต",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327446"
+    },
+    {
+      "english": "I want to be sincere, not just polite.",
+      "thai": "ฉันอยากจริงใจ, ไม่ใช่แค่สุภาพ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327450"
+    },
+    {
+      "english": "I’ll put my feelings aside, for harmony.",
+      "thai": "ฉันจะเก็บความรู้สึกไว้ก่อน, เพื่อความกลมกลืน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327455"
+    },
+    {
+      "english": "This moment feels important, so I’m grateful.",
+      "thai": "ช่วงเวลานี้สำคัญนะ, เลยรู้สึกขอบคุณ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327458"
+    },
+    {
+      "english": "I respect the rules, and I’ll do my best.",
+      "thai": "ฉันเคารพกติกา, และจะทำให้ดีที่สุด",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327462"
+    },
+    {
+      "english": "I’m not perfect, but I’m trying hard.",
+      "thai": "ฉันไม่สมบูรณ์แบบ, แต่ฉันพยายามเต็มที่",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327465"
+    },
+    {
+      "english": "I’ll breathe slowly, then speak when ready.",
+      "thai": "ฉันจะหายใจช้าๆ, แล้วค่อยพูดเมื่อพร้อม",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327469"
+    },
+    {
+      "english": "I want to honor everyone present, truly.",
+      "thai": "ฉันอยากให้เกียรติทุกคนที่อยู่ตรงนี้, จริงๆ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327471"
+    },
+    {
+      "english": "I feel calm now, thanks to your guidance.",
+      "thai": "ตอนนี้ฉันรู้สึกสบายใจแล้ว, ขอบคุณคำแนะนำ",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327474"
+    },
+    {
+      "english": "My reflection today is, be humble and steady.",
+      "thai": "สิ่งที่ฉันคิดทบทวนวันนี้คือ, สุภาพและใจมั่นคง",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327477"
+    },
+    {
+      "english": "I’ll accept, even if I don’t fully get it yet.",
+      "thai": "ฉันจะรับมันไว้, แม้ยังไม่เข้าใจทั้งหมด",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327483"
+    },
+    {
+      "english": "I’m grateful for space to learn at my pace.",
+      "thai": "ฉันขอบคุณที่ให้พื้นที่เรียนรู้, ตามจังหวะฉัน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327486"
+    },
+    {
+      "english": "Let’s keep it respectful, no overthinking.",
+      "thai": "ขอให้รักษาความสุภาพนะ, ไม่ต้องคิดมาก",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327489"
+    },
+    {
+      "english": "I’m grateful, but I still need time to adjust.",
+      "thai": "ฉันขอบคุณนะ, แต่ฉันยังต้องใช้เวลาเพื่อปรับตัว",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327493"
+    },
+    {
+      "english": "I’ll do it with patience, step by step.",
+      "thai": "ฉันจะทำด้วยความอดทน, ทีละขั้น",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327496"
+    },
+    {
+      "english": "I’m learning the emotion behind the tradition.",
+      "thai": "ฉันกำลังเรียนรู้ความรู้สึกที่อยู่ในประเพณี",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327499"
+    },
+    {
+      "english": "I’ll keep my voice gentle, and my thoughts clear.",
+      "thai": "ฉันจะพูดด้วยน้ำเสียงนุ่มนวล, และคิดให้ชัดเจน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327502"
+    },
+    {
+      "english": "Honestly, I’m moved by how people care.",
+      "thai": "พูดตรงๆนะ, ฉันซาบซึ้งที่ทุกคนดูแลกัน",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327506"
+    },
+    {
+      "english": "I’ll leave with respect, and carry this lesson.",
+      "thai": "ฉันจะกลับไปด้วยความเคารพ, และจำบทเรียนนี้",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-04T10:15:53.327509"
     }
   ],
-  "last_updated": "2026-11-03T10:23:02.030189"
+  "last_updated": "2026-11-04T10:15:53.327511"
 }

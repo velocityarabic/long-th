@@ -13679,7 +13679,727 @@
       "thai": "ขอความช่วยเหลือ, อย่าถือคนเดียว",
       "category": "Happiness",
       "generated_at": "2026-11-05T10:09:35.525032"
+    },
+    {
+      "english": "Okay, warm up first, then stretch.",
+      "thai": "โอเค วอร์มก่อนนะ, แล้วค่อยยืด",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897269"
+    },
+    {
+      "english": "I’m tired, I need water now.",
+      "thai": "เหนื่อยแล้ว ขอเอาน้ำก่อนนะ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897284"
+    },
+    {
+      "english": "Slow down, you’re going too fast.",
+      "thai": "ช้าลงหน่อย, เร็วไปนะ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897287"
+    },
+    {
+      "english": "Good job, keep your form, don’t rush.",
+      "thai": "ทำดีมาก, รักษาฟอร์มนะ, อย่ารีบ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897289"
+    },
+    {
+      "english": "Ouch, that hurt, stop for a sec.",
+      "thai": "โอ๊ย เจ็บอะ, หยุดก่อนแป๊บ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897291"
+    },
+    {
+      "english": "Are we cooling down yet, please?",
+      "thai": "เราจะคูลดาวน์กันแล้วหรือยัง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897293"
+    },
+    {
+      "english": "Keep breathing, don’t hold it.",
+      "thai": "หายใจต่อ, อย่ากลั้นไว้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897297"
+    },
+    {
+      "english": "No worries, we’ll start again.",
+      "thai": "ไม่เป็นไร เดี๋ยวเริ่มใหม่",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897302"
+    },
+    {
+      "english": "I can’t do this, I’m stuck!",
+      "thai": "ทำไม่ไหวแล้ว, ติดตรงนี้เลย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897305"
+    },
+    {
+      "english": "Wait, my legs are burning, okay?",
+      "thai": "เดี๋ยวก่อน ขาไหม้แล้วนะ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897308"
+    },
+    {
+      "english": "Shake it out, you’re fine.",
+      "thai": "เขย่าหน่อย เดี๋ยวก็หาย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897310"
+    },
+    {
+      "english": "How many sets, like, today?",
+      "thai": "วันนี้กี่เซ็ตอะ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897313"
+    },
+    {
+      "english": "Is this machine adjustable, right?",
+      "thai": "เครื่องนี้ปรับได้ใช่ไหม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897315"
+    },
+    {
+      "english": "I feel great, let’s push a bit.",
+      "thai": "รู้สึกดีมาก งั้นขอจัดเพิ่มนิด",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897318"
+    },
+    {
+      "english": "Pause, check your posture, please.",
+      "thai": "หยุดก่อน เช็คท่าก่อนนะ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897319"
+    },
+    {
+      "english": "That rep was solid, nice!",
+      "thai": "รอบนั้นแน่นมาก ทำดีจริง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897321"
+    },
+    {
+      "english": "Where’s the stretching area, sorry?",
+      "thai": "ขอโทษนะ, โซนยืดอยู่ตรงไหน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897324"
+    },
+    {
+      "english": "I’m running late, quick workout!",
+      "thai": "ฉันไปไม่ทัน ขอออกกำลังแบบไวๆ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897327"
+    },
+    {
+      "english": "Let’s make it easy today, okay?",
+      "thai": "วันนี้เอาเบาๆ นะ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897329"
+    },
+    {
+      "english": "Seriously, I’m sore from yesterday.",
+      "thai": "จริงนะเมื่อวานทำไว้ เดี๋ยวนี้ปวดเลย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897331"
+    },
+    {
+      "english": "Grab a mat, we start in one minute.",
+      "thai": "หยิบเสื่อหน่อย, อีกหนึ่งนาทีเริ่ม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897333"
+    },
+    {
+      "english": "Don’t stop, you’re almost there!",
+      "thai": "อย่าหยุดนะ ใกล้แล้ว",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897336"
+    },
+    {
+      "english": "My phone says 10,000 steps—nice!",
+      "thai": "มือถือบอก 10,000 ก้าวแล้วอะ เจ๋งเลย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897338"
+    },
+    {
+      "english": "I’ll cool down with slow walking.",
+      "thai": "เดี๋ยวฉันคูลดาวน์ด้วยการเดินช้าๆ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897340"
+    },
+    {
+      "english": "I’m sweating, but it’s worth it.",
+      "thai": "เหงื่อออกแล้วนะ แต่คุ้ม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897342"
+    },
+    {
+      "english": "That timer reset? It’s messing me up!",
+      "thai": "ตัวจับเวลาหมดแล้วเหรอ มั่วเลย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897344"
+    },
+    {
+      "english": "Try again, you’ve got this!",
+      "thai": "ลองใหม่ นะ เธอทำได้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897346"
+    },
+    {
+      "english": "Can I borrow your resistance band?",
+      "thai": "ขอยืมยางยืดหน่อยได้ไหม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897348"
+    },
+    {
+      "english": "I’m done for today, I’ll stretch at home.",
+      "thai": "วันนี้พอแล้ว เดี๋ยวไปยืดที่บ้าน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897351"
+    },
+    {
+      "english": "How often do you work out, honestly?",
+      "thai": "คุณออกกำลังกายบ่อยแค่ไหน, แบบจริงๆ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897353"
+    },
+    {
+      "english": "What should I do for my back?",
+      "thai": "ผมควรทำอะไรแก้ปวดหลังดี?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897355"
+    },
+    {
+      "english": "Which exercise helps the most for core?",
+      "thai": "ท่าไหนช่วยเรื่องแกนกลางดีที่สุด?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897356"
+    },
+    {
+      "english": "Do I rest between sets, or not?",
+      "thai": "พักระหว่างเซ็ตไหม, หรือไม่ต้อง?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897358"
+    },
+    {
+      "english": "Can you spot me, just for one set?",
+      "thai": "ช่วยดูท่าให้หน่อย, แค่เซ็ตเดียวได้ไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897360"
+    },
+    {
+      "english": "Is this weight too heavy for me?",
+      "thai": "น้ำหนักนี้หนักไปไหมสำหรับผม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897361"
+    },
+    {
+      "english": "How do you warm up, quick version?",
+      "thai": "คุณวอร์มอัพยังไง, แบบเร็วๆ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897363"
+    },
+    {
+      "english": "Should I stretch after training too?",
+      "thai": "หลังออกกำลังกายต้องยืดด้วยไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897365"
+    },
+    {
+      "english": "What’s a good beginner plan, like today?",
+      "thai": "วันนี้เริ่มยังไงดีสำหรับมือใหม่?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897367"
+    },
+    {
+      "english": "Can you recommend a cardio routine?",
+      "thai": "ช่วยแนะนำคาร์ดิโอหน่อยได้ไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897370"
+    },
+    {
+      "english": "Where’s the correct form tutorial, please?",
+      "thai": "คลิปสอนท่าที่ถูกต้องอยู่ตรงไหนคะ/ครับ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897373"
+    },
+    {
+      "english": "Is it okay to modify this move?",
+      "thai": "ปรับท่านี้ได้ไหม ถ้าทำไม่ไหว?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897376"
+    },
+    {
+      "english": "How long should I rest, roughly?",
+      "thai": "พักนานประมาณเท่าไหร่ดี?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897377"
+    },
+    {
+      "english": "Do you feel this in your glutes too?",
+      "thai": "คุณรู้สึกที่ก้นด้วยไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897379"
+    },
+    {
+      "english": "What’s the fastest way to improve?",
+      "thai": "วิธีไหนเร็วสุดในการดีขึ้น?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897381"
+    },
+    {
+      "english": "Should I increase reps or weight first?",
+      "thai": "เพิ่มจำนวนครั้งก่อน, หรือเพิ่มน้ำหนักก่อน?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897382"
+    },
+    {
+      "english": "Is this machine safe for beginners?",
+      "thai": "เครื่องนี้เหมาะกับมือใหม่ไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897384"
+    },
+    {
+      "english": "Can I ask you one quick question?",
+      "thai": "ขอถามคำถามสั้นๆ หน่อยได้ไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897385"
+    },
+    {
+      "english": "What should I drink before training?",
+      "thai": "ก่อนออกกำลังกายควรกินหรือดื่มอะไร?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897387"
+    },
+    {
+      "english": "Do you track your progress, like apps?",
+      "thai": "คุณติดตามความคืบหน้า ใช้แอพไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897388"
+    },
+    {
+      "english": "How do I prevent cramps during runs?",
+      "thai": "วิธีไม่ให้เป็นตะคริวตอนวิ่งทำไง?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897390"
+    },
+    {
+      "english": "Is it normal to feel tired today?",
+      "thai": "วันนี้รู้สึกเหนื่อย เป็นเรื่องปกติไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897391"
+    },
+    {
+      "english": "Should I train if I feel sick?",
+      "thai": "ถ้าไม่สบาย ยังควรออกกำลังกายไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897393"
+    },
+    {
+      "english": "What’s your go-to stretch for hips?",
+      "thai": "ท่ายืดประจำของคุณสำหรับสะโพกคืออะไร?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897395"
+    },
+    {
+      "english": "Can we swap workouts, I’m bored.",
+      "thai": "เปลี่ยนท่าออกกำลังกายได้ไหม, เรื่อยๆ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897397"
+    },
+    {
+      "english": "How many minutes should this circuit be?",
+      "thai": "วงจรนี้ควรใช้กี่นาที?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897399"
+    },
+    {
+      "english": "What’s a good snack for post-workout?",
+      "thai": "หลังออกกำลังกาย ควรกินของว่างอะไรดี?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897402"
+    },
+    {
+      "english": "Do you recommend tracking heart rate?",
+      "thai": "คุณแนะนำให้วัดอัตราการเต้นหัวใจไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897403"
+    },
+    {
+      "english": "Can we make this less intense today?",
+      "thai": "วันนี้ปรับให้เบาลงหน่อยได้ไหม?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897405"
+    },
+    {
+      "english": "If I feel pain, what should I do?",
+      "thai": "ถ้าปวดต้องทำยังไงต่อ?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897406"
+    },
+    {
+      "english": "Mindset first, then the workout follows.",
+      "thai": "ตั้งใจไว้ก่อน, แล้วค่อยลุยออกกำลัง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897408"
+    },
+    {
+      "english": "You’re building strength, one choice at a time.",
+      "thai": "คุณกำลังสร้างความแข็งแรง, ทีละการตัดสินใจ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897411"
+    },
+    {
+      "english": "Small wins stack up, keep going.",
+      "thai": "ความสำเร็จเล็กๆรวมกันได้, ไปต่อเลย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897413"
+    },
+    {
+      "english": "Breathe steady, your body will listen.",
+      "thai": "หายใจให้สม่ำเสมอ, ร่างกายจะรับรู้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897414"
+    },
+    {
+      "english": "Tell your mind, we don’t quit.",
+      "thai": "บอกใจเลย, เราไม่ยอมแพ้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897416"
+    },
+    {
+      "english": "Good effort matters, results come after.",
+      "thai": "ความพยายามดีมีค่า, ผลลัพธ์ตามมา",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897418"
+    },
+    {
+      "english": "Be proud, show up even tired.",
+      "thai": "ภูมิใจไว้, แม้เหนื่อยก็ยังไป",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897420"
+    },
+    {
+      "english": "Today’s practice becomes tomorrow’s confidence.",
+      "thai": "ซ้อมวันนี้, ความมั่นใจมาเองวันพรุ่งนี้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897422"
+    },
+    {
+      "english": "Focus on form, not just the burn.",
+      "thai": "โฟกัสฟอร์ม, ไม่ใช่แค่ความแสบ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897424"
+    },
+    {
+      "english": "One more round, then you decide.",
+      "thai": "อีกรอบเดียว, ค่อยตัดสินใจทีหลัง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897425"
+    },
+    {
+      "english": "Progress is quiet, but it’s real.",
+      "thai": "ความก้าวหน้าเงียบๆ, แต่จริง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897427"
+    },
+    {
+      "english": "Give yourself credit, you trained today.",
+      "thai": "ให้รางวัลตัวเอง, วันนี้คุณซ้อมแล้ว",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897430"
+    },
+    {
+      "english": "Strong thoughts, stronger reps.",
+      "thai": "ความคิดแกร่ง, ยิ่งแรงขึ้น",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897432"
+    },
+    {
+      "english": "When it’s hard, act brave anyway.",
+      "thai": "มันยากก็เถอะ, ทำตัวให้กล้าก่อน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897434"
+    },
+    {
+      "english": "You don’t need perfect, just consistent.",
+      "thai": "ไม่ต้องเป๊ะ, แค่สม่ำเสมอ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897436"
+    },
+    {
+      "english": "Set your intention, then move with purpose.",
+      "thai": "ตั้งเจตนา, แล้วเคลื่อนไหวด้วยเป้าหมาย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897438"
+    },
+    {
+      "english": "Keep your promise, to your future self.",
+      "thai": "รักษาสัญญากับตัวเองในอนาคต",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897440"
+    },
+    {
+      "english": "Every session teaches your discipline.",
+      "thai": "ทุกครั้งที่ซ้อม, ฝึกวินัยให้ตัวเอง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897441"
+    },
+    {
+      "english": "Don’t chase hype, chase better daily habits.",
+      "thai": "ไม่ต้องไล่กระแส, ไล่พฤติกรรมที่ดีขึ้นทุกวัน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897444"
+    },
+    {
+      "english": "Thank your body, then ask for more.",
+      "thai": "ขอบคุณร่างกายก่อน, แล้วค่อยขอเพิ่ม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897445"
+    },
+    {
+      "english": "Stay calm, you can build this gradually.",
+      "thai": "ใจเย็นไว้, คุณสร้างได้ทีละนิด",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897447"
+    },
+    {
+      "english": "Celebrate effort, even when it feels messy.",
+      "thai": "ฉลองความพยายาม, แม้วันนั้นไม่เป๊ะ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897449"
+    },
+    {
+      "english": "Your pace is valid, keep it steady.",
+      "thai": "ความเร็วของคุณถูกต้อง, รักษาจังหวะไว้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897451"
+    },
+    {
+      "english": "Remember, rest is part of training.",
+      "thai": "จำไว้นะ, การพักก็เป็นส่วนหนึ่งของการซ้อม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897453"
+    },
+    {
+      "english": "You’re stronger than your excuses today.",
+      "thai": "วันนี้คุณแข็งแรงกว่าคำแก้ตัว",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897455"
+    },
+    {
+      "english": "Reset your head, then start the next set.",
+      "thai": "เคลียร์หัวก่อน, แล้วค่อยเริ่มเซ็ตถัดไป",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897457"
+    },
+    {
+      "english": "Praise small consistency, that’s how change happens.",
+      "thai": "ชื่นชมความสม่ำเสมอเล็กๆ, นั่นแหละที่ทำให้เปลี่ยน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897459"
+    },
+    {
+      "english": "Trust the process, your body adapts.",
+      "thai": "เชื่อกระบวนการ, ร่างกายปรับตัวเอง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897460"
+    },
+    {
+      "english": "Show up now, future you will thank you.",
+      "thai": "มาลุยตอนนี้, อนาคตจะขอบคุณ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897463"
+    },
+    {
+      "english": "Keep believing, training gets easier with time.",
+      "thai": "ยังเชื่อไว้, การซ้อมจะง่ายขึ้นเมื่อเวลาผ่าน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897464"
+    },
+    {
+      "english": "I feel nervous, but I’ll warm up slowly.",
+      "thai": "ฉันรู้สึกกังวลนะ, แต่จะวอร์มช้าๆ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897466"
+    },
+    {
+      "english": "Some days, I’m not motivated, and that’s okay.",
+      "thai": "บางวันฉันไม่ค่อยมีแรงใจ, ก็ยังโอเค",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897469"
+    },
+    {
+      "english": "I notice my mood improves after I move.",
+      "thai": "ฉันสังเกตว่าอารมณ์ดีขึ้นหลังจากขยับตัว",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897470"
+    },
+    {
+      "english": "I’m trying to be honest with my limits.",
+      "thai": "ฉันพยายามซื่อสัตย์กับขีดจำกัดของตัวเอง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897472"
+    },
+    {
+      "english": "I don’t want to push too hard today.",
+      "thai": "วันนี้ฉันไม่อยากฝืนจนเกินไป",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897474"
+    },
+    {
+      "english": "Rest feels boring, but I need it.",
+      "thai": "การพักมันดูน่าเบื่อ, แต่ฉันต้องการ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897476"
+    },
+    {
+      "english": "I’m learning patience, especially between sets.",
+      "thai": "ฉันกำลังฝึกความอดทน, โดยเฉพาะช่วงพัก",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897479"
+    },
+    {
+      "english": "I take a breath, then I’m back in it.",
+      "thai": "ฉันหายใจเข้า, แล้วกลับมาทำต่อ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897481"
+    },
+    {
+      "english": "I can’t fight feelings, but I can move.",
+      "thai": "ฉันสู้ความรู้สึกไม่ได้, แต่ฉันขยับได้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897486"
+    },
+    {
+      "english": "My form matters, even when I’m tired.",
+      "thai": "ฟอร์มสำคัญเสมอ, แม้ตอนเหนื่อย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897489"
+    },
+    {
+      "english": "I’m not chasing pain, I’m chasing progress.",
+      "thai": "ฉันไม่ได้ไล่ตามความเจ็บ, ฉันไล่ความก้าวหน้า",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897491"
+    },
+    {
+      "english": "I want to feel proud, not just exhausted.",
+      "thai": "ฉันอยากภูมิใจ, ไม่ใช่แค่อยู่ในความเหนื่อย",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897493"
+    },
+    {
+      "english": "Sometimes I’m scared to fail, so I start easy.",
+      "thai": "บางทีฉันกลัวล้มเหลว, เลยเริ่มแบบง่ายก่อน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897495"
+    },
+    {
+      "english": "I check in with myself, before I decide.",
+      "thai": "ฉันเช็กใจกับตัวเอง, ก่อนค่อยตัดสินใจ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897498"
+    },
+    {
+      "english": "It’s okay to slow down, my body learns.",
+      "thai": "ช้าลงได้เลย, ร่างกายกำลังเรียนรู้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897500"
+    },
+    {
+      "english": "I’m listening to my body, not my ego.",
+      "thai": "ฉันฟังร่างกาย, ไม่ใช่ฟังอีโก้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897502"
+    },
+    {
+      "english": "I keep showing up, even when motivation fades.",
+      "thai": "ฉันยังไปต่อ, ต่อให้แรงใจค่อยๆจาง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897503"
+    },
+    {
+      "english": "I feel stronger when I stay consistent.",
+      "thai": "ฉันรู้สึกแข็งแรงขึ้น, เวลายังทำสม่ำเสมอ",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897505"
+    },
+    {
+      "english": "I don’t need to win, I need to try.",
+      "thai": "ฉันไม่ต้องชนะ, แค่อยากลอง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897507"
+    },
+    {
+      "english": "I’m grateful my body carried me here.",
+      "thai": "ฉันขอบคุณที่ร่างกายพาฉันมาถึงตรงนี้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897509"
+    },
+    {
+      "english": "Today I train, but I keep it gentle.",
+      "thai": "วันนี้ฉันฝึก, แต่จะทำแบบนุ่มนวล",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897510"
+    },
+    {
+      "english": "I’m okay with improvement taking time.",
+      "thai": "ฉันโอเคที่ความดีขึ้นต้องใช้เวลา",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897512"
+    },
+    {
+      "english": "I want to build confidence from inside.",
+      "thai": "ฉันอยากสร้างความมั่นใจจากข้างใน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897514"
+    },
+    {
+      "english": "I feel proud when I finish what I started.",
+      "thai": "ฉันภูมิใจเวลาทำให้จบ, สิ่งที่เริ่มไว้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897515"
+    },
+    {
+      "english": "I’m learning to trust my own pace.",
+      "thai": "ฉันกำลังเรียนรู้ที่จะไว้ใจจังหวะตัวเอง",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897517"
+    },
+    {
+      "english": "I’m not perfect, but I’m getting better slowly.",
+      "thai": "ฉันไม่เพอร์เฟ็กต์, แต่ค่อยๆดีขึ้น",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897519"
+    },
+    {
+      "english": "I respect pain signals, I don’t ignore them.",
+      "thai": "ฉันเคารพสัญญาณของความเจ็บ, ไม่มองข้าม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897521"
+    },
+    {
+      "english": "I reflect after training, what worked and why.",
+      "thai": "ฉันไตร่ตรองหลังซ้อม, อะไรได้ผลและทำไม",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897523"
+    },
+    {
+      "english": "I’m honest, today was tough, and I did it.",
+      "thai": "ฉันพูดตรงๆ, วันนี้มันยาก, แต่ฉันทำได้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897525"
+    },
+    {
+      "english": "Before training, stretch your shoulders, then smile.",
+      "thai": "ก่อนซ้อม ยืดไหล่ก่อน แล้วก็ยิ้มไว้",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897527"
+    },
+    {
+      "english": "Grab water, keep moving, don’t overthink.",
+      "thai": "หยิบน้ำดื่มไว้ เดินต่อ อย่าเครียดเกิน",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:14:15.897529"
     }
   ],
-  "last_updated": "2026-11-05T10:09:35.525033"
+  "last_updated": "2026-11-06T10:14:15.897531"
 }

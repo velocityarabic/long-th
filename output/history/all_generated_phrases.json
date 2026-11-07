@@ -14399,7 +14399,727 @@
       "thai": "หยิบน้ำดื่มไว้ เดินต่อ อย่าเครียดเกิน",
       "category": "Sports & Fitness",
       "generated_at": "2026-11-06T10:14:15.897529"
+    },
+    {
+      "english": "Okay, wait a sec, I’m on my way.",
+      "thai": "โอเค, เดี๋ยวก่อนนะ, ฉันกำลังไป",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749761"
+    },
+    {
+      "english": "Hold on, let me check real quick.",
+      "thai": "รอแป๊บนะ, เดี๋ยวฉันเช็กให้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749779"
+    },
+    {
+      "english": "Calm down, we’ll figure it out.",
+      "thai": "ใจเย็นๆ นะ, เดี๋ยวเราจัดการเอง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749782"
+    },
+    {
+      "english": "Just a moment, I’m coming back.",
+      "thai": "แป๊บนึงนะ, เดี๋ยวกลับมา",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749784"
+    },
+    {
+      "english": "Wait, don’t hang up yet, please.",
+      "thai": "เดี๋ยวก่อนนะ, อย่าวางสาย",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749786"
+    },
+    {
+      "english": "Pause, breathe in, you’re okay.",
+      "thai": "หยุดก่อน, หายใจเข้า, ไม่เป็นไร",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749788"
+    },
+    {
+      "english": "Give me a minute, I’ll reply.",
+      "thai": "ขอแป๊บนึงนะ, เดี๋ยวตอบ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749790"
+    },
+    {
+      "english": "Slow down, you’re rushing too much.",
+      "thai": "ช้าลงหน่อย, รีบเกินไปแล้ว",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749794"
+    },
+    {
+      "english": "Wait your turn, it’ll be fine.",
+      "thai": "รอคิวหน่อย, เดี๋ยวก็ถึง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749798"
+    },
+    {
+      "english": "Alright, patient mode, let’s go.",
+      "thai": "โอเค, โหมดใจเย็น, ไปกัน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749800"
+    },
+    {
+      "english": "Hold on tight, not yet.",
+      "thai": "อดใจหน่อยนะ, ตอนนี้ยังไม่",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749802"
+    },
+    {
+      "english": "Just wait, the answer is coming.",
+      "thai": "รอหน่อย, คำตอบมาแน่",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749804"
+    },
+    {
+      "english": "Sorry, I’m running late, hang on.",
+      "thai": "ขอโทษนะ, ฉันมาสาย, รอก่อน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749806"
+    },
+    {
+      "english": "Don’t freak out, we’ve got this.",
+      "thai": "อย่าตกใจไป, เดี๋ยวจัดการเอง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749808"
+    },
+    {
+      "english": "Wait, let’s talk, don’t leave yet.",
+      "thai": "เดี๋ยวก่อนนะ, คุยกันก่อน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749810"
+    },
+    {
+      "english": "Okay, slow steps, one thing at a time.",
+      "thai": "โอเค, ค่อยๆ ไป, ทีละอย่าง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749812"
+    },
+    {
+      "english": "Hold up, that’s not the full story.",
+      "thai": "ขอหยุดก่อน, ยังไม่หมดนะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749815"
+    },
+    {
+      "english": "Wait, I’ll search it, just a sec.",
+      "thai": "รอแป๊บนะ, เดี๋ยวหาหมดให้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749817"
+    },
+    {
+      "english": "No worries, we can reschedule, easy.",
+      "thai": "ไม่เป็นไร, เดี๋ยวเลื่อนนัดได้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749819"
+    },
+    {
+      "english": "Keep it cool, don’t rush the answer.",
+      "thai": "ใจเย็นๆ นะ, อย่ารีบตอบ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749821"
+    },
+    {
+      "english": "Give it a moment, it’ll load soon.",
+      "thai": "รอสักพักนะ, เดี๋ยวมันขึ้น",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749823"
+    },
+    {
+      "english": "Wait, I need one more thing.",
+      "thai": "เดี๋ยวก่อนนะ, ขออีกอย่าง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749824"
+    },
+    {
+      "english": "Take a breath, then try again.",
+      "thai": "หายใจเข้าแล้วลองใหม่",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749826"
+    },
+    {
+      "english": "Hold on, I’m almost done, promise.",
+      "thai": "รอก่อนนะ, ใกล้เสร็จแล้ว",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749828"
+    },
+    {
+      "english": "Patience, okay? We’re good.",
+      "thai": "อดใจหน่อยนะ, ไม่เป็นไรหรอก",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749830"
+    },
+    {
+      "english": "Just a bit longer, then we go.",
+      "thai": "อีกนิดเดียว, แล้วค่อยไป",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749831"
+    },
+    {
+      "english": "Wait, that’s my bad, sorry!",
+      "thai": "เดี๋ยวก่อนนะ, นั่นความผิดฉัน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749833"
+    },
+    {
+      "english": "Calm down, it’s normal, don’t stress.",
+      "thai": "ใจเย็นนะ, มันปกติ, อย่ากังวล",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749835"
+    },
+    {
+      "english": "Can you wait, I’m still finishing this?",
+      "thai": "ขอคุณรอสักครู่นะ, ฉันยังทำไม่เสร็จ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749837"
+    },
+    {
+      "english": "How long will it take, roughly?",
+      "thai": "จะใช้เวลาประมาณเท่าไหร่คะ?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749839"
+    },
+    {
+      "english": "Sorry to bother, when will you be free?",
+      "thai": "ขอโทษนะ, คุณว่างเมื่อไหร่คะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749841"
+    },
+    {
+      "english": "What’s the best way to wait here?",
+      "thai": "รอที่นี่แบบไหนดีที่สุดคะ?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749843"
+    },
+    {
+      "english": "If I wait, will it be ready soon?",
+      "thai": "ถ้าฉันรอ, จะพร้อมเร็วไหม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749845"
+    },
+    {
+      "english": "Do you prefer I wait outside?",
+      "thai": "คุณอยากให้ฉันรอข้างนอกไหม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749846"
+    },
+    {
+      "english": "May I ask, how many steps are there?",
+      "thai": "ขอถามหน่อยนะ, ขั้นตอนมีทั้งหมดกี่ขั้น",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749848"
+    },
+    {
+      "english": "Should I call, or wait for your message?",
+      "thai": "ฉันโทรไหม, หรือรอสายคุณส่งก่อน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749850"
+    },
+    {
+      "english": "How do I keep calm while waiting?",
+      "thai": "ฉันควรทำยังไงให้ใจนิ่งระหว่างรอคะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749851"
+    },
+    {
+      "english": "What did you do last time, to be patient?",
+      "thai": "ครั้งก่อนคุณทำยังไงให้รอไหว",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749853"
+    },
+    {
+      "english": "Is it better to wait, or come later?",
+      "thai": "รอดีกว่าไหม, หรือมาทีหลัง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749855"
+    },
+    {
+      "english": "Can I get an update, when you can?",
+      "thai": "ขออัปเดตหน่อยได้ไหม, ตอนสะดวก",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749857"
+    },
+    {
+      "english": "May I know, what’s the delay reason?",
+      "thai": "ขอทราบสาเหตุที่ช้านิดนึงได้ไหม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749859"
+    },
+    {
+      "english": "If it’s taking longer, let me know.",
+      "thai": "ถ้ามันนานกว่านี้, ช่วยบอกด้วยนะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749865"
+    },
+    {
+      "english": "Where should I sit, while waiting?",
+      "thai": "ฉันควรนั่งตรงไหน, ระหว่างรอ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749867"
+    },
+    {
+      "english": "Do I need a ticket, or just wait?",
+      "thai": "ต้องมีบัตรไหม, หรือแค่มารอ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749869"
+    },
+    {
+      "english": "How should I ask for help politely?",
+      "thai": "ฉันควรถามขอความช่วยเหลือยังไงแบบสุภาพ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749870"
+    },
+    {
+      "english": "What time do you recommend I arrive?",
+      "thai": "คุณแนะนำให้ฉันมาถึงกี่โมง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749872"
+    },
+    {
+      "english": "Could you confirm, it’s still on schedule?",
+      "thai": "ขอให้คุณยืนยันหน่อย, ยังตามกำหนดไหม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749874"
+    },
+    {
+      "english": "I’m ready, what’s next in line?",
+      "thai": "ฉันพร้อมแล้ว, ต่อไปต้องทำอะไร",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749876"
+    },
+    {
+      "english": "Should I wait quietly, or can I talk?",
+      "thai": "ฉันควรรอเงียบๆ, หรือคุยได้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749879"
+    },
+    {
+      "english": "Is there a form, or just wait?",
+      "thai": "ต้องกรอกแบบฟอร์มไหม, หรือรออย่างเดียว",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749881"
+    },
+    {
+      "english": "Can you tell me, what’s the queue like?",
+      "thai": "ช่วยบอกหน่อยได้ไหม, ข้างหน้าเป็นยังไง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749883"
+    },
+    {
+      "english": "Would it help if I wait indoors?",
+      "thai": "ถ้าฉันรอข้างในจะดีไหม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749884"
+    },
+    {
+      "english": "What should I prepare while I wait?",
+      "thai": "ระหว่างรอ, ฉันควรเตรียมอะไรบ้าง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749886"
+    },
+    {
+      "english": "When you know, can you update me?",
+      "thai": "พอคุณรู้แล้ว, ช่วยอัปเดตฉันได้ไหม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749887"
+    },
+    {
+      "english": "Do you have a timeline, for the process?",
+      "thai": "มีไทม์ไลน์ของขั้นตอนนี้ไหม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749889"
+    },
+    {
+      "english": "Can I ask, who’s next to be helped?",
+      "thai": "ขอถามหน่อยนะ, ใครจะได้ช่วยต่อ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749891"
+    },
+    {
+      "english": "If we wait, what’s the expected result?",
+      "thai": "ถ้าเรารอ, ผลที่คาดว่าจะได้คืออะไร",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749893"
+    },
+    {
+      "english": "You’ve got this, keep going step by step.",
+      "thai": "เธอทำได้, ค่อยๆไปทีละขั้น",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749895"
+    },
+    {
+      "english": "Slow is fine, steady wins every time.",
+      "thai": "ช้าก็ได้, ทำเรื่อยๆแล้วจะชนะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749896"
+    },
+    {
+      "english": "Trust the process, don’t force it today.",
+      "thai": "เชื่อกระบวนการ, วันนี้อย่าฝืน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749898"
+    },
+    {
+      "english": "Take it easy, good things need time.",
+      "thai": "ค่อยๆนะ, ของดีต้องใช้เวลา",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749900"
+    },
+    {
+      "english": "Your pace is okay, stay focused.",
+      "thai": "จังหวะเธอโอเค, ตั้งใจเข้าไว้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749902"
+    },
+    {
+      "english": "Breathe, let it pass, then respond.",
+      "thai": "หายใจลึกๆ, ปล่อยให้ผ่านก่อน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749904"
+    },
+    {
+      "english": "You’re learning, patience makes it easier.",
+      "thai": "เธอกำลังเรียนรู้, ความอดทนช่วยได้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749906"
+    },
+    {
+      "english": "Small progress counts, don’t stop now.",
+      "thai": "ก้าวเล็กๆนับนะ, อย่าหยุดตอนนี้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749908"
+    },
+    {
+      "english": "Keep your mind light, waiting isn’t forever.",
+      "thai": "ใจเบาไว้, การรอไม่ใช่ตลอด",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749910"
+    },
+    {
+      "english": "Say to yourself, “I can handle this.”",
+      "thai": "บอกตัวเอง, “ไหว”",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749912"
+    },
+    {
+      "english": "Be patient, you’re closer than you think.",
+      "thai": "อดทนไว้, ใกล้แล้วกว่าที่คิด",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749915"
+    },
+    {
+      "english": "Good vibes help, don’t let stress win.",
+      "thai": "คิดดีไว้, อย่าให้ความเครียดชนะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749918"
+    },
+    {
+      "english": "Wait with a plan, not with worry.",
+      "thai": "รอด้วยแผน, ไม่ใช่รอด้วยกังวล",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749920"
+    },
+    {
+      "english": "If it’s slow, it’s still moving.",
+      "thai": "ช้ามันยังไปได้, อย่างน้อยมันยังคืบ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749922"
+    },
+    {
+      "english": "Don’t rush your heart, stay steady.",
+      "thai": "อย่าร้อนใจ, ค่อยๆไปแบบมั่นๆ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749924"
+    },
+    {
+      "english": "You’re doing great, patience is your power.",
+      "thai": "เธอทำดีมาก, ความอดทนคือพลัง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749926"
+    },
+    {
+      "english": "Let time work, your effort won’t disappear.",
+      "thai": "ให้เวลาออกงาน, ความพยายามไม่หายไป",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749928"
+    },
+    {
+      "english": "Keep a positive tone, it helps a lot.",
+      "thai": "พูดด้วยโทนดีๆ, มันช่วยเยอะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749930"
+    },
+    {
+      "english": "You don’t need perfect timing, just keep going.",
+      "thai": "ไม่ต้องรอจังหวะเป๊ะ, แค่ไปเรื่อยๆ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749932"
+    },
+    {
+      "english": "Think, “Today I practice patience.”",
+      "thai": "คิดว่า, วันนี้ฝึกความอดทน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749934"
+    },
+    {
+      "english": "Progress is progress, even when it’s slow.",
+      "thai": "ความคืบก็คือความคืบ, ต่อให้ช้าก็ยังดี",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749937"
+    },
+    {
+      "english": "Stay kind, waiting can feel tough sometimes.",
+      "thai": "ใจดีไว้, การรอมันหนักบ้างบางครั้ง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749939"
+    },
+    {
+      "english": "Your future self will thank you, be patient.",
+      "thai": "ตัวเองในอนาคตจะขอบคุณ, อดทนไว้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749942"
+    },
+    {
+      "english": "Keep checking your attitude, not the clock.",
+      "thai": "ดูที่ใจ, ไม่ใช่ดูที่เวลา",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749944"
+    },
+    {
+      "english": "You can pause, reset, and continue calmly.",
+      "thai": "พักก่อน, รีเซ็ตใจ, แล้วค่อยไปต่อ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749946"
+    },
+    {
+      "english": "Celebrate small wins, that’s patience working.",
+      "thai": "ฉลองความสำเร็จเล็กๆ, นั่นแหละความอดทน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749949"
+    },
+    {
+      "english": "It’s normal to feel impatient, keep your focus.",
+      "thai": "รู้สึกอยากไวก็ได้, แต่ตั้งสติไว้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749951"
+    },
+    {
+      "english": "Don’t take it personal, just breathe and wait.",
+      "thai": "อย่าคิดไปเอง, หายใจแล้วรอ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749953"
+    },
+    {
+      "english": "Be brave, patience is a real skill.",
+      "thai": "กล้าหน่อย, ความอดทนคือทักษะจริง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749954"
+    },
+    {
+      "english": "You’ll reach it, stay calm and persistent.",
+      "thai": "เธอไปถึงแน่, ใจเย็นแล้วก็สู้ต่อ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749956"
+    },
+    {
+      "english": "I feel stuck, so I breathe and wait.",
+      "thai": "ฉันรู้สึกติดค้าง, เลยหายใจแล้วรอ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749958"
+    },
+    {
+      "english": "Honestly, my mood is heavy right now.",
+      "thai": "พูดตรงๆ ตอนนี้ใจฉันหนักมาก",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749960"
+    },
+    {
+      "english": "I remind myself, this is practice, not punishment.",
+      "thai": "ฉันบอกตัวเอง, นี่คือการฝึก ไม่ใช่บทลงโทษ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749962"
+    },
+    {
+      "english": "I’m letting go of control, one step at a time.",
+      "thai": "ฉันปล่อยการควบคุม, ทีละก้าว",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749964"
+    },
+    {
+      "english": "Waiting is hard, but I stay kind.",
+      "thai": "การรอคอยมันยาก, แต่ฉันยังใจดี",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749966"
+    },
+    {
+      "english": "I can’t rush feelings, I just observe them.",
+      "thai": "ฉันเร่งใจไม่ได้, เลยแค่มองมัน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749968"
+    },
+    {
+      "english": "If I’m anxious, I focus on small breaths.",
+      "thai": "ถ้าฉันกังวล, ฉันโฟกัสลมหายใจเล็กๆ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749970"
+    },
+    {
+      "english": "I accept the delay, and keep my mind steady.",
+      "thai": "ฉันยอมรับความล่าช้า, แล้วใจฉันนิ่ง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749972"
+    },
+    {
+      "english": "I don’t need speed, I need calm.",
+      "thai": "ฉันไม่ต้องไว, ฉันต้องใจเย็น",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749974"
+    },
+    {
+      "english": "Today I’m honest, I’m impatient sometimes.",
+      "thai": "วันนี้ฉันพูดตรงๆ, ฉันก็หงุดหงิดบ้าง",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749976"
+    },
+    {
+      "english": "I’ll wait, but I won’t lose myself.",
+      "thai": "ฉันจะรอ, แต่ฉันไม่หายไปไหน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749978"
+    },
+    {
+      "english": "I let time do its work, quietly.",
+      "thai": "ฉันให้เวลาได้ทำงานของมัน, เงียบๆ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749980"
+    },
+    {
+      "english": "When doubt comes, I answer with patience.",
+      "thai": "พอความสงสัยมา, ฉันตอบด้วยความอดทน",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749982"
+    },
+    {
+      "english": "I’m choosing calm, even if it takes longer.",
+      "thai": "ฉันเลือกความสงบ, ถึงมันจะนานกว่าเดิม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749984"
+    },
+    {
+      "english": "I can feel irritation, but I don’t act it out.",
+      "thai": "ฉันรู้สึกหงุดหงิดได้, แต่ไม่ทำตามอารมณ์",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749986"
+    },
+    {
+      "english": "I’m not waiting for permission, I’m waiting to be ready.",
+      "thai": "ฉันไม่ได้รออนุญาต, ฉันรอให้ใจพร้อม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749989"
+    },
+    {
+      "english": "I’ll listen first, then speak when it’s right.",
+      "thai": "ฉันจะฟังก่อน, แล้วค่อยพูดเมื่อมันเหมาะ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749991"
+    },
+    {
+      "english": "Some delays protect me, I accept that.",
+      "thai": "บางความล่าช้าอาจคุ้มครองฉัน, ฉันยอมรับ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749993"
+    },
+    {
+      "english": "I’m learning to be patient with myself too.",
+      "thai": "ฉันกำลังเรียนรู้จะใจดีกับตัวเองด้วย",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749995"
+    },
+    {
+      "english": "I won’t compare, I’ll just keep showing up.",
+      "thai": "ฉันไม่เปรียบเทียบ, ฉันแค่มาเรื่อยๆ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749997"
+    },
+    {
+      "english": "If it’s taking time, I focus on breathing.",
+      "thai": "ถ้ามันต้องใช้เวลา, ฉันโฟกัสการหายใจ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.749999"
+    },
+    {
+      "english": "I’m letting the moment pass, without fighting it.",
+      "thai": "ฉันปล่อยให้ช่วงเวลานั้นผ่านไป, ไม่สู้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750001"
+    },
+    {
+      "english": "My heart wants answers, but I wait anyway.",
+      "thai": "ใจฉันอยากได้คำตอบ, แต่ฉันรออยู่ดี",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750003"
+    },
+    {
+      "english": "I choose patience, even when I feel overlooked.",
+      "thai": "ฉันเลือกอดทน, แม้รู้สึกเหมือนไม่มีใครเห็น",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750004"
+    },
+    {
+      "english": "I’ll handle this quietly, then carry on.",
+      "thai": "ฉันจะจัดการแบบเงียบๆ, แล้วไปต่อ",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750008"
+    },
+    {
+      "english": "I can’t control the line, only my reaction.",
+      "thai": "ฉันคุมแถวไม่ได้, คุมปฏิกิริยาได้",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750010"
+    },
+    {
+      "english": "I’m grateful for progress, even if slow.",
+      "thai": "ฉันขอบคุณความคืบหน้า, ต่อให้ช้าก็ยังเป็นผล",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750011"
+    },
+    {
+      "english": "I tell myself, not yet, but soon enough.",
+      "thai": "ฉันบอกตัวเอง, ยังไม่ใช่ตอนนี้, แต่เดี๋ยวก็มา",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750013"
+    },
+    {
+      "english": "I keep my standards, without rushing anyone.",
+      "thai": "ฉันรักษามาตรฐานไว้, ไม่เร่งใคร",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750015"
+    },
+    {
+      "english": "I’m okay with waiting, as long as it’s fair.",
+      "thai": "ฉันโอเคกับการรอ, ขอแค่ให้มันยุติธรรม",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750017"
+    },
+    {
+      "english": "The line moves slowly, stay cool, okay?",
+      "thai": "แถวมันช้าได้, เราสงบไว้ก่อนได้ไหม?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750018"
+    },
+    {
+      "english": "Before texting, breathe, then reread.",
+      "thai": "ก่อนจะพิมพ์หา, หายใจเข้า, แล้วอ่านใหม่.",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750020"
+    },
+    {
+      "english": "If the Wi‑Fi fails, wait, then try again.",
+      "thai": "ถ้าเน็ตหลุด, รอแป๊บ, แล้วลองใหม่.",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:30:23.750022"
     }
   ],
-  "last_updated": "2026-11-06T10:14:15.897531"
+  "last_updated": "2026-11-07T09:30:23.750023"
 }

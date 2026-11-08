@@ -15119,7 +15119,727 @@
       "thai": "ถ้าเน็ตหลุด, รอแป๊บ, แล้วลองใหม่.",
       "category": "Patience",
       "generated_at": "2026-11-07T09:30:23.750022"
+    },
+    {
+      "english": "Okay, what time are we meeting?",
+      "thai": "โอเค, เราจะเจอกันกี่โมงดี",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504178"
+    },
+    {
+      "english": "I can do tonight, does that work?",
+      "thai": "คืนนี้ฉันโอเค, ทำได้ไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504193"
+    },
+    {
+      "english": "Wait, let’s pick a place first.",
+      "thai": "เดี๋ยว, เลือกที่ก่อนนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504197"
+    },
+    {
+      "english": "How about after work, quick hangout?",
+      "thai": "เลิกงานแล้ว, ไปเจอกันเร็วๆ ไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504199"
+    },
+    {
+      "english": "Give me five, I’m almost ready.",
+      "thai": "ขอห้านาที, ฉันกำลังจะพร้อม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504202"
+    },
+    {
+      "english": "No worries, we can start later.",
+      "thai": "ไม่เป็นไร, เริ่มทีหลังก็ได้",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504204"
+    },
+    {
+      "english": "So, we’re doing coffee, right?",
+      "thai": "งั้นเรากินกาแฟกันใช่ไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504207"
+    },
+    {
+      "english": "Text me when you’re on your way.",
+      "thai": "ทักมาเมื่อถึงทางนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504212"
+    },
+    {
+      "english": "I’m free tomorrow morning, maybe?",
+      "thai": "พรุ่งนี้เช้า ฉันว่างนะ, ได้ไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504215"
+    },
+    {
+      "english": "Where do you feel like going?",
+      "thai": "อยากไปที่ไหนเป็นพิเศษไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504218"
+    },
+    {
+      "english": "Let’s keep it simple, quick meal?",
+      "thai": "เอาง่ายๆ, กินข้าวกันเร็วๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504220"
+    },
+    {
+      "english": "I’m running late, sorry!",
+      "thai": "ฉันมาสาย, ขอโทษนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504223"
+    },
+    {
+      "english": "Perfect, see you there!",
+      "thai": "เยี่ยมเลย, เจอกันนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504225"
+    },
+    {
+      "english": "Do we need reservations?",
+      "thai": "ต้องจองไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504229"
+    },
+    {
+      "english": "That sounds fun, I’m in!",
+      "thai": "ฟังดูสนุก, ฉันไปด้วย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504231"
+    },
+    {
+      "english": "Actually, I might be busy.",
+      "thai": "จริงๆ ฉันอาจจะไม่ว่าง",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504234"
+    },
+    {
+      "english": "Give me a minute, one second.",
+      "thai": "ขอแป๊บนึงนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504236"
+    },
+    {
+      "english": "Let’s decide, now or later?",
+      "thai": "ตกลงกันเลย, ตอนนี้หรือเดี๋ยวนี้",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504240"
+    },
+    {
+      "english": "Can you make it at six?",
+      "thai": "ทำได้ไหม, หกโมง",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504242"
+    },
+    {
+      "english": "Okay, I’ll be there, promise.",
+      "thai": "โอเค, ฉันไปแน่นอนนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504245"
+    },
+    {
+      "english": "Sounds good, what’s the plan?",
+      "thai": "โอเคเลย, แผนคืออะไร",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504247"
+    },
+    {
+      "english": "Let’s meet halfway, easy!",
+      "thai": "เจอกันครึ่งทาง, สบายๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504250"
+    },
+    {
+      "english": "I’m down, just tell me details.",
+      "thai": "ฉันโอเคเลย, บอกดีเทลหน่อย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504252"
+    },
+    {
+      "english": "Wait, budget check first!",
+      "thai": "เดี๋ยวก่อน, ขอเช็คงบก่อนนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504254"
+    },
+    {
+      "english": "If it rains, we’ll change plans.",
+      "thai": "ถ้าฝนตก, เราค่อยปรับแผน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504257"
+    },
+    {
+      "english": "Let’s do it quick, I’m hungry!",
+      "thai": "ไปกันเร็วๆ นะ, ฉันหิว",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504259"
+    },
+    {
+      "english": "What’s your schedule like today?",
+      "thai": "วันนี้ว่างช่วงไหนบ้าง",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504261"
+    },
+    {
+      "english": "Cool, I’ll bring the tickets.",
+      "thai": "ได้เลย, ฉันเอาตั๋วไปเอง",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504264"
+    },
+    {
+      "english": "No, I can’t today, maybe later.",
+      "thai": "วันนี้ไม่ได้, ไว้ทีหลังนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504266"
+    },
+    {
+      "english": "Awesome, we’re officially set!",
+      "thai": "ยอดเลย, เซ็ตแล้วนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504268"
+    },
+    {
+      "english": "Quick question, where should we start?",
+      "thai": "ขอถามนิดนึง, เริ่มที่ไหนดี?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504271"
+    },
+    {
+      "english": "Want something casual, like street food?",
+      "thai": "อยากได้อะไรแบบสบายๆ, กินของข้างทางไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504273"
+    },
+    {
+      "english": "What do you prefer, morning or evening?",
+      "thai": "คุณชอบช่วงไหนมากกว่า, เช้าหรือเย็น?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504275"
+    },
+    {
+      "english": "Can we move it a bit earlier?",
+      "thai": "ขยับเวลาไปก่อนหน่อยได้ไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504278"
+    },
+    {
+      "english": "How flexible are you with the time?",
+      "thai": "คุณยืดหยุ่นเรื่องเวลาแค่ไหน?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504282"
+    },
+    {
+      "english": "Is there a place you’re craving lately?",
+      "thai": "ช่วงนี้มีร้านที่อยากไปไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504285"
+    },
+    {
+      "english": "What’s the vibe, chill or more active?",
+      "thai": "วันนี้อยากได้ฟีลไหน, สบายๆหรือคึกคัก?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504287"
+    },
+    {
+      "english": "Before we book, any special requests?",
+      "thai": "ก่อนจอง, มีอะไรอยากขอเป็นพิเศษไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504289"
+    },
+    {
+      "english": "Do you want to bring anyone else?",
+      "thai": "จะชวนคนอื่นเพิ่มไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504291"
+    },
+    {
+      "english": "Should I reserve seats for us?",
+      "thai": "ให้จองที่นั่งให้เราดีไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504293"
+    },
+    {
+      "english": "Can we check traffic before leaving?",
+      "thai": "เช็คการจราจรก่อนออกได้ไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504296"
+    },
+    {
+      "english": "What time do you usually wrap up?",
+      "thai": "ปกติคุณเลิกงานประมาณกี่โมง?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504299"
+    },
+    {
+      "english": "Any recommendations, what should we try?",
+      "thai": "มีร้านแนะนำไหม, อะไรน่าลอง?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504301"
+    },
+    {
+      "english": "Do you prefer BTS or taxi today?",
+      "thai": "วันนี้ชอบ BTS หรือแท็กซี่มากกว่ากัน?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504305"
+    },
+    {
+      "english": "How about a quick call first?",
+      "thai": "โทรคุยสั้นๆก่อนดีไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504307"
+    },
+    {
+      "english": "What would make it a perfect plan?",
+      "thai": "อะไรจะทำให้ทริปนี้เพอร์เฟกต์?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504309"
+    },
+    {
+      "english": "If I’m late, will you still go?",
+      "thai": "ถ้าฉันไปช้า, ยังจะไปกันไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504311"
+    },
+    {
+      "english": "Should we meet indoors or outside?",
+      "thai": "เรานัดเจอกันข้างในหรือข้างนอกดี?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504313"
+    },
+    {
+      "english": "Do you know a good shortcut?",
+      "thai": "รู้ทางลัดที่ดีๆไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504315"
+    },
+    {
+      "english": "Want to plan around your schedule?",
+      "thai": "เราจัดแผนตามเวลาคุณไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504317"
+    },
+    {
+      "english": "Let me know your budget range, please.",
+      "thai": "บอกงบคร่าวๆได้ไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504319"
+    },
+    {
+      "english": "What’s your comfort zone for prices?",
+      "thai": "ราคาประมาณไหนที่คุณโอเค?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504322"
+    },
+    {
+      "english": "Do you want Thai food, or mix it up?",
+      "thai": "อยากกินอาหารไทยไหม, หรือเปลี่ยนแนวดี?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504324"
+    },
+    {
+      "english": "Can we start with dinner, then dessert?",
+      "thai": "เริ่มจากมื้อเย็นก่อน, แล้วค่อยของหวานได้ไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504326"
+    },
+    {
+      "english": "What’s your ideal ending time today?",
+      "thai": "วันนี้อยากจบกี่โมง?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504329"
+    },
+    {
+      "english": "Any chance we can do it this weekend?",
+      "thai": "พอมีโอกาสทำช่วงเสาร์อาทิตย์ไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504331"
+    },
+    {
+      "english": "Should we bring water, just in case?",
+      "thai": "เอาน้ำไปด้วยไหม, กันไว้ก่อน?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504333"
+    },
+    {
+      "english": "How many people are we expecting?",
+      "thai": "วันนี้จะมีทั้งหมดกี่คน?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504335"
+    },
+    {
+      "english": "What’s the backup plan if it’s crowded?",
+      "thai": "ถ้าคนเยอะมีแผนสำรองไหม?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504338"
+    },
+    {
+      "english": "Ready to confirm, or should we wait?",
+      "thai": "พร้อมจะยืนยันไหม, หรือรออีกนิด?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504340"
+    },
+    {
+      "english": "Let’s lock it in, meet at six.",
+      "thai": "ไปล็อกไว้เลย, เจอกันหกโมงนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504342"
+    },
+    {
+      "english": "We’ll figure it out on the spot.",
+      "thai": "เดี๋ยวค่อยว่ากันหน้างาน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504345"
+    },
+    {
+      "english": "Same time, same place, deal?",
+      "thai": "เวลาเดิม, ที่เดิม, ตกลงไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504347"
+    },
+    {
+      "english": "Let’s go by the flow, see where.",
+      "thai": "ไปตามสบาย, ดูไปเรื่อยๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504350"
+    },
+    {
+      "english": "Plan A first, Plan B สำรองไว้.",
+      "thai": "เอาแผนเอาก่อน, มีแผนบีสำรองไว้ด้วย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504353"
+    },
+    {
+      "english": "Let’s keep it simple, meet, eat, done.",
+      "thai": "เอาง่ายๆ, เจอกัน, กิน, จบ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504358"
+    },
+    {
+      "english": "I’ll sort it out, you just show up.",
+      "thai": "เดี๋ยวฉันจัดการให้, เธอแค่ไป",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504360"
+    },
+    {
+      "english": "Let’s not overthink, decide soon.",
+      "thai": "อย่าคิดมาก, ตัดสินใจเร็วๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504363"
+    },
+    {
+      "english": "We’ll go when it fits, not forced.",
+      "thai": "ไปเมื่อไหร่ก็ได้, ไม่ฝืนกัน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504366"
+    },
+    {
+      "english": "Pick a place first, then we talk.",
+      "thai": "เลือกสถานที่ก่อน, ค่อยว่ากัน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504368"
+    },
+    {
+      "english": "If it’s packed, we’ll pivot fast.",
+      "thai": "คนเยอะเมื่อไหร่, เราปรับไว",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504370"
+    },
+    {
+      "english": "Let’s do it, วางใจไว้ก่อนนะ.",
+      "thai": "เอาเลย, วางใจไว้ก่อนนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504374"
+    },
+    {
+      "english": "Keep your options open, just in case.",
+      "thai": "เผื่อไว้หน่อย, กันพลาด",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504376"
+    },
+    {
+      "english": "Send me the details, I’ll confirm.",
+      "thai": "ส่งรายละเอียดมา, เดี๋ยวฉันยืนยัน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504378"
+    },
+    {
+      "english": "We’ll hit the spot, no extra detours.",
+      "thai": "ไปให้ถึงจุดเลย, ไม่อ้อม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504381"
+    },
+    {
+      "english": "Let’s go early, get there before rush.",
+      "thai": "ไปเช้าหน่อย, ไปก่อนรถติด",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504384"
+    },
+    {
+      "english": "If you’re free, tell me right away.",
+      "thai": "ว่างเมื่อไหร่บอกเลย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504386"
+    },
+    {
+      "english": "I’ll ask around, see what’s best.",
+      "thai": "เดี๋ยวถามคนดู, ดูว่าดีไหม",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504389"
+    },
+    {
+      "english": "We’ll meet up, then decide after.",
+      "thai": "เจอกันก่อน, ค่อยตัดสินใจทีหลัง",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504391"
+    },
+    {
+      "english": "Let’s not waste time, start at once.",
+      "thai": "อย่าช้า, เริ่มเลย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504396"
+    },
+    {
+      "english": "We’ll make it work, even with changes.",
+      "thai": "ทำให้ได้, ถึงต้องปรับก็เถอะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504400"
+    },
+    {
+      "english": "You choose the vibe, I’ll handle the rest.",
+      "thai": "เธอเลือกบรรยากาศ, ฉันจัดที่เหลือ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504402"
+    },
+    {
+      "english": "We’ll keep it flexible, just check in.",
+      "thai": "ยืดหยุ่นได้, แค่มาอัปเดต",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504404"
+    },
+    {
+      "english": "Let’s go for it, no turning back.",
+      "thai": "ไปเลย, ไม่ต้องลังเล",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504407"
+    },
+    {
+      "english": "What’s the easiest option for you?",
+      "thai": "ตัวเลือกที่ง่ายสุดสำหรับเธอคืออะไร",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504409"
+    },
+    {
+      "english": "Okay, I’m ready, just say the place.",
+      "thai": "โอเคพร้อมแล้ว, บอกที่เลย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504412"
+    },
+    {
+      "english": "Let’s do a quick check, then decide.",
+      "thai": "ขอเช็กเร็วๆก่อน, ค่อยตัดสินใจ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504414"
+    },
+    {
+      "english": "No drama, we’ll adjust and continue.",
+      "thai": "ไม่ต้องเครียด, ปรับหน่อยแล้วไปต่อ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504416"
+    },
+    {
+      "english": "I’m still figuring out my mood, today.",
+      "thai": "วันนี้ฉันยังนึกไม่ออกว่าตัวเองอยากได้อารมณ์แบบไหน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504421"
+    },
+    {
+      "english": "Honestly, I need something slower, first.",
+      "thai": "พูดตรงๆ ฉันอยากได้อะไรที่ช้ากว่านี้ก่อน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504423"
+    },
+    {
+      "english": "Let’s pause, and listen to our feelings.",
+      "thai": "เราหยุดก่อนนะ แล้วฟังความรู้สึกตัวเอง",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504426"
+    },
+    {
+      "english": "I’m open to changes, as long as calm.",
+      "thai": "ฉันยอมปรับได้ ขอแค่ให้มันนิ่งๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504428"
+    },
+    {
+      "english": "I don’t want to rush, so take your time.",
+      "thai": "ฉันไม่อยากให้รีบๆ ขอเวลาหน่อยนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504431"
+    },
+    {
+      "english": "I’m grateful, I just want it easy.",
+      "thai": "ฉันรู้สึกดีมาก แค่อยากให้มันง่ายๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504433"
+    },
+    {
+      "english": "Between us, I’m feeling a bit tired.",
+      "thai": "พูดกันตรงๆ ตอนนี้ฉันเหนื่อยนิดหน่อย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504436"
+    },
+    {
+      "english": "Can we keep it light, no heavy plans?",
+      "thai": "เราทำแบบเบาๆ ได้ไหม ไม่เอาแผนหนักๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504438"
+    },
+    {
+      "english": "I’d rather choose comfort over “perfect.”",
+      "thai": "ฉันขอเลือกความสบายมากกว่าแบบเป๊ะๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504440"
+    },
+    {
+      "english": "I’ll be honest, I’m not feeling adventurous.",
+      "thai": "ขอพูดตรงๆ ตอนนี้ฉันไม่ค่อยอยากลุย",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504445"
+    },
+    {
+      "english": "Let’s talk first, then decide together.",
+      "thai": "คุยกันก่อน แล้วค่อยตัดสินใจไปด้วยกัน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504447"
+    },
+    {
+      "english": "I’m trusting your judgment, just keep it real.",
+      "thai": "ฉันเชื่อในสัญชาตญาณคุณ แค่อย่าหลอกกันเองนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504450"
+    },
+    {
+      "english": "If I’m quiet, it’s not rejection.",
+      "thai": "ถ้าฉันเงียบ แปลว่าไม่ได้ปฏิเสธนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504452"
+    },
+    {
+      "english": "I want space, but I still want to meet.",
+      "thai": "ฉันต้องการพื้นที่ แต่ก็ยังอยากเจอนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504455"
+    },
+    {
+      "english": "Please be patient, I’m choosing slowly.",
+      "thai": "ช่วยใจเย็นๆ นะ ฉันกำลังเลือกแบบช้าๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504457"
+    },
+    {
+      "english": "I’m recalibrating, so plans can shift.",
+      "thai": "ตอนนี้ฉันกำลังปรับจูน แผนอาจเปลี่ยนได้",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504460"
+    },
+    {
+      "english": "I’d love a sincere plan, not a rushed one.",
+      "thai": "ฉันอยากได้แผนที่จริงใจ ไม่ใช่รีบๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504462"
+    },
+    {
+      "english": "Let’s check in, how are you really feeling?",
+      "thai": "เช็กอินหน่อยนะ ตอนนี้คุณรู้สึกยังไงจริงๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504465"
+    },
+    {
+      "english": "I don’t mind waiting, I mind stress.",
+      "thai": "ฉันไม่รังเกียจรอ แต่ไม่อยากเครียด",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504467"
+    },
+    {
+      "english": "Today, I’m choosing peace, over speed.",
+      "thai": "วันนี้ฉันเลือกความสงบ มากกว่าความไว",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504470"
+    },
+    {
+      "english": "If you’re unsure, we can rethink calmly.",
+      "thai": "ถ้าคุณยังไม่แน่ใจ เราทบทวนกันได้แบบใจเย็น",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504472"
+    },
+    {
+      "english": "I’m learning to say “not today.”",
+      "thai": "ฉันกำลังหัดพูดว่า “วันนี้ไม่ไหว”",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504475"
+    },
+    {
+      "english": "Let’s be real, I need an early exit.",
+      "thai": "พูดตามตรง ฉันขอกลับก่อนนะ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504478"
+    },
+    {
+      "english": "I appreciate the effort, even if it changes.",
+      "thai": "ขอบคุณนะ ถึงมันจะเปลี่ยนก็ยังเห็นความตั้งใจ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504480"
+    },
+    {
+      "english": "Let’s keep it thoughtful, not just logistics.",
+      "thai": "ขอให้มันมีความคิด มากกว่าความเป็นเรื่องงาน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504482"
+    },
+    {
+      "english": "I’m watching my energy, so choose wisely.",
+      "thai": "ฉันกำลังดูพลังตัวเอง เลยขอเลือกดีๆ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504485"
+    },
+    {
+      "english": "If plans feel off, we should pause.",
+      "thai": "ถ้าแผนมันไม่เข้าที่ เราควรหยุดก่อน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504487"
+    },
+    {
+      "english": "I’m okay with simple, as long as sincere.",
+      "thai": "ฉันโอเคกับความง่ายๆ ขอแค่อย่าให้มันไม่จริงใจ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504490"
+    },
+    {
+      "english": "Let’s plan softly, leave room for life.",
+      "thai": "ช่วยวางแผนแบบเบาๆ เผื่อชีวิตมันเปลี่ยน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504492"
+    },
+    {
+      "english": "I’ll speak up, if something doesn’t feel right.",
+      "thai": "ฉันจะบอกถ้ามันไม่โอเคกับความรู้สึก",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504494"
+    },
+    {
+      "english": "Send me the time, I’ll be there.",
+      "thai": "ส่งเวลาให้หน่อย, เดี๋ยวฉันไปทัน",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504497"
+    },
+    {
+      "english": "Before we book, what’s your budget?",
+      "thai": "ก่อนจอง, งบเท่าไหร่ของคุณ",
+      "category": "Making Plans",
+      "generated_at": "2026-11-08T09:46:42.504499"
     }
   ],
-  "last_updated": "2026-11-07T09:30:23.750023"
+  "last_updated": "2026-11-08T09:46:42.504501"
 }

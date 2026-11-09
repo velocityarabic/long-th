@@ -15839,7 +15839,727 @@
       "thai": "ก่อนจอง, งบเท่าไหร่ของคุณ",
       "category": "Making Plans",
       "generated_at": "2026-11-08T09:46:42.504499"
+    },
+    {
+      "english": "So, we hang out later, right?",
+      "thai": "งั้นเราไปเที่ยวกันทีหลังนะ, ใช่ไหม",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228019"
+    },
+    {
+      "english": "Thanks for being here, I mean it",
+      "thai": "ขอบคุณที่อยู่ตรงนี้, ฉันจริงใจนะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228036"
+    },
+    {
+      "english": "Bro, you always get me, somehow",
+      "thai": "เพื่อนเอ๊ย นายเข้าใจฉันตลอด, ยังไงก็ไม่รู้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228041"
+    },
+    {
+      "english": "Let’s catch up, over coffee, tomorrow",
+      "thai": "คุยอัปเดตกันหน่อย, กินกาแฟพรุ่งนี้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228045"
+    },
+    {
+      "english": "No worries, we’ve got this together",
+      "thai": "ไม่ต้องห่วงนะ, เราทำด้วยกันได้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228048"
+    },
+    {
+      "english": "You’re awesome, seriously, stop",
+      "thai": "นายสุดยอดนะ, จริงๆ, หยุดเลย",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228052"
+    },
+    {
+      "english": "I feel lucky, having you as my friend",
+      "thai": "ฉันโชคดีมาก, ที่มีนายเป็นเพื่อน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228054"
+    },
+    {
+      "english": "You good? Call me, quick, please",
+      "thai": "โอเคไหม, โทรมานะ, เร็วๆ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228061"
+    },
+    {
+      "english": "That’s cute, I’m smiling, already",
+      "thai": "น่ารักจังเลย, ฉันยิ้มอยู่แล้ว",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228065"
+    },
+    {
+      "english": "Wait, you’re kidding, right?",
+      "thai": "เดี๋ยวก่อน, ล้อเล่นใช่ไหม",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228069"
+    },
+    {
+      "english": "I’m proud of you, keep going",
+      "thai": "ฉันภูมิใจในตัวนาย, เดินต่อไปนะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228071"
+    },
+    {
+      "english": "Come on, let’s go, no overthinking",
+      "thai": "ไปสิ, ไปกันเถอะ, อย่าคิดมาก",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228074"
+    },
+    {
+      "english": "Same vibes, I knew it",
+      "thai": "บรรยากาศเดียวกันเลย, ฉันรู้อยู่แล้ว",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228076"
+    },
+    {
+      "english": "That made me laugh, thanks",
+      "thai": "อันนั้นทำให้ฉันหัวเราะ, ขอบใจนะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228078"
+    },
+    {
+      "english": "I got you, seriously, trust me",
+      "thai": "ฉันจัดให้, จริงๆ, เชื่อฉันสิ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228081"
+    },
+    {
+      "english": "Let’s do this, together, now",
+      "thai": "มาเลย ทำด้วยกัน, ตอนนี้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228084"
+    },
+    {
+      "english": "You’re my safe place, always",
+      "thai": "นายคือที่พักใจของฉัน, ตลอดไป",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228086"
+    },
+    {
+      "english": "Good news? Tell me, please",
+      "thai": "ข่าวดีเหรอ, เล่าให้ฟังหน่อย",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228088"
+    },
+    {
+      "english": "That’s true, I agree with you",
+      "thai": "มันจริงนะ, ฉันเห็นด้วย",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228091"
+    },
+    {
+      "english": "Sorry, I messed up, my bad",
+      "thai": "ขอโทษนะ ฉันพลาดเอง, ขอรับ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228093"
+    },
+    {
+      "english": "Are we still good, between us?",
+      "thai": "เรายังโอเคกันไหม, ระหว่างเรา",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228095"
+    },
+    {
+      "english": "Come closer, I’ll show you",
+      "thai": "เข้ามาใกล้ๆ, ฉันจะบอกให้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228098"
+    },
+    {
+      "english": "Let’s celebrate, you deserve it",
+      "thai": "ไปฉลองกันเถอะ, นายสมควรแล้ว",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228101"
+    },
+    {
+      "english": "I’ll remember this, for sure",
+      "thai": "ฉันจะจำไว้, แน่นอน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228103"
+    },
+    {
+      "english": "You’re late, but I’m here",
+      "thai": "มาช้าไปหน่อยนะ, แต่ฉันยังอยู่",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228106"
+    },
+    {
+      "english": "Wow, that’s a big deal, friend",
+      "thai": "ว้าว อันนี้เรื่องใหญ่เลยนะ เพื่อน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228109"
+    },
+    {
+      "english": "Quick check-in, how’s it going?",
+      "thai": "เช็กอินหน่อย, เป็นไงบ้าง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228111"
+    },
+    {
+      "english": "Let’s stay together, don’t leave yet",
+      "thai": "อยู่ด้วยกันก่อน, อย่าเพิ่งไป",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228118"
+    },
+    {
+      "english": "Do you wanna talk, tonight, about everything?",
+      "thai": "คืนนี้คุยกันไหม, เรื่องทุกอย่างเลย",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228122"
+    },
+    {
+      "english": "What do you think, should I text?",
+      "thai": "คุณคิดว่า, ฉันควรทักไหม",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228124"
+    },
+    {
+      "english": "Can I ask you something, real quick?",
+      "thai": "ขอถามอะไรหน่อยได้ไหม, เร็วๆ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228127"
+    },
+    {
+      "english": "Do you have plans, this weekend, with friends?",
+      "thai": "เสาร์อาทิตย์นี้, มีแผนไปกับเพื่อนๆ ไหม",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228131"
+    },
+    {
+      "english": "How did you handle it, when it got tough?",
+      "thai": "ตอนมันยาก, คุณรับมือยังไง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228133"
+    },
+    {
+      "english": "What’s your honest opinion, about our plan?",
+      "thai": "คุณคิดจริงๆ ยังไง, กับแผนนี้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228136"
+    },
+    {
+      "english": "Should we call first, or just meet?",
+      "thai": "เราควรโทรก่อน, หรือไปเจอกันเลย",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228138"
+    },
+    {
+      "english": "Where do you usually hang out, after work?",
+      "thai": "หลังเลิกงาน, คุณไปนั่งที่ไหนบ่อย",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228141"
+    },
+    {
+      "english": "Do you prefer messages, or voice calls?",
+      "thai": "คุณชอบแชท, หรือโทรด้วยเสียงมากกว่า",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228143"
+    },
+    {
+      "english": "Can I get your advice, on this?",
+      "thai": "ขอคำแนะนำหน่อยได้ไหม, เรื่องนี้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228145"
+    },
+    {
+      "english": "What should I do, to make it right?",
+      "thai": "ฉันควรทำยังไง, ให้มันโอเค",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228148"
+    },
+    {
+      "english": "Are you free now, or later?",
+      "thai": "ตอนนี้ว่างไหม, หรืออีกทีหลัง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228151"
+    },
+    {
+      "english": "Do you want space, or company?",
+      "thai": "อยากให้ฉันอยู่ด้วย, หรือให้พื้นที่",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228153"
+    },
+    {
+      "english": "When you’re ready, let’s talk.",
+      "thai": "พอคุณพร้อม, ค่อยคุยกันนะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228156"
+    },
+    {
+      "english": "What time works for you, today?",
+      "thai": "วันนี้สะดวกกี่โมง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228159"
+    },
+    {
+      "english": "Can we clear this up, together?",
+      "thai": "คุยให้เข้าใจกันก่อนนะ, ได้ไหม",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228161"
+    },
+    {
+      "english": "How was your day, really?",
+      "thai": "วันนี้เป็นไงบ้าง, ตามจริง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228163"
+    },
+    {
+      "english": "Do you feel better, since we talked?",
+      "thai": "ดีขึ้นไหม, หลังจากที่คุยกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228165"
+    },
+    {
+      "english": "What would you like me to remember?",
+      "thai": "คุณอยากให้ฉันจำอะไรไว้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228168"
+    },
+    {
+      "english": "Should I bring anything, for us?",
+      "thai": "ฉันควรเอาอะไรไปด้วยไหม",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228170"
+    },
+    {
+      "english": "What’s the best way to stay in touch?",
+      "thai": "เราจะติดต่อกันยังไงดี",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228173"
+    },
+    {
+      "english": "Do you want to join, or do you pass?",
+      "thai": "ไปด้วยกันไหม, หรือไม่เอาดี",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228175"
+    },
+    {
+      "english": "How do you usually handle awkward moments?",
+      "thai": "คุณจัดการสถานการณ์อึดอัดยังไง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228177"
+    },
+    {
+      "english": "What’s one thing you want from me?",
+      "thai": "มีอะไรที่คุณอยากได้จากฉัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228180"
+    },
+    {
+      "english": "If I’m wrong, tell me straight.",
+      "thai": "ถ้าฉันผิด, บอกฉันตรงๆ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228183"
+    },
+    {
+      "english": "Want to trade ideas, and see what happens?",
+      "thai": "อยากแลกไอเดียกัน, แล้วดูสิ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228185"
+    },
+    {
+      "english": "Can we make a quick plan, together?",
+      "thai": "เรามีแผนเร็วๆ กันไหม, ตอนนี้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228187"
+    },
+    {
+      "english": "I’m proud of you, seriously, friend",
+      "thai": "เราภูมิใจในตัวเธอมากเลยนะ เพื่อน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228190"
+    },
+    {
+      "english": "Good vibes only, let’s stay positive",
+      "thai": "เอาแต่พลังบวกนะ, อยู่ด้วยกันแบบนี้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228194"
+    },
+    {
+      "english": "Count on me, I won’t ghost you",
+      "thai": "นับเราได้เลยนะ, เราไม่หายไปไหน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228197"
+    },
+    {
+      "english": "When you doubt, I’ll remind you",
+      "thai": "ตอนเธอเริ่มไม่มั่นใจ, เราจะเตือน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228200"
+    },
+    {
+      "english": "You matter, so keep your heart open",
+      "thai": "เธอสำคัญนะ, เปิดใจไว้เลย",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228203"
+    },
+    {
+      "english": "We try again, no drama, just progress",
+      "thai": "เริ่มใหม่ได้, ไม่ต้องดราม่า, เอาแค่ก้าวหน้า",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228206"
+    },
+    {
+      "english": "Say it out loud, you’re doing great",
+      "thai": "พูดดังๆเลยนะ, เธอกำลังทำดีมาก",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228209"
+    },
+    {
+      "english": "No pressure, I’m here for you always",
+      "thai": "ไม่ต้องกดดันนะ, เราอยู่ตรงนี้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228211"
+    },
+    {
+      "english": "Team friendship, we don’t give up",
+      "thai": "ทีมเพื่อนกัน, เราไม่ยอมแพ้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228214"
+    },
+    {
+      "english": "You’re not alone, I’ve got your back",
+      "thai": "เธอไม่ได้น้อยใจคนเดียว, เรามีหลังให้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228217"
+    },
+    {
+      "english": "Let’s laugh first, worries can wait",
+      "thai": "หัวเราะก่อนนะ, เรื่องกังวลไว้ทีหลัง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228220"
+    },
+    {
+      "english": "Small steps, big wins, that’s our vibe",
+      "thai": "ก้าวเล็กๆ, ได้ผลใหญ่ๆ, นี่แหละสไตล์เรา",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228222"
+    },
+    {
+      "english": "I’ll hype you up, anytime, friend",
+      "thai": "เราจะเชียร์เธอเสมอ, เมื่อไหร่ก็ได้เพื่อน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228225"
+    },
+    {
+      "english": "Trust your pace, you’re improving",
+      "thai": "ไว้ใจจังหวะตัวเองนะ, เธอพัฒนาอยู่แล้ว",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228229"
+    },
+    {
+      "english": "Talk to me, your feelings are valid",
+      "thai": "คุยกับเรานะ, ความรู้สึกเธอมีเหตุผล",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228231"
+    },
+    {
+      "english": "You’re safe with me, no judgment",
+      "thai": "อยู่กับเราได้นะ, ไม่ตัดสินกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228234"
+    },
+    {
+      "english": "We can handle this, one breath at a time",
+      "thai": "เราฝ่ามันได้, ทีละลมหายใจ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228236"
+    },
+    {
+      "english": "Even on bad days, you’re still amazing",
+      "thai": "วันแย่ๆก็ยังสุดยอดเหมือนเดิม",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228239"
+    },
+    {
+      "english": "I believe in you, more than you think",
+      "thai": "เราศรัทธาในตัวเธอมากกว่าที่คิด",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228241"
+    },
+    {
+      "english": "Let’s keep it real, kindness always wins",
+      "thai": "พูดตรงๆนะ, ความใจดีชนะเสมอ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228244"
+    },
+    {
+      "english": "You’ve survived, so you can reset",
+      "thai": "ผ่านมาได้แล้ว, ตอนนี้เริ่มใหม่ได้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228247"
+    },
+    {
+      "english": "I’m not going anywhere, promise",
+      "thai": "เราไม่ไปไหนนะ, สัญญา",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228249"
+    },
+    {
+      "english": "Come on, breathe, then we figure it out",
+      "thai": "เอาน่า, หายใจเข้าออกก่อน, เดี๋ยวค่อยคิด",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228252"
+    },
+    {
+      "english": "You bring light, keep shining",
+      "thai": "เธอทำให้คนรอบตัวสว่าง, ส่องต่อไป",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228254"
+    },
+    {
+      "english": "I’ve got your back, like really",
+      "thai": "เรามีหลังให้จริงๆนะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228256"
+    },
+    {
+      "english": "No need to be perfect, just be you",
+      "thai": "ไม่ต้องเพอร์เฟกต์นะ, แค่เป็นตัวเองก็พอ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228259"
+    },
+    {
+      "english": "Let’s swap worries, not blame",
+      "thai": "มาแลกเปลี่ยนความกังวล, ไม่ต้องโทษกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228261"
+    },
+    {
+      "english": "Your effort shows, and I notice",
+      "thai": "ความพยายามเธอเห็นนะ, เราสังเกตได้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228263"
+    },
+    {
+      "english": "Friends don’t keep score, we keep care",
+      "thai": "เพื่อนไม่ได้นับแต้ม, เราดูแลกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228266"
+    },
+    {
+      "english": "I’m grateful, for your honest check-ins",
+      "thai": "เรารู้สึกขอบคุณนะ, สำหรับการเช็กอินแบบจริงใจ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228269"
+    },
+    {
+      "english": "Sometimes I need space, but I stay close",
+      "thai": "บางทีก็ขอพื้นที่นิดนึง, แต่เรายังอยู่ใกล้ๆ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228272"
+    },
+    {
+      "english": "I hear you, and I won’t rush you",
+      "thai": "เราได้ยินนะ, แล้วก็ไม่รีบให้คำตอบ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228275"
+    },
+    {
+      "english": "Let’s be real, I miss you",
+      "thai": "พูดจริงๆ นะ, เราคิดถึง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228277"
+    },
+    {
+      "english": "Thanks for staying patient with my mood",
+      "thai": "ขอบคุณนะ, ที่อดทนกับอารมณ์เรา",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228279"
+    },
+    {
+      "english": "When I’m quiet, it’s not distance",
+      "thai": "ถ้าเรานิ่งๆ, ไม่ได้แปลว่าไกล",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228282"
+    },
+    {
+      "english": "I think friendship grows from small care",
+      "thai": "เราว่าเพื่อนที่ดี, โตได้จากการใส่ใจเล็กๆ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228284"
+    },
+    {
+      "english": "I won’t pretend, I feel things deeply",
+      "thai": "เราไม่ต้องฝืน, เรารู้สึกจริงๆ นะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228288"
+    },
+    {
+      "english": "Even when I doubt, you steady me",
+      "thai": "แม้เราจะไม่มั่นใจ, คุณก็ทำให้ใจนิ่ง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228290"
+    },
+    {
+      "english": "I appreciate the way you listen",
+      "thai": "เราซาบซึ้ง, กับการรับฟังของคุณ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228293"
+    },
+    {
+      "english": "Let’s talk gently, feelings first",
+      "thai": "คุยกันแบบอ่อนโยน, ใส่ใจความรู้สึกก่อน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228295"
+    },
+    {
+      "english": "I’m learning to open up slowly",
+      "thai": "เรากำลังหัดเปิดใจแบบค่อยเป็นค่อยไป",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228297"
+    },
+    {
+      "english": "Your presence helps me breathe easier",
+      "thai": "การที่คุณอยู่ตรงนี้, ทำให้เราหายใจโล่งขึ้น",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228299"
+    },
+    {
+      "english": "I value honesty, even with the hard parts",
+      "thai": "เราให้ความสำคัญกับความจริง, แม้เรื่องยากก็ต้องพูด",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228302"
+    },
+    {
+      "english": "Let’s check in, before things get heavy",
+      "thai": "คุยกันก่อนนะ, ก่อนที่มันจะหนักมาก",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228304"
+    },
+    {
+      "english": "I’m proud of your patience, honestly",
+      "thai": "เราภูมิใจในความอดทนของคุณ, จริงๆ นะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228307"
+    },
+    {
+      "english": "When I care, I show it quietly",
+      "thai": "ถ้าเรารู้สึกดี, เราจะแสดงออกแบบเงียบๆ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228309"
+    },
+    {
+      "english": "Let’s keep learning each other, no rush",
+      "thai": "ค่อยๆ เรียนรู้กันไป, ไม่ต้องรีบ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228312"
+    },
+    {
+      "english": "I’ll respect your feelings, even if late",
+      "thai": "เราจะเคารพความรู้สึกคุณ, ถึงแม้จะตอบช้า",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228314"
+    },
+    {
+      "english": "Some days, I just need kindness",
+      "thai": "บางวัน เราแค่อยากได้ความใจดี",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228318"
+    },
+    {
+      "english": "Your support makes my doubts smaller",
+      "thai": "กำลังใจของคุณ, ทำให้ความกังวลลดลง",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228320"
+    },
+    {
+      "english": "I don’t judge, I just understand you",
+      "thai": "เราไม่ตัดสิน, แค่พยายามเข้าใจคุณ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228323"
+    },
+    {
+      "english": "Let’s hold space, for each other’s pace",
+      "thai": "เรามาให้พื้นที่กัน, ตามจังหวะของกันและกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228326"
+    },
+    {
+      "english": "I’ll tell you what I truly mean",
+      "thai": "เราจะบอกในสิ่งที่เราหมายจริงๆ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228328"
+    },
+    {
+      "english": "Your friendship feels steady, not dramatic",
+      "thai": "มิตรภาพของคุณ, มันมั่นคง ไม่เว่อร์",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228331"
+    },
+    {
+      "english": "I’m okay with slow healing, together",
+      "thai": "เรารับได้กับการเยียวยาค่อยๆ, ไปด้วยกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228333"
+    },
+    {
+      "english": "I trust you, even when I’m unsure",
+      "thai": "เราเชื่อใจคุณ, แม้ตอนนี้ยังไม่แน่ใจ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228336"
+    },
+    {
+      "english": "Let’s keep the bond, not just the chats",
+      "thai": "ขอให้เรารักษาความสัมพันธ์, ไม่ใช่แค่คุยกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228338"
+    },
+    {
+      "english": "I notice your effort, it matters",
+      "thai": "เราเห็นความพยายามของคุณ, มันสำคัญ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228340"
+    },
+    {
+      "english": "If today hurts, we’ll face it gently",
+      "thai": "ถ้าวันนี้มันเจ็บ, เราจะค่อยๆ ผ่านไปด้วยกัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228343"
+    },
+    {
+      "english": "Hey, wanna grab coffee after work, sometime?",
+      "thai": "เฮ้, หลังเลิกงานไปกินกาแฟกันไหม, สักวัน",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228348"
+    },
+    {
+      "english": "Text me when you’re free, no pressure.",
+      "thai": "ทักมาบอกเมื่อว่างนะ, ไม่ต้องรีบก็ได้",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228351"
+    },
+    {
+      "english": "If you’re upset, say it straight, please.",
+      "thai": "ถ้าเธอโกรธ, บอกตรงๆ ได้ไหม, นะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228354"
+    },
+    {
+      "english": "I’ll match your pace, take your time.",
+      "thai": "ฉันจะไปตามจังหวะเธอ, ค่อยๆ นะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228356"
+    },
+    {
+      "english": "Let’s solve it together, step by step.",
+      "thai": "เรามาช่วยกันแก้ไปทีละขั้นตอน, นะ",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228359"
+    },
+    {
+      "english": "Thanks for checking, it really calms me.",
+      "thai": "ขอบคุณที่เช็กอิน, มันทำให้ใจเย็นมาก",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T10:44:43.228362"
     }
   ],
-  "last_updated": "2026-11-08T09:46:42.504501"
+  "last_updated": "2026-11-09T10:44:43.228364"
 }

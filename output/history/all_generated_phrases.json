@@ -16559,7 +16559,727 @@
       "thai": "ขอบคุณที่เช็กอิน, มันทำให้ใจเย็นมาก",
       "category": "Friendship",
       "generated_at": "2026-11-09T10:44:43.228362"
+    },
+    {
+      "english": "Hi, what do you recommend today?",
+      "thai": "สวัสดีค่ะ, วันนี้มีอะไรแนะนำไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671740"
+    },
+    {
+      "english": "One coffee, please, no sugar.",
+      "thai": "เอากาแฟหนึ่งแก้วค่ะ, ไม่ใส่น้ำตาลนะคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671748"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "thai": "ขอดูเมนูหน่อยได้ไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671750"
+    },
+    {
+      "english": "What’s popular here, honestly?",
+      "thai": "ที่นี่ของดังๆคืออะไรคะ, จริงๆเลย",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671752"
+    },
+    {
+      "english": "I’ll take that one, please.",
+      "thai": "ขอเอาอันนั้นเลยค่ะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671754"
+    },
+    {
+      "english": "Do you have oat milk?",
+      "thai": "มีนมโอ๊ตไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671768"
+    },
+    {
+      "english": "Is this sweet, or not?",
+      "thai": "อันนี้หวานไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671771"
+    },
+    {
+      "english": "Make it less sweet, please.",
+      "thai": "ลดความหวานลงหน่อยนะคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671777"
+    },
+    {
+      "english": "I’m just browsing, thank you.",
+      "thai": "ฉันแค่มองๆก่อนนะ, ขอบคุณค่ะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671781"
+    },
+    {
+      "english": "Do you have this without nuts?",
+      "thai": "อันนี้ทำแบบไม่ใส่ถั่วได้ไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671783"
+    },
+    {
+      "english": "No ice, please, just room temperature.",
+      "thai": "ไม่ใส่น้ำแข็งนะคะ เอาแบบอุณหภูมิห้อง",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671785"
+    },
+    {
+      "english": "Extra hot, please.",
+      "thai": "เอาร้อนมากๆเลยค่ะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671787"
+    },
+    {
+      "english": "Can I pay by card?",
+      "thai": "จ่ายด้วยบัตรได้ไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671788"
+    },
+    {
+      "english": "Is it takeaway, or dine-in?",
+      "thai": "เอากลับบ้านได้ไหมคะ, หรือทานที่นี่",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671795"
+    },
+    {
+      "english": "For here, please.",
+      "thai": "ทานที่นี่ค่ะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671800"
+    },
+    {
+      "english": "To-go, please, thanks.",
+      "thai": "เอากลับค่ะ, ขอบคุณนะคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671802"
+    },
+    {
+      "english": "Wow, this smells amazing!",
+      "thai": "ว้าว, กลิ่นหอมมากเลยค่ะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671803"
+    },
+    {
+      "english": "Mmm, that’s really good!",
+      "thai": "อืมม์, อันนี้อร่อยมากเลย",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671805"
+    },
+    {
+      "english": "Can I get it soon?",
+      "thai": "ขอได้เร็วๆหน่อยได้ไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671807"
+    },
+    {
+      "english": "Do you have a cold drink?",
+      "thai": "มีเครื่องดื่มเย็นไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671808"
+    },
+    {
+      "english": "I’ll try something new today.",
+      "thai": "วันนี้ขอลองอะไรใหม่ๆค่ะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671810"
+    },
+    {
+      "english": "Is there a less caffeine option?",
+      "thai": "มีแบบคาเฟอีนต่ำไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671812"
+    },
+    {
+      "english": "What time do you close?",
+      "thai": "ปิดกี่โมงคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671813"
+    },
+    {
+      "english": "One more pastry, please, why not?",
+      "thai": "ขออีกชิ้นได้ไหมคะ, ไม่เป็นไรหรอก",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671815"
+    },
+    {
+      "english": "It’s too sweet, can you adjust?",
+      "thai": "หวานไปหน่อยค่ะ, ปรับได้ไหม",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671817"
+    },
+    {
+      "english": "This is perfect, thank you!",
+      "thai": "อร่อยพอดีมากเลยค่ะ, ขอบคุณนะคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671819"
+    },
+    {
+      "english": "Do you have fresh bread today?",
+      "thai": "วันนี้มีขนมปังสดไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671820"
+    },
+    {
+      "english": "Can I get a small one?",
+      "thai": "ขอแบบเล็กๆได้ไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671821"
+    },
+    {
+      "english": "Do you have this gluten-free?",
+      "thai": "มีแบบไม่มีกลูเตนไหมคะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671823"
+    },
+    {
+      "english": "So, what’s your favorite pastry right now?",
+      "thai": "แล้วขนมที่คุณชอบสุดตอนนี้คืออะไรคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671825"
+    },
+    {
+      "english": "Between these two, which one tastes better?",
+      "thai": "สองอันนี้ อันไหนอร่อยกว่ากันคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671827"
+    },
+    {
+      "english": "Can I ask what’s in this drink?",
+      "thai": "ขอถามหน่อยได้ไหมคะ ว่าใส่อะไรบ้าง?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671829"
+    },
+    {
+      "english": "Is this flavor popular, or more for adventurous?",
+      "thai": "รสนี้คนชอบเยอะไหมคะ หรือสายลุย?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671831"
+    },
+    {
+      "english": "Do you have something lighter for today?",
+      "thai": "วันนี้มีอะไรที่เบากว่านี้ไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671832"
+    },
+    {
+      "english": "What pairs best with a latte here?",
+      "thai": "ลาเต้ที่นี่ควรจับคู่กับอะไรดีคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671834"
+    },
+    {
+      "english": "If I’m craving chocolate, what should I get?",
+      "thai": "ถ้าหนูอยากกินช็อกโกแลต ควรสั่งอะไรคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671836"
+    },
+    {
+      "english": "Are your pastries baked fresh this morning?",
+      "thai": "ขนมอบเมื่อเช้า ทำสดใหม่ไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671838"
+    },
+    {
+      "english": "May I see the hot drink options?",
+      "thai": "ขอดูเครื่องดื่มร้อนๆ หน่อยได้ไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671839"
+    },
+    {
+      "english": "Which one’s less bitter, this or that?",
+      "thai": "อันไหนขมกว่าน้อย อันนี้หรืออันนั้นคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671898"
+    },
+    {
+      "english": "Can you suggest a signature drink for me?",
+      "thai": "ช่วยแนะนำเครื่องดื่มซิกเนเจอร์ให้หน่อยได้ไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671901"
+    },
+    {
+      "english": "Do you have anything with vanilla today?",
+      "thai": "วันนี้มีวานิลลาไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671903"
+    },
+    {
+      "english": "What’s the best seller for couples, honestly?",
+      "thai": "ของที่ขายดีที่สุดสำหรับคู่รักคืออะไรคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671905"
+    },
+    {
+      "english": "Is there a cinnamon option in your bakery?",
+      "thai": "ทางร้านมีขนมอบกลิ่นอบเชยไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671906"
+    },
+    {
+      "english": "How spicy is the filling, roughly?",
+      "thai": "ไส้เผ็ดประมาณไหนคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671908"
+    },
+    {
+      "english": "Is this pastry flaky, or more chewy?",
+      "thai": "ขนมอันนี้กรอบนุ่ม หรือเคี้ยวหนึบคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671910"
+    },
+    {
+      "english": "I’m curious, what’s your cafe vibe like?",
+      "thai": "ขอถามนิดนึง บรรยากาศที่ร้านเป็นยังไงคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671912"
+    },
+    {
+      "english": "Where should I sit if it’s busy?",
+      "thai": "ถ้าคนเยอะ ควรนั่งตรงไหนคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671914"
+    },
+    {
+      "english": "Do you have discounts for students today?",
+      "thai": "วันนี้มีโปรสำหรับนักเรียนไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671915"
+    },
+    {
+      "english": "Which drinks are good for hot weather?",
+      "thai": "เครื่องดื่มไหนเหมาะกับอากาศร้อนคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671917"
+    },
+    {
+      "english": "Can I customize the milk taste a bit?",
+      "thai": "ปรับรสของนมได้ไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671920"
+    },
+    {
+      "english": "Do you recommend it sweet, or normal?",
+      "thai": "แนะนำให้หวานมากไหม หรือปกติคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671921"
+    },
+    {
+      "english": "What’s your deal if I order two items?",
+      "thai": "ถ้าสั่งสองอย่าง มีโปรอะไรไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671923"
+    },
+    {
+      "english": "Is the bread soft inside, or dense?",
+      "thai": "ขนมปังข้างในนุ่มไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671924"
+    },
+    {
+      "english": "How long will it take to make mine?",
+      "thai": "ใช้เวลาประมาณกี่นาทีคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671926"
+    },
+    {
+      "english": "Do you have gift boxes for pastries?",
+      "thai": "มีแพ็กของเป็นกล่องของขวัญไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671927"
+    },
+    {
+      "english": "If I wait, will it taste better fresh?",
+      "thai": "ถ้ารอ จะได้รสสดกว่าไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671929"
+    },
+    {
+      "english": "Do you have low-sugar options today?",
+      "thai": "วันนี้มีตัวเลือกน้ำตาลน้อยไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671930"
+    },
+    {
+      "english": "Can I switch the topping to fruit?",
+      "thai": "ขอเปลี่ยนท็อปปิ้งเป็นผลไม้ได้ไหมคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671932"
+    },
+    {
+      "english": "What time do you usually restock pastries?",
+      "thai": "ร้านเติมขนมบ่อยช่วงไหนคะ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671933"
+    },
+    {
+      "english": "You got this, choose what sounds good.",
+      "thai": "สู้ๆนะ เลือกที่มันน่าลองที่สุด",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671935"
+    },
+    {
+      "english": "Slow down, enjoy the smell first.",
+      "thai": "ใจเย็นๆนะ หายใจก่อน แล้วค่อยชิม",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671936"
+    },
+    {
+      "english": "Today’s small win, grab a treat.",
+      "thai": "วันนี้คือชัยชนะเล็กๆ รับของอร่อยนะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671938"
+    },
+    {
+      "english": "Trust your taste, you’ll find your match.",
+      "thai": "เชื่อรสนิยมตัวเอง เดี๋ยวมันจะเจอคู่กัน",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671940"
+    },
+    {
+      "english": "Good mood starts with good coffee, right?",
+      "thai": "อารมณ์ดีเริ่มจากกาแฟอร่อยใช่ไหม",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671942"
+    },
+    {
+      "english": "Nice choice, you’re doing great today.",
+      "thai": "เลือกดีมากเลย วันนี้คุณทำได้เยี่ยมจริงๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671944"
+    },
+    {
+      "english": "Take a breath, you’re exactly on time.",
+      "thai": "หายใจลึกๆนะ คุณมาพอดีเลย",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671946"
+    },
+    {
+      "english": "No pressure, just explore and smile.",
+      "thai": "ไม่ต้องกดดัน แค่ลองดู แล้วยิ้มไว้",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671947"
+    },
+    {
+      "english": "One bite, and your worries fade.",
+      "thai": "แค่คำเดียว ความกังวลก็เบาลง",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671949"
+    },
+    {
+      "english": "You deserve this, go ahead and treat yourself.",
+      "thai": "คุณสมควรได้สิ่งนี้ เลยจัดไป",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671951"
+    },
+    {
+      "english": "Say yes to the moment, try it.",
+      "thai": "ตอบรับช่วงเวลานี้ ลองเลย",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671952"
+    },
+    {
+      "english": "Make it a fresh start, today.",
+      "thai": "เริ่มใหม่แบบสดๆวันนี้",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671954"
+    },
+    {
+      "english": "Even a little pastry can uplift you.",
+      "thai": "ขนมชิ้นเล็กๆก็ช่วยยกใจได้",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671957"
+    },
+    {
+      "english": "Stay positive, the cafe has your vibe.",
+      "thai": "คิดบวกไว้ ร้านนี้เค้ามีบรรยากาศให้",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671958"
+    },
+    {
+      "english": "Great things happen when you choose boldly.",
+      "thai": "เรื่องดีๆเกิดขึ้น เมื่อคุณกล้าลอง",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671960"
+    },
+    {
+      "english": "You’re learning fast, one order at a time.",
+      "thai": "คุณเรียนไวมาก สั่งทีละอย่าง",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671964"
+    },
+    {
+      "english": "Let curiosity lead, ask and enjoy.",
+      "thai": "ให้ความอยากรู้พาไป ถามแล้วสนุก",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671965"
+    },
+    {
+      "english": "You can do it, order with confidence.",
+      "thai": "ทำได้แน่ สั่งด้วยความมั่นใจนะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671967"
+    },
+    {
+      "english": "Good energy in, good energy out.",
+      "thai": "พลังดีเข้ามา พลังดีออกไป",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671968"
+    },
+    {
+      "english": "Pick one, commit, and savor slowly.",
+      "thai": "เลือกอันเดียว ตัดสินใจ แล้วชิมช้าๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671971"
+    },
+    {
+      "english": "It’s okay to change your mind.",
+      "thai": "เปลี่ยนใจได้เสมอ ไม่เป็นไรนะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671973"
+    },
+    {
+      "english": "You’re making memories, one sip at once.",
+      "thai": "คุณกำลังสร้างความทรงจำ จิบทีละนิด",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671974"
+    },
+    {
+      "english": "Keep it simple, start with the classics.",
+      "thai": "ทำให้ง่ายๆ เริ่มจากเมนูคลาสสิก",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671976"
+    },
+    {
+      "english": "Nice try, every cafe is a win.",
+      "thai": "ลองดีแล้ว ทุกคาเฟ่คือชัยชนะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671977"
+    },
+    {
+      "english": "Be kind to yourself, treat today.",
+      "thai": "ใจดีกับตัวเอง ให้รางวัลตัวเองวันนี้",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671979"
+    },
+    {
+      "english": "You don’t need perfect Thai, just try.",
+      "thai": "ไม่ต้องพูดไทยเป๊ะ แค่ลองก็พอ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671980"
+    },
+    {
+      "english": "Confident smile, it opens doors here.",
+      "thai": "รอยยิ้มมั่นใจ เปิดประตูให้เลยนะ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671982"
+    },
+    {
+      "english": "Small steps, big cravings, enjoy the journey.",
+      "thai": "ก้าวเล็กๆ ความอยากก็ใหญ่ ชิมไปเรื่อยๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671984"
+    },
+    {
+      "english": "You’re here, so make it count.",
+      "thai": "คุณมาถึงแล้ว ก็ทำให้คุ้มค่า",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671985"
+    },
+    {
+      "english": "Honestly, I needed this coffee today.",
+      "thai": "พูดตรงๆ วันนี้ฉันต้องการกาแฟนี้จริงๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671987"
+    },
+    {
+      "english": "I’m just here to reset my mood.",
+      "thai": "ฉันแค่มาที่นี่เพื่อรีเซ็ตอารมณ์",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671990"
+    },
+    {
+      "english": "These pastries feel like comfort food to me.",
+      "thai": "ขนมพวกนี้เหมือนเป็นของสบายใจสำหรับฉัน",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671991"
+    },
+    {
+      "english": "I’m trying to be patient, one sip.",
+      "thai": "ฉันพยายามใจเย็นๆ ทีละหนึ่งอึก",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671993"
+    },
+    {
+      "english": "Today, I want calm, not just caffeine.",
+      "thai": "วันนี้ฉันอยากได้ความสงบ ไม่ใช่แค่น้ำตาลคาเฟอีน",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671994"
+    },
+    {
+      "english": "If it’s too sweet, I’ll slow down.",
+      "thai": "ถ้ามันหวานเกิน ฉันจะค่อยๆ กิน",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671996"
+    },
+    {
+      "english": "I like flavors that feel honest, not fake.",
+      "thai": "ฉันชอบรสชาติที่มันจริงใจ ไม่ใช่หลอกตา",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671998"
+    },
+    {
+      "english": "This place makes me think, quietly.",
+      "thai": "ที่นี่ทำให้ฉันคิดนะ แบบเงียบๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.671999"
+    },
+    {
+      "english": "Can I taste, just to be sure?",
+      "thai": "ขอลองชิมหน่อยได้ไหม เพื่อความมั่นใจ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672001"
+    },
+    {
+      "english": "I don’t need perfect, I just need good.",
+      "thai": "ไม่ต้องเป๊ะมาก แค่ขอให้อร่อยก็พอ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672002"
+    },
+    {
+      "english": "I’m listening to my cravings, gently.",
+      "thai": "ฉันฟังความอยากของตัวเองแบบนุ่มๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672004"
+    },
+    {
+      "english": "Honestly, I’m nervous about trying something new.",
+      "thai": "พูดจริงๆ ฉันกลัวนิดหน่อยที่จะลองของใหม่",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672006"
+    },
+    {
+      "english": "If it takes a minute, I can wait.",
+      "thai": "ถ้าใช้เวลาอีกสักนิด ฉันรอได้",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672008"
+    },
+    {
+      "english": "I’m okay with small changes, not big plans.",
+      "thai": "ฉันโอเคกับการเปลี่ยนเล็กๆ น้อยๆ ไม่ต้องวางแผนใหญ่",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672009"
+    },
+    {
+      "english": "I want the kind of taste that lingers.",
+      "thai": "ฉันอยากได้รสที่ติดค้างอยู่ในใจ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672012"
+    },
+    {
+      "english": "Sometimes I just need a warm, sweet moment.",
+      "thai": "บางทีก็แค่ต้องการช่วงเวลาที่อุ่นๆ หวานๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672014"
+    },
+    {
+      "english": "I’ll choose slowly, then commit to it.",
+      "thai": "ฉันจะเลือกช้าๆ แล้วค่อยตัดสินใจ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672016"
+    },
+    {
+      "english": "No pressure, I’m just exploring flavors today.",
+      "thai": "ไม่กดดันนะ วันนี้ฉันแค่อยากลองรสชาติ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672018"
+    },
+    {
+      "english": "I’m proud of myself for showing up.",
+      "thai": "ฉันภูมิใจที่ตัวเองมาถึง",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672019"
+    },
+    {
+      "english": "Let’s keep it simple, I’ll be honest.",
+      "thai": "เอาแบบง่ายๆ แล้วฉันจะบอกตรงๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672021"
+    },
+    {
+      "english": "I’m holding back tears, but coffee helps.",
+      "thai": "ฉันกลั้นน้ำตาอยู่ แต่กาแฟช่วยได้",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672023"
+    },
+    {
+      "english": "This smell feels like a safe place.",
+      "thai": "กลิ่นนี้เหมือนเป็นที่ปลอดภัยของใจฉัน",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672024"
+    },
+    {
+      "english": "I’ll try one bite, then decide what fits.",
+      "thai": "ฉันจะลองคำเดียวก่อน แล้วค่อยเลือกถูกใจ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672026"
+    },
+    {
+      "english": "I needed something comforting, not complicated.",
+      "thai": "ฉันต้องการอะไรที่ปลอบใจ ไม่ยุ่งยาก",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672027"
+    },
+    {
+      "english": "If I’m quiet, it’s because I’m savoring.",
+      "thai": "ถ้าฉันเงียบ ก็เพราะฉันกำลังกินอย่างมีความสุข",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672029"
+    },
+    {
+      "english": "I don’t chase perfection, I chase balance.",
+      "thai": "ฉันไม่ไล่ความเป๊ะ ฉันไล่ความพอดี",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672031"
+    },
+    {
+      "english": "I’m learning, and this is part of it.",
+      "thai": "ฉันกำลังเรียนรู้ และนี่ก็เป็นส่วนหนึ่ง",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672033"
+    },
+    {
+      "english": "Give me your honest pick, I’ll trust it.",
+      "thai": "ขอคำแนะนำแบบตรงๆ ฉันจะเชื่อ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672035"
+    },
+    {
+      "english": "I’ll come back, even if today is small.",
+      "thai": "ฉันจะกลับมาอีก แม้วันนี้จะเป็นแค่เรื่องเล็กๆ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672036"
+    },
+    {
+      "english": "What’s the quickest thing you recommend, today?",
+      "thai": "วันนี้, อะไรที่เร็วสุดแนะนำไหม",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672038"
+    },
+    {
+      "english": "I’ll order first, you save me a seat.",
+      "thai": "ฉันสั่งก่อนนะ, เธอจองที่นั่งให้หน่อย",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672040"
+    },
+    {
+      "english": "Can I get it to-go, please?",
+      "thai": "เอาแบบกลับไปกินที่บ้านได้ไหม, ขอแก้วกลับ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-10T10:40:57.672041"
     }
   ],
-  "last_updated": "2026-11-09T10:44:43.228364"
+  "last_updated": "2026-11-10T10:40:57.672043"
 }

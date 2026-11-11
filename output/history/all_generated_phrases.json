@@ -17279,7 +17279,727 @@
       "thai": "เอาแบบกลับไปกินที่บ้านได้ไหม, ขอแก้วกลับ",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-10T10:40:57.672041"
+    },
+    {
+      "english": "Please, sorry to bother you, thank you.",
+      "thai": "ขอโทษนะคะ, รบกวนไหมคะ, ขอบคุณค่ะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298557"
+    },
+    {
+      "english": "Excuse me, are you okay, really?",
+      "thai": "ขอโทษนะคะ, ไม่เป็นไรไหมคะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298572"
+    },
+    {
+      "english": "Here you go, take your time, please.",
+      "thai": "ได้เลยค่ะ, ทำช้าก็ได้นะคะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298575"
+    },
+    {
+      "english": "Thank you so much, that helps a lot.",
+      "thai": "ขอบคุณมากเลยค่ะ, ช่วยเยอะมาก",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298578"
+    },
+    {
+      "english": "Sorry, I’ll move aside, my bad.",
+      "thai": "ขอโทษค่ะ, เดี๋ยวฉันหลบให้",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298581"
+    },
+    {
+      "english": "Go ahead, I’ll wait right here.",
+      "thai": "เชิญเลยค่ะ, ฉันรออยู่นี่นะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298584"
+    },
+    {
+      "english": "Can I help you, just a quick bit?",
+      "thai": "ให้ช่วยไหมคะ, แค่นิดเดียว",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298586"
+    },
+    {
+      "english": "That’s okay, we can try again.",
+      "thai": "ไม่เป็นไรค่ะ, เราลองใหม่ได้",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298591"
+    },
+    {
+      "english": "Thanks for waiting, I really appreciate it.",
+      "thai": "ขอบคุณที่รอนะคะ, ขอบคุณจริงๆ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298594"
+    },
+    {
+      "english": "Careful, it’s slippery, please watch out.",
+      "thai": "ระวังนะคะ, ลื่นมากเลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298598"
+    },
+    {
+      "english": "Nice! Good job, keep going, okay?",
+      "thai": "เก่งมากเลยค่ะ, ทำต่อได้เลยนะคะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298602"
+    },
+    {
+      "english": "Please take this, it’s for you.",
+      "thai": "รับไปนะคะ, อันนี้ให้คุณ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298605"
+    },
+    {
+      "english": "I’m sorry, thank you for understanding.",
+      "thai": "ขอโทษนะคะ, ขอบคุณที่เข้าใจ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298607"
+    },
+    {
+      "english": "How can I make this easier for you?",
+      "thai": "ให้ทำยังไงถึงจะสะดวกขึ้นคะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298609"
+    },
+    {
+      "english": "No pressure, whenever you’re ready.",
+      "thai": "ไม่รีบหรอกนะคะ, พร้อมเมื่อไหร่ก็บอก",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298612"
+    },
+    {
+      "english": "Thanks, you’re so kind, seriously.",
+      "thai": "ขอบคุณนะคะ, ใจดีมากเลยจริงๆ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298615"
+    },
+    {
+      "english": "Mind if I join you, that’s okay?",
+      "thai": "ขอไปด้วยได้ไหมคะ, ไม่เป็นไรใช่ไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298617"
+    },
+    {
+      "english": "Do you need anything, tell me anytime.",
+      "thai": "ต้องการอะไรไหมคะ, บอกได้เลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298619"
+    },
+    {
+      "english": "Thanks for helping, it means a lot.",
+      "thai": "ขอบคุณที่ช่วยนะคะ, สำคัญมากเลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298622"
+    },
+    {
+      "english": "You’re welcome, anytime you need me.",
+      "thai": "ยินดีค่ะ, ถ้าต้องการเมื่อไหร่บอกได้เลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298624"
+    },
+    {
+      "english": "Let’s go slowly, okay, no rush.",
+      "thai": "ไปช้าๆ นะคะ, ไม่ต้องรีบ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298626"
+    },
+    {
+      "english": "That’s my mistake, sorry about that.",
+      "thai": "ฉันผิดเองค่ะ, ขอโทษนะคะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298629"
+    },
+    {
+      "english": "Thanks, you made my day better.",
+      "thai": "ขอบคุณนะคะ, วันนี้ดีขึ้นเลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298631"
+    },
+    {
+      "english": "I’ll keep it quick, you’re good.",
+      "thai": "เดี๋ยวทำไวๆ นะคะ, ไม่เป็นไรค่ะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298633"
+    },
+    {
+      "english": "Take care, stay safe, have a great day.",
+      "thai": "ดูแลตัวเองนะคะ, เดินทางปลอดภัย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298636"
+    },
+    {
+      "english": "Thanks for your patience, really appreciate it.",
+      "thai": "ขอบคุณที่อดทนนะคะ, ขอบคุณจริงๆ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298638"
+    },
+    {
+      "english": "No problem, I’ll handle it for you.",
+      "thai": "ไม่เป็นไรค่ะ, เดี๋ยวฉันจัดการให้นะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298640"
+    },
+    {
+      "english": "You’re right, let’s do it your way.",
+      "thai": "คุณพูดถูกนะคะ, ทำตามแบบคุณดีกว่า",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298646"
+    },
+    {
+      "english": "Small help, big kindness, thank you.",
+      "thai": "ช่วยนิดเดียว แต่ใจดีมาก ขอบคุณนะคะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298648"
+    },
+    {
+      "english": "What do you need, I can listen?",
+      "thai": "คุณต้องการอะไร, บอกฉันได้ไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298650"
+    },
+    {
+      "english": "How can I make your day easier?",
+      "thai": "ช่วยทำให้วันนี้ของคุณง่ายขึ้นได้ยังไง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298653"
+    },
+    {
+      "english": "Do you prefer this way, or that way?",
+      "thai": "คุณอยากได้แบบนี้, หรือแบบนั้น",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298655"
+    },
+    {
+      "english": "Where should I put this for you?",
+      "thai": "ฉันควรวางตรงไหนให้คุณ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298657"
+    },
+    {
+      "english": "What’s the best time to help you?",
+      "thai": "เวลาไหนที่สะดวกให้ฉันช่วย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298660"
+    },
+    {
+      "english": "May I have your advice, please?",
+      "thai": "ขอคำแนะนำหน่อยได้ไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298662"
+    },
+    {
+      "english": "Are you free now, I can ask?",
+      "thai": "ตอนนี้ว่างไหม, ฉันขอถามหน่อย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298664"
+    },
+    {
+      "english": "Do you want me to explain again?",
+      "thai": "อยากให้ฉันอธิบายอีกไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298666"
+    },
+    {
+      "english": "Can I check with you, quickly?",
+      "thai": "ขอเช็กกับคุณนิดนึงได้ไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298668"
+    },
+    {
+      "english": "Is my wording okay for you?",
+      "thai": "ฉันพูดถูกใจคุณไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298670"
+    },
+    {
+      "english": "Do you need more time, I understand.",
+      "thai": "คุณต้องการเวลามากขึ้นไหม, ฉันเข้าใจ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298672"
+    },
+    {
+      "english": "Which one should I choose for you?",
+      "thai": "อันไหนที่คุณอยากให้ฉันเลือก",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298675"
+    },
+    {
+      "english": "Should I call first, or come by?",
+      "thai": "ฉันโทรก่อนดีไหม, หรือไปเลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298679"
+    },
+    {
+      "english": "If you want, I can help.",
+      "thai": "ถ้าคุณอยากให้ช่วย, ฉันช่วยได้นะ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298681"
+    },
+    {
+      "english": "Can we talk for a minute?",
+      "thai": "คุยกันสักนิดได้ไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298683"
+    },
+    {
+      "english": "Do you want comfort, or solutions?",
+      "thai": "คุณอยากได้กำลังใจ, หรือวิธีแก้",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298685"
+    },
+    {
+      "english": "Where do you usually go for help?",
+      "thai": "ปกติคุณไปขอความช่วยเหลือที่ไหน",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298687"
+    },
+    {
+      "english": "What should I remember for next time?",
+      "thai": "คราวหน้าฉันต้องจำอะไร",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298689"
+    },
+    {
+      "english": "Is this amount okay for you?",
+      "thai": "จำนวนนี้โอเคไหมสำหรับคุณ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298691"
+    },
+    {
+      "english": "Would you like a hand with this?",
+      "thai": "ให้ฉันช่วยถือไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298693"
+    },
+    {
+      "english": "Can you tell me what you prefer?",
+      "thai": "คุณชอบแบบไหนมากกว่า",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298695"
+    },
+    {
+      "english": "Do you understand, or should I rephrase?",
+      "thai": "เข้าใจไหม, หรือให้ฉันพูดใหม่",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298697"
+    },
+    {
+      "english": "What’s your plan, so I can help?",
+      "thai": "แผนคุณเป็นยังไง, ฉันจะได้ช่วย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298700"
+    },
+    {
+      "english": "Is it too much, I’ll adjust",
+      "thai": "เยอะเกินไปไหม, เดี๋ยวฉันปรับให้",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298702"
+    },
+    {
+      "english": "Small kind acts, add up, every day.",
+      "thai": "ความใจดีเล็กๆ น้อยๆ รวมกันทุกวัน.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298704"
+    },
+    {
+      "english": "Let kindness lead, not impatience.",
+      "thai": "ให้ความใจดีนำทาง, อย่าเพิ่งใจร้อน.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298706"
+    },
+    {
+      "english": "Good job, you handled that so well.",
+      "thai": "ทำได้ดีมาก, เธอจัดการได้ดีจริงๆ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298709"
+    },
+    {
+      "english": "Your effort matters, keep that up.",
+      "thai": "ความพยายามของเธอสำคัญ, ทำต่อไปนะ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298711"
+    },
+    {
+      "english": "Even today counts, be gentle with yourself.",
+      "thai": "วันนี้ก็มีค่า, ดูแลตัวเองอย่างอ่อนโยน.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298713"
+    },
+    {
+      "english": "Think kindly, speak softly, help naturally.",
+      "thai": "คิดดีๆ พูดเบาๆ ช่วยด้วยใจจริง.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298716"
+    },
+    {
+      "english": "I’m proud of you, thanks for trying.",
+      "thai": "เราภูมิใจในตัวเธอนะ, ขอบคุณที่พยายาม.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298718"
+    },
+    {
+      "english": "You don’t have to rush, slow is fine.",
+      "thai": "ไม่ต้องรีบก็ได้, ค่อยๆ ก็โอเค.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298721"
+    },
+    {
+      "english": "Let’s make it lighter, one step at time.",
+      "thai": "ทำให้เบาขึ้นนะ, ทีละก้าว.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298728"
+    },
+    {
+      "english": "Thanks for speaking up, that’s brave.",
+      "thai": "ขอบคุณที่พูดออกมา, มันกล้ามาก.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298731"
+    },
+    {
+      "english": "I notice you, and I appreciate it.",
+      "thai": "เราเห็นนะ, เราซาบซึ้งจริงๆ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298733"
+    },
+    {
+      "english": "Keep your heart open, kindness follows.",
+      "thai": "เปิดใจไว้, ความใจดีจะตามมา.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298735"
+    },
+    {
+      "english": "You’re not alone, I’m right here.",
+      "thai": "เธอไม่ได้อยู่คนเดียว, เราอยู่นี่นะ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298738"
+    },
+    {
+      "english": "Thanks for your patience, it shows.",
+      "thai": "ขอบคุณที่อดทน, เห็นชัดเลย.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298741"
+    },
+    {
+      "english": "Kindness is power, use it today.",
+      "thai": "ความใจดีคือพลัง, ใช้วันนี้เลย.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298743"
+    },
+    {
+      "english": "No one is perfect, you’re doing fine.",
+      "thai": "ไม่มีใครเพอร์เฟ็กต์, เธอก็ทำได้ดีแล้ว.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298745"
+    },
+    {
+      "english": "I respect your pace, thanks for sharing.",
+      "thai": "เราเคารพจังหวะของเธอ, ขอบคุณที่เล่า.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298748"
+    },
+    {
+      "english": "You made this calmer, I’m grateful.",
+      "thai": "เธอทำให้มันสงบขึ้น, เราซาบซึ้ง.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298750"
+    },
+    {
+      "english": "Let’s support each other, that’s the spirit.",
+      "thai": "เรามาช่วยกัน, นี่แหละน้ำใจ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298753"
+    },
+    {
+      "english": "Believe in yourself, kindness starts there.",
+      "thai": "เชื่อใจตัวเองก่อน, ความใจดีเริ่มจากตรงนั้น.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298756"
+    },
+    {
+      "english": "I’m listening, go on, take your time.",
+      "thai": "เราอยู่ตรงนี้, พูดต่อได้เลย, ค่อยๆ นะ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298770"
+    },
+    {
+      "english": "Good vibes only, be kind and steady.",
+      "thai": "เอาแต่พลังบวก, ใจดีแล้วก็คงเส้นคงวา.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298772"
+    },
+    {
+      "english": "You handled it well, keep that attitude.",
+      "thai": "เธอจัดการได้ดีมาก, รักษาทัศนคตินี้ไว้.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298774"
+    },
+    {
+      "english": "It’s okay to try again, don’t quit.",
+      "thai": "ไม่เป็นไร ลองใหม่ได้นะ, อย่ายอมแพ้.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298777"
+    },
+    {
+      "english": "I’m here to help, but you lead.",
+      "thai": "เราช่วยได้นะ, แต่เธอเป็นคนกำหนด.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298779"
+    },
+    {
+      "english": "Your kindness changes the whole mood.",
+      "thai": "ความใจดีของเธอเปลี่ยนอารมณ์ทั้งห้อง.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298781"
+    },
+    {
+      "english": "Let’s keep it respectful, that matters.",
+      "thai": "เรามาพูดกันอย่างให้เกียรติ, สำคัญมาก.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298784"
+    },
+    {
+      "english": "Give thanks, even for small wins.",
+      "thai": "ขอบคุณนะ แม้จะเป็นเรื่องเล็กๆ ก็เถอะ.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298786"
+    },
+    {
+      "english": "I feel calmer when we speak kindly.",
+      "thai": "ฉันรู้สึกใจเย็นขึ้น เวลาคุยด้วยความเมตตา",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298788"
+    },
+    {
+      "english": "I’m trying to slow down, for them.",
+      "thai": "ฉันพยายามช้าลง เพื่อเขา",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298790"
+    },
+    {
+      "english": "It’s okay, I’m not in a rush.",
+      "thai": "ไม่เป็นไร ฉันไม่ได้รีบ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298793"
+    },
+    {
+      "english": "Honestly, your patience helped me a lot.",
+      "thai": "พูดตรงๆ ความอดทนของคุณช่วยฉันมาก",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298795"
+    },
+    {
+      "english": "I want to say thank you, from my heart.",
+      "thai": "ฉันอยากพูดขอบคุณจากใจจริง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298797"
+    },
+    {
+      "english": "Before I react, I breathe and choose kindness.",
+      "thai": "ก่อนฉันตอบโต้ ฉันหายใจลึก แล้วเลือกเมตตา",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298799"
+    },
+    {
+      "english": "I notice my mood, then I soften it.",
+      "thai": "ฉันสังเกตอารมณ์ตัวเอง แล้วค่อยๆ ทำให้นิ่มลง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298801"
+    },
+    {
+      "english": "Sometimes I just need a gentle moment.",
+      "thai": "บางทีฉันแค่อยากมีช่วงเวลาที่นุ่มนวล",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298803"
+    },
+    {
+      "english": "I’m learning, I don’t get it perfectly yet.",
+      "thai": "ฉันกำลังเรียนรู้ ฉันยังไม่เก่งสมบูรณ์",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298806"
+    },
+    {
+      "english": "When I listen first, it feels respectful.",
+      "thai": "เวลาฉันฟังก่อน มันให้ความรู้สึกเคารพ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298808"
+    },
+    {
+      "english": "I’m grateful for your honesty, not just words.",
+      "thai": "ฉันขอบคุณความจริงใจของคุณ ไม่ใช่แค่คำพูด",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298811"
+    },
+    {
+      "english": "Let me try again, calmly this time.",
+      "thai": "ให้ฉันลองใหม่ อีกครั้ง คราวนี้แบบใจเย็น",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298814"
+    },
+    {
+      "english": "I don’t want to rush you, at all.",
+      "thai": "ฉันไม่อยากให้คุณรีบเลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298818"
+    },
+    {
+      "english": "It’s hard, but I’m doing it with care.",
+      "thai": "มันยาก แต่ฉันทำด้วยความระมัดระวัง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298821"
+    },
+    {
+      "english": "I respect your feelings, even if I’m unsure.",
+      "thai": "ฉันเคารพความรู้สึกของคุณ แม้ฉันจะไม่แน่ใจ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298823"
+    },
+    {
+      "english": "I’m proud of you, for staying kind.",
+      "thai": "ฉันภูมิใจในตัวคุณ ที่ยังใจดี",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298826"
+    },
+    {
+      "english": "I can feel the stress, so I’m gentle.",
+      "thai": "ฉันรู้สึกถึงความเครียด เลยขอใจอ่อนๆ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298828"
+    },
+    {
+      "english": "I’ll handle it slowly, because it matters.",
+      "thai": "ฉันจะทำให้ช้าๆ เพราะมันสำคัญ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298831"
+    },
+    {
+      "english": "I’m learning to be honest, without being harsh.",
+      "thai": "ฉันกำลังหัดพูดความจริง โดยไม่ใจร้าย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298833"
+    },
+    {
+      "english": "Even when I’m upset, I choose peace.",
+      "thai": "แม้ตอนฉันไม่สบายใจ ฉันก็เลือกความสงบ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298836"
+    },
+    {
+      "english": "I’m checking in, to make sure you’re okay.",
+      "thai": "ฉันขอเช็กอินหน่อย เพื่อให้แน่ใจว่าคุณโอเค",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298839"
+    },
+    {
+      "english": "I hear you, and I’ll stay patient.",
+      "thai": "ฉันได้ยินนะ และจะใจเย็นให้",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298841"
+    },
+    {
+      "english": "I don’t judge, I just want to understand.",
+      "thai": "ฉันไม่ตัดสินใจ ฉันแค่อยากเข้าใจ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298845"
+    },
+    {
+      "english": "My kindness is small, but it’s real.",
+      "thai": "ความใจดีของฉันเล็กน้อย แต่เป็นของจริง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298848"
+    },
+    {
+      "english": "I’ll try to make things easier for you.",
+      "thai": "ฉันจะพยายามทำให้มันง่ายขึ้นสำหรับคุณ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298852"
+    },
+    {
+      "english": "Thanks for letting me take my time.",
+      "thai": "ขอบคุณที่ให้ฉันใช้เวลา",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298854"
+    },
+    {
+      "english": "I’m trying to be better, not perfect.",
+      "thai": "ฉันพยายามดีขึ้น ไม่ใช่ต้องเพอร์เฟกต์",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298856"
+    },
+    {
+      "english": "I’ll speak softer, so nobody feels attacked.",
+      "thai": "ฉันจะพูดเบาลง เพื่อไม่ให้ใครรู้สึกโดนโจมตี",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298859"
+    },
+    {
+      "english": "I understand, and I’ll stay supportive.",
+      "thai": "ฉันเข้าใจ และจะอยู่ข้างคุณ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298861"
+    },
+    {
+      "english": "I’m keeping my heart open, even today.",
+      "thai": "ฉันจะรักษาใจที่เปิดกว้าง แม้วันนี้ก็ยัง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298864"
+    },
+    {
+      "english": "Offer help first, without making it awkward.",
+      "thai": "ชวนช่วยก่อน, โดยไม่ทำให้เกร็ง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298866"
+    },
+    {
+      "english": "Say sorry quickly, keep it simple.",
+      "thai": "ขอโทษเร็วๆ, เอาสั้นๆ ก็พอ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298870"
+    },
+    {
+      "english": "If someone’s quiet, ask gently, why.",
+      "thai": "ถ้าเขาเงียบ, ถามเบาๆ ว่าเป็นอะไร",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298873"
+    },
+    {
+      "english": "Praise effort, not just results.",
+      "thai": "ชมความพยายาม, ไม่ใช่แค่ผลลัพธ์",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298875"
+    },
+    {
+      "english": "When you disagree, keep your tone soft.",
+      "thai": "เวลาคุณไม่เห็นด้วย, พูดให้นุ่มนวล",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298877"
+    },
+    {
+      "english": "Give them space, you can talk later.",
+      "thai": "ให้พื้นที่เขาหน่อย, ค่อยคุยทีหลัง",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298879"
+    },
+    {
+      "english": "Thank the bus driver, it costs nothing.",
+      "thai": "ขอบคุณคนขับรถเมล์, ไม่เสียอะไรเลย",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298881"
+    },
+    {
+      "english": "Hold the door, be that easy kindness.",
+      "thai": "ช่วยถือประตูให้, ทำดีแบบง่ายๆ",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298883"
+    },
+    {
+      "english": "Before posting, ask, is this helpful.",
+      "thai": "ก่อนโพสต์, ถามตัวเองก่อน, มันช่วยไหม",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T10:08:56.298885"
     }
   ],
-  "last_updated": "2026-11-10T10:40:57.672043"
+  "last_updated": "2026-11-11T10:08:56.298887"
 }

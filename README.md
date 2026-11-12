@@ -1,6 +1,6 @@
 # Velocity Thai
 
-**56 Thai phrases in a ~10-minute lesson - a brand-new video every day.**
+**Up to 56 Thai phrases in a ~10-minute lesson - a brand-new video every day.**
 
 Velocity Thai is a daily Thai lesson for English speakers. Every episode is built from
 scratch: fresh topics, fresh phrases, natural ไทย audio and an English pronunciation
@@ -8,7 +8,7 @@ guide for every line. Watch, repeat out loud, and grow your Thai one chapter at 
 
 ## What is inside every lesson
 
-- **56 real-life phrases** across **8 themed chapters**
+- **Up to 56 real-life phrases** across **8 themed chapters**, trimmed to fit the clock
 - **Native audio** for every Thai line
 - **English pronunciation** with stressed syllables in CAPITALS
 - A **new topic mix every day** - no repeated phrase lists

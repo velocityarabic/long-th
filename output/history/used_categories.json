@@ -1,1 +1,105 @@
-{"categories": []}
+{
+  "categories": [
+    {
+      "category": "Feelings & Emotions",
+      "date": "2020-01-01"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Growth",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Strength",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Love",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Creativity",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Success",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2020-01-12"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2020-01-13"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2020-01-14"
+    },
+    {
+      "category": "Balance",
+      "date": "2020-01-15"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2020-01-16"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2020-01-17"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2020-01-18"
+    },
+    {
+      "category": "Happiness",
+      "date": "2020-01-19"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2020-01-20"
+    },
+    {
+      "category": "Patience",
+      "date": "2020-01-21"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2020-01-22"
+    },
+    {
+      "category": "Friendship",
+      "date": "2020-01-23"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2020-01-24"
+    },
+    {
+      "category": "Kindness",
+      "date": "2020-01-25"
+    }
+  ],
+  "last_updated": "2026-11-12T11:15:21.565178"
+}

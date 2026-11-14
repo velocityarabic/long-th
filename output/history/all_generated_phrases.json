@@ -18783,7 +18783,399 @@
       "transliteration": "haai-jai khâo lɛ́w plòi-hây khwaam kǎng-won loi pai",
       "category": "Positive Life",
       "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Are you home right now?",
+      "thai": "คุณอยู่ที่บ้านตอนนี้ไหม",
+      "transliteration": "khun YUu thîi bâan TOn níi maay",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I miss my mom a lot.",
+      "thai": "ฉันคิดถึงแม่มากเลย",
+      "transliteration": "chǎn khít thueng mɛ́ɛ MAAAK ləəi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Let’s eat together tonight.",
+      "thai": "คืนนี้มากินข้าวด้วยกันนะ",
+      "transliteration": "khʉ̂un níi maak kin khâao dûay gan na",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "My dad is fixing the car.",
+      "thai": "พ่อกำลังซ่อมรถอยู่",
+      "transliteration": "phôr GAM lang sôm rot yùu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "We’re cleaning the house today.",
+      "thai": "วันนี้เรากำลังทำความสะอาดบ้าน",
+      "transliteration": "wan níi rao GAM lang tham khwaam sà-aaat bâan",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Don’t forget to lock the door.",
+      "thai": "อย่าลืมล๊อกประตูนะ",
+      "transliteration": "yàa lʉ̂m l๊ok bprà-dtuu na",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "The kids are at school.",
+      "thai": "เด็กๆอยู่ที่โรงเรียน",
+      "transliteration": "dèk dèek yùu thîi rohng riian",
+      "category": "Family & Home",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I breathe, and I let go.",
+      "thai": "ฉันหายใจเข้าออก แล้วปล่อยวาง",
+      "transliteration": "chan hĄa Jai kâòk lɛ́w plòi wาง",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Right now, I choose calm.",
+      "thai": "ตอนนี้ฉันเลือกความสงบ",
+      "transliteration": "tɔɔn níi chan lʉ̂uak khwaam sàngòp",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "My mind slows down, gently.",
+      "thai": "ใจฉันค่อยๆ ช้าลงอย่างนุ่มนวล",
+      "transliteration": "jai chan khɔ̀i khɔ̂i cháa lɔ̌ng yàang nûm nuan",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I stop fighting the moment.",
+      "thai": "ฉันหยุดสู้กับช่วงเวลานี้",
+      "transliteration": "chan yùt sûu gàp chûang wél-aa níi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I can be okay without fixing everything.",
+      "thai": "ฉันโอเคได้ แม้ยังไม่จัดการทุกอย่าง",
+      "transliteration": "chan OK dâi mâe yang mâi chát jàak thúk yàang",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Quiet is my medicine today.",
+      "thai": "ความเงียบคือยาของฉันวันนี้",
+      "transliteration": "khwaam ngîiap khʉʉ yǎa khɔ̌ng chan wan níi",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I forgive myself, no debate.",
+      "thai": "ฉันให้อภัยตัวเองแล้ว ไม่ต้องเถียง",
+      "transliteration": "chan hâi ai tua ēng lɛ́w mâi dtɔ̂ng thə̌iang",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I’m totally down for that",
+      "thai": "ฉันเอาด้วยเลยนะ",
+      "transliteration": "chan EUAY DUAY LOEI na",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "That’s gonna be so lit",
+      "thai": "อันนั้นมันเท่มากเลยว่ะ",
+      "transliteration": "an nan man TEH mak loei WA",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "No way, that can’t be true",
+      "thai": "ไม่จริงอะดิ",
+      "transliteration": "mai JING a-di",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I’m broke, I need cash",
+      "thai": "เงินหมดแล้วว่ะ",
+      "transliteration": "ngoen MOT laeo WA",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Wait, hold up a second",
+      "thai": "ขอแป๊บหนึ่งนะ",
+      "transliteration": "khoe PAE P neung na",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "That’s my bad, sorry",
+      "thai": "กูขอโทษเอง",
+      "transliteration": "gu khoe TOHT eng",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Let’s bounce, I’m done",
+      "thai": "ไปเถอะ กูหมดแรงแล้ว",
+      "transliteration": "pai THER oh gu mot HRANG laeo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Today, I choose to keep going.",
+      "thai": "วันนี้ ฉันเลือกเดินหน้าต่อไป",
+      "transliteration": "wan-nĭi CHAN LUEAK dèen-nâa TÀAW bpai",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Make one small brave step now.",
+      "thai": "ก้าวเล็กๆ ที่กล้าก่อนก็ได้",
+      "transliteration": "gâao lek lek têe glâa gàaw dâai",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Let curiosity lead my next move.",
+      "thai": "ปล่อยให้ความอยากรู้นำทางก้าวต่อไป",
+      "transliteration": "bplòi hâi kwaam yàak rúu nam-taang gâao dtàaw bpai",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I turn stress into quiet focus.",
+      "thai": "ฉันเปลี่ยนความเครียดเป็นความตั้งใจนิ่งๆ",
+      "transliteration": "CHÀN bplìian kwaam krîiat bpen kwaam dtâng-jai nîng nâe",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I borrow courage from my routines.",
+      "thai": "ฉันใช้พลังจากกิจวัตรมาดันตัวเอง",
+      "transliteration": "CHÀN chái pha-lang jàak gìt-jà-wàt maa dan tua เeeng",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "A fresh day means a fresh try.",
+      "thai": "วันใหม่คือโอกาสให้ลองใหม่",
+      "transliteration": "wan-mài khʉʉʉ òo-gàat hâi lɔ̌ng mài",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I trust my effort, not luck.",
+      "thai": "ฉันเชื่อในความพยายาม มากกว่าโชค",
+      "transliteration": "CHÀN chʉ̂ʉ nai kwaam pha-yaa-yaam mâak kwàa châawk",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Where is the nearest BTS station?",
+      "thai": "สถานี BTS ใกล้ที่สุดอยู่ที่ไหนคะ",
+      "transliteration": "sa-taa-nii BTS glai tii-sut yùu thii-nai kha",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "How much is a single ride?",
+      "thai": "ค่าโดยสารเที่ยวเดียวเท่าไหร่คะ",
+      "transliteration": "khaa-dai-saan thîeo diiao thao-rài kha",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Is this bus going to Silom?",
+      "thai": "รถเมล์คันนี้ไปสีลมไหมคะ",
+      "transliteration": "rot-méel khan-ní bpai sǐi-lom mái kha",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Does it stop near the hospital?",
+      "thai": "ผ่านแถวโรงพยาบาลไหม",
+      "transliteration": "phaan thâeo rohng-pha-yaa-baan mái",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Which line should I take?",
+      "thai": "ต้องขึ้นสายไหนคะ",
+      "transliteration": "dtâaw khึ้น saai nǎi kha",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I need a day pass, please.",
+      "thai": "ขอเหมายันวันนึงได้ไหมคะ",
+      "transliteration": "khǎaw maai-yan wan-núng dâai mái kha",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Can I pay by card on board?",
+      "thai": "จ่ายด้วยบัตรในรถได้ไหม",
+      "transliteration": "jâai dûai bat nai rot dâai mái",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Is it going to rain today?",
+      "thai": "วันนี้จะฝนตกไหมครับ",
+      "transliteration": "WAN-NEE JHà FON TOK MAI KRAB",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "It feels hotter than yesterday.",
+      "thai": "เมื่อวานร้อนกว่าวันนี้นะครับ",
+      "transliteration": "MUEA-WAN RÓN KWA WÁN-NEE NA KRAB",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Is the wind strong right now?",
+      "thai": "ตอนนี้ลมแรงไหมครับ",
+      "transliteration": "TÓN-NEE LOM RAENG MAI KRAB",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "The air smells so fresh.",
+      "thai": "อากาศกลิ่นสดชื่นจังเลยครับ",
+      "transliteration": "AA-GAT GLIN SÓT CHUEN JANG LOEI KRAB",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Looks like cloudy skies today.",
+      "thai": "วันนี้เมฆครึ้มๆ ดูเหมือนฝนจะมา",
+      "transliteration": "WAN-NEE MEK KRUM KRUM DU MUEAN FON JHà MAA",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Do you need an umbrella?",
+      "thai": "พกร่มมาด้วยไหมครับ",
+      "transliteration": "PHOK RÓM MAA DUAI MAI KRAB",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I’m sweating a lot today.",
+      "thai": "วันนี้ร้อนจนเหงื่อออกเลยครับ",
+      "transliteration": "WAN-NEE RÓN JON NA-GUEA OK LOEI KRAB",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Hi, can I get the menu?",
+      "thai": "ขอเมนูหน่อยได้ไหมครับ",
+      "transliteration": "kHO mEE-noo nOy dâi măi khráp",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I want something spicy, please.",
+      "thai": "ขอเผ็ดๆ หน่อยได้ไหมครับ",
+      "transliteration": "kHO pHèt pHèt nOy dâi măi khráp",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Can we sit by the window?",
+      "thai": "ขอที่นั่งติดหน้าต่างได้ไหมครับ",
+      "transliteration": "kHO thîi nâang dtíd nâa-dtàang dâi măi khráp",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "No seafood for me, please.",
+      "thai": "ขอไม่เอาอาหารทะเลนะครับ",
+      "transliteration": "kHO mâi éa aa-hăan tha-lae ná khráp",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "I’m allergic to peanuts.",
+      "thai": "ผมแพ้ถั่วลิสงครับ",
+      "transliteration": "phŏm phaa thûa lísng khráp",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Can I get water without ice?",
+      "thai": "ขอน้ำเปล่าไม่ใส่น้ำแข็งได้ไหมครับ",
+      "transliteration": "kHŏn náam plâo mâi-sai náam-khǎeng dâi măi khráp",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "What’s the wait time for this?",
+      "thai": "จานนี้ใช้เวลานานไหมครับ",
+      "transliteration": "jaan-níi chái weelaa naa-n mǎi khráp",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Do you have free airport pickup?",
+      "thai": "รถรับส่งสนามบินฟรีมีไหมคะ",
+      "transliteration": "rot rapsong sanambin FRI mi mai kha",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "My room smells, can I switch?",
+      "thai": "ห้องฉันได้กลิ่นอับ ขอเปลี่ยนได้ไหม",
+      "transliteration": "ĥɔ̂ng chǎn dâi glìn áp kŏ̌r plìan dâi mái",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Can I check in early, please?",
+      "thai": "ขอเช็กอินก่อนเวลาได้ไหมคะ",
+      "transliteration": "kŏ̌r chék in kòn wela dâi mái kha",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "What time is breakfast served?",
+      "thai": "อาหารเช้าเสิร์ฟกี่โมงคะ",
+      "transliteration": "a hǎan chǎo sêr f kìi mong kha",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Is there Wi-Fi in the rooms?",
+      "thai": "มีไวไฟในห้องไหม",
+      "transliteration": "mii wai fai nai ĥ̂ɔ̂ng mái",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "The AC is too loud, please.",
+      "thai": "แอร์ดังเกินไป ช่วยปรับได้ไหม",
+      "transliteration": "aêr dang gern bpai chûay pràp dâi mái",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T22:54:09.652282"
+    },
+    {
+      "english": "Do you offer late check-out?",
+      "thai": "ขอเช็กเอาท์ดึกๆ ได้ไหมคะ",
+      "transliteration": "kŏ̌r chék âut dʉk dʉk dâi mái kha",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T22:54:09.652282"
     }
   ],
-  "last_updated": "2026-11-14T00:11:45.003778"
+  "last_updated": "2026-11-14T22:54:09.652282"
 }

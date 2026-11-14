@@ -18391,7 +18391,399 @@
       "transliteration": "Lʉ̂uak ni-sǎi nʉ̀ng yàang thîi dtɔ̂ng rá-k-sǎa waî",
       "category": "Self Improvement",
       "generated_at": "2026-11-12T23:59:55.703908"
+    },
+    {
+      "english": "Thanks for helping me today.",
+      "thai": "ขอบคุณที่ช่วยฉันวันนี้",
+      "transliteration": "khop khun thîi chûay chăn WAN-níi",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I appreciate you, genuinely.",
+      "thai": "ฉันซาบซึ้งในน้ำใจของคุณจริงๆ",
+      "transliteration": "chăn SÀB-sưng nai NAM-jai khawng khun JING-jà",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "You made my hard day easier.",
+      "thai": "คุณทำให้วันยากของฉันง่ายขึ้น",
+      "transliteration": "khun tham hâi WAN YAA-K khawng chăn YAA-ng khึ้น",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I won’t forget your kindness.",
+      "thai": "ฉันจะไม่ลืมความเมตตาของคุณ",
+      "transliteration": "chăn jà mâi lʉ̌m khwaam MÉt-dtà khawng khun",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Thanks for taking the time.",
+      "thai": "ขอบคุณที่สละเวลาให้ฉัน",
+      "transliteration": "khop khun thîi SA-lá wé-la hâi chăn",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I respect what you taught me.",
+      "thai": "ฉันให้เกียรติในสิ่งที่คุณสอน",
+      "transliteration": "chăn hâi gìat nai sìng thîi khun sǒɔn",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Thank you for always believing in me.",
+      "thai": "ขอบคุณที่เชื่อในตัวฉันเสมอ",
+      "transliteration": "khop khun thîi chʉʉ nai tua chăn sa-mòr",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I believe I can figure it out.",
+      "thai": "ฉันเชื่อว่าฉันทำได้ เดี๋ยวก็คงเข้าใจ",
+      "transliteration": "chan CHUEA wA CHAN thAM dâi KHOng kHong kHâo jai",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I speak slowly, and that helps.",
+      "thai": "ฉันพูดช้าๆ ได้ มันช่วยฉันนะ",
+      "transliteration": "chan phûut châa chaa dâi man chûay chan na",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I’ll ask one question, right now.",
+      "thai": "ฉันจะถามสักคำ เดี๋ยวนี้เลย",
+      "transliteration": "chan jà tham sák kham dîaeo níi loei",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "No problem, I’ve got this today.",
+      "thai": "ไม่เป็นไร วันนี้ฉันเอาอยู่",
+      "transliteration": "mâi bpen rai wan níi CHAN ao yùu",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I make decisions and move forward.",
+      "thai": "ฉันตัดสินใจ แล้วก็ไปต่อ",
+      "transliteration": "chan tàt sin jai lɛ̂ɛw gǒe pay tòo",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I can handle awkward moments.",
+      "thai": "ฉันรับมือช่วงที่มันเขินๆ ได้",
+      "transliteration": "chan ráp mʉʉa chûang thîi man khə in in dâi",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I deserve good things.",
+      "thai": "ฉันสมควรได้รับสิ่งดีๆ",
+      "transliteration": "chan sǒm khuan dâai ráp sìng dîi dîi",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Hi, nice to meet you today.",
+      "thai": "สวัสดีค่ะ ยินดีที่ได้รู้จักคุณวันนี้",
+      "transliteration": "sa-wat-dee kha yin-dee thîi daai rúu-jàk khun wan-níi",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Hello, are you from here?",
+      "thai": "สวัสดี คุณมาจากที่นี่เหรอ",
+      "transliteration": "sa-wat-dee khun maa-jaak thîi-nîi ror",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Where are you heading, by the way?",
+      "thai": "แล้วจะไปไหนต่อเหรอ",
+      "transliteration": "láew ja bpai nǎi tò ror",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Do you speak English, please?",
+      "thai": "คุณพูดอังกฤษได้ไหม",
+      "transliteration": "khun phûut ang-grìt dâi mái",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "What’s your name, sorry?",
+      "thai": "ขอโทษนะคะ ขอถามชื่อหน่อย",
+      "transliteration": "khǎaw-thôot na kha khǎaw thǎam chʉ̂ʉ nói",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I’m new here, nice to meet you.",
+      "thai": "ฉันเพิ่งมาใหม่ ยินดีที่ได้รู้จัก",
+      "transliteration": "chǎn phə̂ng maa mài yin-dee thîi daai rúu-jàk",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "How do you say this in Thai?",
+      "thai": "อันนี้พูดยังไงในไทยคะ",
+      "transliteration": "an-níi phûut yang-ngai nai thai kha",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I need a clear goal today.",
+      "thai": "วันนี้ฉันต้องมีเป้าหมายชัดๆ",
+      "transliteration": "WAN-níi CHAN tông mii PHIEP-dtai CHàd CHàd",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "What’s your main purpose here?",
+      "thai": "คุณมาที่นี่เพื่ออะไรเป็นหลัก",
+      "transliteration": "KHUN maa Tîi nîi phûa a-RAi bpen LUEK",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I’m aiming to change my habits.",
+      "thai": "ฉันตั้งใจจะเปลี่ยนนิสัยตัวเอง",
+      "transliteration": "CHAN dtâng-jai jà plìian NÍ-sǎai dtuua-eeng",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "This meeting has one clear purpose.",
+      "thai": "การประชุมครั้งนี้มีจุดมุ่งหมายเดียว",
+      "transliteration": "gaan bprà-chum khráng-níi mii jùt-mûeng-mǎai Diao",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Tell me why you’re calling.",
+      "thai": "บอกหน่อยนะว่าคุณโทรมาทำไม",
+      "transliteration": "bòk nùoi ná wâa KHUN thǒOOR maa THAM-mai",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I’m here to learn, not to rush.",
+      "thai": "ฉันมาที่นี่เพื่อเรียนรู้ ไม่ใช่เพื่อเร่งรีบ",
+      "transliteration": "CHAN maa thîi nîi phûa riian-rûu mâi CHâi phûa rîang-rîip",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "My purpose is simple, be useful.",
+      "thai": "จุดมุ่งหมายฉันง่ายๆ คือทำให้เป็นประโยชน์",
+      "transliteration": "jùt-mûeng-mǎai CHAN gàai gàai khʉʉ due THAM-hâi bpen bprà-yòot",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Tonight, we’re celebrating your promotion.",
+      "thai": "คืนนี้ เราฉลองเลื่อนตำแหน่งของคุณ",
+      "transliteration": "khʉ̂un-níi rao chǎ-lɔ̌ng lʉ̂an dtam-nàeng khɔ̌ng khun",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Come by, we’re having a birthday bash.",
+      "thai": "มาสิ เรามีงานวันเกิด",
+      "transliteration": "maa si rao mii ngaan wan-gèrt",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I brought snacks for the party.",
+      "thai": "ฉันเอาขนมมาด้วยสำหรับงานปาร์ตี้",
+      "transliteration": "chăn ao kà-nǒm maa dûai sàm-râp ngaan pâat-tîi",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Let’s toast to good news, right now.",
+      "thai": "มาดื่มอวยพรข่าวดีด้วยกันเลย",
+      "transliteration": "maa dùuem-uai pʰɔ̌ khâao dii dûai gan loei",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Do you prefer Thai food or pizza?",
+      "thai": "คุณอยากกินอาหารไทยหรือพิซซ่าดี",
+      "transliteration": "khun yàak gin aa-hǎan thai rʉ̌ʉ phit-sàa dii",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Thanks for inviting me, it’s so fun.",
+      "thai": "ขอบคุณที่ชวนฉันมา สนุกมากเลย",
+      "transliteration": "kɔ̀ɔp-khun tîi chuan chăn maa sà-nùk mâak loei",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I’ll pick up the cake after work.",
+      "thai": "ฉันจะไปรับเค้กหลังเลิกงาน",
+      "transliteration": "chăn ja bpai ráp khéak lǎng lə̀ek-ngaan",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "How much for this, please?",
+      "thai": "ขอราคาอันนี้เท่าไหร่ครับ",
+      "transliteration": "kho raak aa-níi thâo rài khráp",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Is there any discount today?",
+      "thai": "วันนี้ลดราคาไหมครับ",
+      "transliteration": "wan níi lot raak mái khráp",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Do you have a smaller size?",
+      "thai": "มีไซส์เล็กกว่านี้ไหมครับ",
+      "transliteration": "mii sai lék gwàa níi mái khráp",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "What is the final price?",
+      "thai": "ราคารวมทั้งหมดเท่าไหร่ครับ",
+      "transliteration": "raa-khaa rûam tháng mòt thâo rài khráp",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Is this price per piece?",
+      "thai": "ราคานี้ต่อชิ้นใช่ไหมครับ",
+      "transliteration": "raa-khaa níi tòe chín châi mái khráp",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Does it come with a warranty?",
+      "thai": "มีประกันหรือรับประกันไหมครับ",
+      "transliteration": "mii bprà-gan rʉʉ ráp bprà-gan mái khráp",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Can you show me the same model?",
+      "thai": "ขอรุ่นเดียวกันหน่อยได้ไหมครับ",
+      "transliteration": "kho rûan dii-eo gan nòi dâai mái khráp",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I feel so joyful right now.",
+      "thai": "ฉันรู้สึกปีติจังเลยตอนนี้",
+      "transliteration": "chan RU sʉ̀k PI ti tang loei TON ni",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "My heart is light today.",
+      "thai": "วันนี้ใจเบาสบายมาก",
+      "transliteration": "WAN nii jai bǔa sa bai MAAK",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "This sunrise makes me happy.",
+      "thai": "พระอาทิตย์ขึ้นนี่ทำให้ฉันดีใจมาก",
+      "transliteration": "phra a a thît kheun nîi tham hai chan Dii jai MAAK",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I can’t stop smiling today.",
+      "thai": "วันนี้ยิ้มไม่หยุดเลย",
+      "transliteration": "WAN nîi yim mài yùt loiay",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Good news, I’m thrilled!",
+      "thai": "ข่าวดีนี่ทำให้ฉันตื่นเต้นมาก",
+      "transliteration": "kâo DIi nîi tham hai chan tùen TEN MAAK",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "We celebrated, and it felt amazing.",
+      "thai": "เราเฉลิมฉลองกันแล้วมันสุดยอดจริงๆ",
+      "transliteration": "rao chə lím chǎlong gan láew man sùt yɔ̀t jing jing",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I’m grateful, that’s my joy.",
+      "thai": "ฉันรู้สึกขอบคุณ นี่แหละความปีติของฉัน",
+      "transliteration": "chan rúu sʉ̀k khɔ̀ɔp khun nîi lae khwaam PI ti khɔ̌ng chan",
+      "category": "Joy",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I choose calm, then I act.",
+      "thai": "ฉันเลือกความสงบก่อน แล้วค่อยลงมือ",
+      "transliteration": "chan LƯAK khwaam sà-ngop kǭn LÊEKLÎƐY lâo yà kɔ̀i long-mʉʉ",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Today, I do one good thing.",
+      "thai": "วันนี้ ฉันทำสิ่งดีๆ อย่างน้อยหนึ่งอย่าง",
+      "transliteration": "wan-níi chan tam sìng DII DII yàang nɔ̀i nʉ̀ng yàang",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "My mind is a garden, I tend it.",
+      "thai": "ใจฉันเหมือนสวน ฉันดูแลมันเอง",
+      "transliteration": "jai chan mʉʉan sǔan chan duu-lae man ēng",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Small steps still change my life.",
+      "thai": "ก้าวเล็กๆ ยังเปลี่ยนชีวิตได้",
+      "transliteration": "kâao LÊK LÊK yang plìan chii-wít dâi",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I speak to myself with kindness.",
+      "thai": "ฉันพูดกับตัวเองด้วยความเมตตา",
+      "transliteration": "chan phûut gàp tua-ʔeng dûai khwaam mɛ̂t-taa",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "I’ll ask for help, no shame.",
+      "thai": "ฉันขอความช่วยเหลือนะ ไม่ต้องอาย",
+      "transliteration": "chan khɔ̌ɔ khwaam chûuai-lʉ̌e-nà mâi dtɔ̂ng aai",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T00:11:45.003778"
+    },
+    {
+      "english": "Breathe in, let stress drift away.",
+      "thai": "หายใจเข้า แล้วปล่อยให้ความกังวลลอยไป",
+      "transliteration": "haai-jai khâo lɛ́w plòi-hây khwaam kǎng-won loi pai",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T00:11:45.003778"
     }
   ],
-  "last_updated": "2026-11-12T23:59:55.703908"
+  "last_updated": "2026-11-14T00:11:45.003778"
 }

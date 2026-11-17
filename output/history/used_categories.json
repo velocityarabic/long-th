@@ -227,7 +227,39 @@
     {
       "category": "Perseverance",
       "date": "2026-11-15"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-17"
     }
   ],
-  "last_updated": "2026-11-15T23:21:16.734913"
+  "last_updated": "2026-11-17T02:20:25.525222"
 }

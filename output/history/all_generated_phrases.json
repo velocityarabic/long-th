@@ -19959,7 +19959,399 @@
       "transliteration": "bplìan chûa-mong lʉ̂an jɔɔ, pen dœ̂en khâang nɔ̀k bâang",
       "category": "Balance",
       "generated_at": "2026-11-17T02:20:25.507200"
+    },
+    {
+      "english": "Is there a late boarding announcement?",
+      "thai": "ประกาศขึ้นเครื่องล่าช้าไหมคะ",
+      "transliteration": "bprà-gàat kheun khrûang lâ-châa mái kha",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "How do I find my baggage?",
+      "thai": "ฉันจะตามกระเป๋าได้ยังไง",
+      "transliteration": "chăn jà dtaam grà-bpâo dâi yang ngai",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I need help with customs.",
+      "thai": "ขอความช่วยเหลือเรื่องศุลกากรหน่อยค่ะ",
+      "transliteration": "khŏ khwaam chûay-lʉ̌a rư̂ang sun-laa-gawn nɔ̀i kha",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Where is the arrivals hall?",
+      "thai": "โถงผู้โดยสารขาเข้าอยู่ไหน",
+      "transliteration": "thòng phûu dtao-yaa-sǎan khǎa-kâo yùu nǎi",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Is there a place to charge?",
+      "thai": "มีปลั๊กชาร์จแถวไหนบ้างคะ",
+      "transliteration": "mii plák châat thǎew nǎi bâang kha",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Do you accept credit cards here?",
+      "thai": "ที่นี่รับบัตรเครดิตไหมคะ",
+      "transliteration": "thîi-nîi ráp bat-kredít mái kha",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Can I get bottled water?",
+      "thai": "ขอน้ำดื่มแบบขวดหน่อยได้ไหมคะ",
+      "transliteration": "khɔ̌n náam dèem bàep khùat nɔ̀i dâi mái kha",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I schedule play like it matters.",
+      "thai": "ฉันจัดเวลางานอดิเรกเหมือนมันสำคัญจริงๆ",
+      "transliteration": "chan jat wela ngan a-doek emuuan man samkhan jing jing",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I keep snacks ready, for focus.",
+      "thai": "ฉันเตรียมของว่างไว้ก่อน จะได้มีแรงทำ",
+      "transliteration": "chan triam khong wang wai kon ja dai mi raeng tham",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "A short walk resets everything.",
+      "thai": "เดินเล่นสั้นๆ แล้วทุกอย่างก็ดีขึ้น",
+      "transliteration": "dern len san san laeo thuk yang kot di khuen",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I do it with music on.",
+      "thai": "ฉันเปิดเพลงเบาๆ แล้วค่อยเริ่มทำ",
+      "transliteration": "chan bpoet phleng bao bao laeo khoi roerm tham",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I learn one tiny skill today.",
+      "thai": "วันนี้ฉันฝึกทีละนิดพอ",
+      "transliteration": "wan ni chan fuk thi la ni pit por",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I make it practical, not perfect.",
+      "thai": "ฉันทำให้ใช้ได้ก่อน แล้วค่อยปรับทีหลัง",
+      "transliteration": "chan tham hai chai dai kon laeo khoi prap thi lang",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "My hobby is my happy routine.",
+      "thai": "งานอดิเรกของฉันคือกิจวัตรที่ทำให้ยิ้มได้",
+      "transliteration": "ngan a-doek khong chan khue kit wat thi tham hai yim dai",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Tell me the story behind it, please.",
+      "thai": "ขอฟังเรื่องเล่าที่มาของประเพณีนี้ได้ไหม",
+      "transliteration": "khor fang reuang lao thi ma khong prapheni ni dai mai",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I’ll follow the order, step by step.",
+      "thai": "ผมจะทำตามลำดับอย่างใจเย็นนะ",
+      "transliteration": "phom cha tham tam lamdap yang chai yen na",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "What does this offering symbolize here?",
+      "thai": "ของไหว้นี้สื่อความหมายอะไรครับ",
+      "transliteration": "khong wai ni suea khwaam mai a-rai khrub",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I’ll keep my hands respectful.",
+      "thai": "ผมจะยกมืออย่างสุภาพ และรักษาระยะ",
+      "transliteration": "phom cha yok muea yang su-phap lae rak-sa raya",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I’ll wait my turn without rushing.",
+      "thai": "ผมจะรอคิวแบบใจเย็น ไม่แซงนะ",
+      "transliteration": "phom cha ro khiu baep chai yen mai saeng na",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Your tradition feels so meaningful.",
+      "thai": "ประเพณีนี้ความหมายลึกซึ้งมากเลยครับ",
+      "transliteration": "prapheni ni khwaam mai luk sueng mak loei khrub",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Is there a right time to participate?",
+      "thai": "มีช่วงเวลาเหมาะๆ ไหมที่จะเริ่มเข้าร่วม",
+      "transliteration": "mi chuang wela ma-a phai mai thi cha roem khao ruam",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Happiness finds me in tiny moments.",
+      "thai": "ความสุขมาหาฉันในช่วงเวลานิดๆ หน่อยๆ",
+      "transliteration": "kwaam-suk maa ha chăn nai chûang-wee-lâa nít nɔ́i nɔ́i",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I let laughter soften my day.",
+      "thai": "ฉันยอมให้เสียงหัวเราะทำให้วันนุ่มลง",
+      "transliteration": "chăn yom hâi siang hǔa-rao tham hâi wan núm long",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I choose gratitude before I check.",
+      "thai": "ฉันเลือกความกตัญญูก่อนจะไปดูอะไรต่อ",
+      "transliteration": "chăn lûueak kwaam-gat-tan-yuu kòrn jà bpai du à-rai tɔ̀ɔ",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "My body rests, my mind follows.",
+      "thai": "ร่างกายได้พัก ใจก็จะตามมา",
+      "transliteration": "râang-gkaai dâai phák jai gâaw jà dtaam maa",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I slow my breathing and smile.",
+      "thai": "ฉันหายใจช้าลงแล้วก็ยิ้ม",
+      "transliteration": "chăn hǎai-jai cháa-lông láew gâaw yím",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Today I trust myself more.",
+      "thai": "วันนี้ฉันเชื่อใจตัวเองมากขึ้น",
+      "transliteration": "wan-níi chăn chʉa-jai dtuua-eng mâak khûen",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I celebrate progress, even small ones.",
+      "thai": "ฉันฉลองความก้าวหน้า แม้จะเล็กน้อย",
+      "transliteration": "chăn chɔ́ng kwaam-gâao-nâa mâe jà lék-nɔ́i",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Let’s warm up, then move smart.",
+      "thai": "ไปวอร์มก่อน แล้วค่อยขยับแบบฉลาดๆ",
+      "transliteration": "pai warm kòn lɛ́w khɔ̂i khyàp baep chá-làt khâ kh",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I choose form over speed today.",
+      "thai": "วันนี้ฉันเลือกฟอร์มก่อนความเร็ว",
+      "transliteration": "wan-níi chăn lưueak fɔ̂ɔm kòrn khwaam reo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Hydrate now, then train better.",
+      "thai": "ดื่มน้ำก่อน แล้วค่อยฝึกได้ดีขึ้น",
+      "transliteration": "dʉ̀m náam kòn lɛ́w khɔ̂i fʉ̀k dâai dee khʉ̂n",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Squeeze your core, keep it steady.",
+      "thai": "เกร็งหน้าท้องไว้ให้มั่นคง",
+      "transliteration": "greeng nâa-thông wâi hâi man-khong",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "One more rep, with control.",
+      "thai": "อีกสักหนึ่งครั้ง แบบคุมจังหวะ",
+      "transliteration": "ìik sàk nʉ̀ng-khráng bàep khum jà-wá",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Cool down slowly, let the heart settle.",
+      "thai": "คูลดาวน์ช้าๆ ให้หัวใจค่อยๆ สบายลง",
+      "transliteration": "khūun dâawn cháa cháa hâi hŭa-jai khɔ̀i khɔ̀i sà-baai long",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I rest between sets, no guilt.",
+      "thai": "ฉันพักระหว่างชุดได้เลย ไม่ต้องรู้สึกผิด",
+      "transliteration": "chăn phák rá-wàang chót dâai loei mâi dtông rúu-sʉ̀uk phìt",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I can slow down, still move forward.",
+      "thai": "ฉันชะลอได้ แต่ยังเดินหน้าได้",
+      "transliteration": "chǎn CHAL-O DÂI TÊE YANG DERN NÂA DAI",
+      "category": "Patience",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "This delay is part of the plan.",
+      "thai": "ความล่าช้านี้เป็นส่วนหนึ่งของแผน",
+      "transliteration": "kwaam LÂA-CHâa NÍI bpen S̀ÙAN Nʉ̀ung KHǑ̌NG PHÆN",
+      "category": "Patience",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I wait, without feeding the worry.",
+      "thai": "ฉันรอ โดยไม่ป้อนความกังวล",
+      "transliteration": "chǎn RÓ DǑI Mâi PHÓN KHWAAM GANG-WON",
+      "category": "Patience",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "My job is to keep steady.",
+      "thai": "หน้าที่ฉันคือการยืนให้มั่นคง",
+      "transliteration": "NÂA-thîi CHǎn KHʉʉ KHĂAN Yʉʉn Hâi Mâ-n khong",
+      "category": "Patience",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I pause before I react, always.",
+      "thai": "ฉันหยุดก่อนตอบโต้ทุกครั้ง",
+      "transliteration": "chǎn YÙT KÂÙN TÔOP-DTÓE THUK KHRâaNG",
+      "category": "Patience",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Slow is okay, I’m learning trust.",
+      "thai": "ช้าได้ ฉันกำลังฝึกความไว้ใจ",
+      "transliteration": "CHâa DÂI CHǎn GAM-LANG Fɯ̀k KHWAAM WÂI-JAI",
+      "category": "Patience",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I let the moment cool before speaking.",
+      "thai": "ฉันปล่อยให้ใจเย็นก่อนพูด",
+      "transliteration": "chǎn PLÒI Hâi CHAI-YEN GÂÒN PHûut",
+      "category": "Patience",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Give me a clear start time.",
+      "thai": "ขอเวลาเริ่มชัดๆ ได้ไหม",
+      "transliteration": "KŎR WELAA เริ่ม CHUD CHUD DAI MAI",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "What’s the backup if it rains?",
+      "thai": "ถ้าฝนตก เรามีแผนสำรองไหม",
+      "transliteration": "TÓR FON DOK, RA-MI PHAEN SAM-RONG MAI",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Let’s set priorities for the day.",
+      "thai": "ช่วยจัดลำดับความสำคัญของวันนี้หน่อย",
+      "transliteration": "CHUAI JAT LAM-DAP KWAM-SAM-KHAN KŎNG WANS-NI NOI",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I need a quick decision, please.",
+      "thai": "ขอตัดสินใจเร็วๆ นะ",
+      "transliteration": "KŎR TAT SIN-JAI REW REW NA",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I’ll handle booking, you handle timing.",
+      "thai": "เดี๋ยวฉันจองให้ นายจัดเวลาเอง",
+      "transliteration": "DÌAO CHĂN JŎNG HÂI, NA JAT WELAA EENG",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Can we plan around my work schedule?",
+      "thai": "ช่วยวางแผนให้เข้ากับตารางงานฉันหน่อยได้ไหม",
+      "transliteration": "CHUAI WANG PHAEN HÂI KÂO KAP TARAA NGAN CHĂN NOI DAI MAI",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "First, what do we both want?",
+      "thai": "ก่อนอื่น เราสองคนอยากได้อะไร",
+      "transliteration": "GÀA N RUUE, RA SOHNG KHON YÀAK DAI A-RAI",
+      "category": "Making Plans",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "You make hard days lighter.",
+      "thai": "เธอทำให้วันยากๆ เบาลง",
+      "transliteration": "THoe THam hai WAN YAK-YA Bao LONG",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Thanks for being my safe place.",
+      "thai": "ขอบคุณที่เป็นที่ปลอดภัยของฉัน",
+      "transliteration": "KHOOP-khun THi Bpen thii Bplaat-phai KONG chǎn",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Your messages always reach me.",
+      "thai": "ข้อความของเธอมาถึงใจฉันเสมอ",
+      "transliteration": "KHO-Khwaam KONG THoe Maa-thueng jai chǎn SAM-mo",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "We’ve got each other, always.",
+      "thai": "เรามีใจกันและกันเสมอนะ",
+      "transliteration": "rao Mii jai GAN lae GAN sĕm-o ná",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I trust you with my silence.",
+      "thai": "ฉันไว้ใจเธอกับความเงียบของฉัน",
+      "transliteration": "chǎn wai-jai THoe gàp KHwaam ngiap KONG chǎn",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Let’s celebrate small wins together.",
+      "thai": "มาเอ็นจอยความสำเร็จเล็กๆ ไปด้วยกันนะ",
+      "transliteration": "maa en-joy KHwaam sa-mret Lèk-Lèk bpai duai GAN ná",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "I’m grateful for your steady presence.",
+      "thai": "ฉันซาบซึ้งในความอยู่ข้างๆ ที่มั่นคงของเธอ",
+      "transliteration": "chǎn saap-sʉʉng nai KHwaam yùa khang-khang THi man-khong KONG THoe",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T01:31:37.691691"
     }
   ],
-  "last_updated": "2026-11-17T02:20:25.507200"
+  "last_updated": "2026-11-18T01:31:37.691691"
 }

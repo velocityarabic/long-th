@@ -20351,7 +20351,399 @@
       "transliteration": "chǎn saap-sʉʉng nai KHwaam yùa khang-khang THi man-khong KONG THoe",
       "category": "Friendship",
       "generated_at": "2026-11-18T01:31:37.691691"
+    },
+    {
+      "english": "Can I get oat milk, please?",
+      "thai": "ขอนมโอ๊ตหน่อยได้ไหมคะ",
+      "transliteration": "KHO NOM ÓT NÓI DÂI MAI KA",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Is this coffee smooth or bold?",
+      "thai": "กาแฟแก้วนี้รสละมุนหรือเข้มคะ",
+      "transliteration": "GAA FAÉW KAÊE ROTS LÁ MUN RÚE KHEM KA",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "What pairs well with this pastry?",
+      "thai": "ขนมชิ้นนี้ทานกับอะไรถึงจะเข้ากันคะ",
+      "transliteration": "KHÓNOM CHIN NÍ THÁN GAB ARAI TÚe JÙE KAO GAN KA",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I’ll take a medium, not too sweet.",
+      "thai": "เอาขนาดกลาง ไม่หวานมากนะคะ",
+      "transliteration": "AÓ KHNÁAT KHLAANG MÂI WAÁN MÂAK NÁ KA",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Do you have something buttery and warm?",
+      "thai": "มีครัวซองต์เนยๆ อุ่นๆ ไหมคะ",
+      "transliteration": "Mii Khrua SǍNG NÉE NÉI ÀUN ÀUN MǍI KA",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Is the cinnamon real, not flavoring?",
+      "thai": "อบซินนามอนจริงไหมคะ ไม่ใช่กลิ่นสำเร็จรูป",
+      "transliteration": "OB SII NAA MÔN JING MǍI KA MÂI CHAI GLIN SAM RẾT RÚP",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "May I see the cake of the day?",
+      "thai": "ขอดูเค้กของวันนี้หน่อยได้ไหมคะ",
+      "transliteration": "KHÓ DUU KHÉEK KHONG WUN NEÈ NÓI DÂI MǍI KA",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I’ll speak with care, not control.",
+      "thai": "ฉันจะพูดด้วยความเกรงใจ ไม่ใช่บังคับ",
+      "transliteration": "chăn jà phûut dûay khwaam kreng-jai mâi châi bâng-káp",
+      "category": "Kindness",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "No pressure, take your time.",
+      "thai": "ไม่ต้องรีบนะ ค่อยๆ ไปก็ได้",
+      "transliteration": "mâi dtông rîip ná, khâwyâi bpai gâi dâi",
+      "category": "Kindness",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Let me help without taking over.",
+      "thai": "ให้ฉันช่วยได้ไหม โดยไม่เอาไปทำแทนทั้งหมด",
+      "transliteration": "hây chăn chûay dâi mái, dói mâi ao bpai tham thaeen thâng-mót",
+      "category": "Kindness",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I won’t assume the worst.",
+      "thai": "ฉันจะไม่คิดไปเองว่าแย่ที่สุด",
+      "transliteration": "chăn jà mâi khít bpai-eng wâa yâi thîi-sùt",
+      "category": "Kindness",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "You matter to me, just as you are.",
+      "thai": "คุณสำคัญกับฉัน แม้คุณจะเป็นแบบนี้",
+      "transliteration": "khun sǎm-khan gàp chăn, mây khun jà bpen bàep níi",
+      "category": "Kindness",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I’m listening, really listening.",
+      "thai": "ฉันฟังอยู่นะ ฟังจริงๆ",
+      "transliteration": "chăn fang yùu ná, fang jing jing",
+      "category": "Kindness",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Thanks for choosing calm with me.",
+      "thai": "ขอบคุณนะที่เราคุยกันด้วยความใจเย็น",
+      "transliteration": "khòp-khun ná tîi rao khuuy gan dûay khwaam jai yen",
+      "category": "Kindness",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I open the curtains, let in light.",
+      "thai": "ฉันเปิดม่านก่อนนะ ให้แสงเข้ามา",
+      "transliteration": "chan BpoERT man gòn na Hâi sǎeng kâo maa",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I drink water before any coffee.",
+      "thai": "ฉันดื่มน้ำเปล่าก่อน กาแฟค่อยตามมา",
+      "transliteration": "chan dèum náam plâo gòn, gaa-fae khɔ̂i dtaam maa",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I stretch for a few minutes.",
+      "thai": "ฉันยืดเหยียดสักพักหนึ่งก่อน",
+      "transliteration": "chan yéud yîiat sàk phák nʉ̀ng gòn",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I get dressed, then I check the weather.",
+      "thai": "ฉันแต่งตัวเสร็จแล้วค่อยดูพยากรณ์อากาศ",
+      "transliteration": "chan tèng tua sèt lɛ́o khɔ́i duu pha-yaa-kon aa-kâat",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I tie my shoes, quickly and calmly.",
+      "thai": "ฉันผูกเชือกรองเท้าไปอย่างใจเย็น",
+      "transliteration": "chan phuuk chʉ̌ak rɔɔng-thâo bpai yàang jai yen",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I grab my keys, wallet, and bag.",
+      "thai": "ฉันคว้ากุญแจ กระเป๋าสตางค์ แล้วก็หยิบกระเป๋า",
+      "transliteration": "chan khwaa gun-jɛ̂e, grà-bpèe saa-taang, lɛ́o gk yìp grà-bpao",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I walk to work, slow at first.",
+      "thai": "ฉันเดินไปทำงาน ช่วงแรกๆ ช้าๆก่อนนะ",
+      "transliteration": "chan dœoen bpai tham-ngaan, chûang râek-rák cháa cháa gòn na",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Hi, do you have a minute?",
+      "thai": "สวัสดี คุณว่างสักครู่ไหม",
+      "transliteration": "Sa-wat-dee Khun-wang sak krue mai",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I'm calling about tomorrow's plan.",
+      "thai": "โทรมาเรื่องแผนของพรุ่งนี้ค่ะ",
+      "transliteration": "ThoRr-mate rueang phaen khong phruung-nee kha",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Can you speak a little more slowly?",
+      "thai": "ช่วยพูดช้าลงหน่อยได้ไหม",
+      "transliteration": "Chuai phuut chaa-long noi dai mai",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Sorry, I can't talk right now.",
+      "thai": "ขอโทษนะ ตอนนี้คุยไม่ได้จริงๆ",
+      "transliteration": "KhoR-thoht na Thon-nee kui mai dai jing-jing",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Please send me a screenshot.",
+      "thai": "ช่วยส่งรูปหน้าจอให้หน่อยได้ไหม",
+      "transliteration": "Chuai song ruup naa-jaaaw hai noi dai mai",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "What should I reply to this?",
+      "thai": "ฉันควรตอบกลับว่าอะไรดี",
+      "transliteration": "Chan khuan-taw glap waa a-rai dee",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I just arrived, I'm nearby.",
+      "thai": "ฉันเพิ่งถึงแล้ว ตอนนี้อยู่ใกล้ๆ",
+      "transliteration": "Chan phoeng thueng laeo Ton-nee yu glai-glai",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I can do this, one breath at a time",
+      "thai": "ฉันทำได้นะ, ทีละลมหายใจ",
+      "transliteration": "CHAn ทำได้นะ, TI-la lom HA-yai-jai",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "No drama, just steady effort now",
+      "thai": "ไม่ต้องดราม่า, เอาความพยายามที่มั่นคงก่อน",
+      "transliteration": "Mâi DTAW DRA-mâa, AO khwaam PA-yá-yaan THîi man-khong gàaw-n",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I’m learning fast by showing up",
+      "thai": "ฉันเรียนรู้เร็วขึ้นด้วยการไปให้ถึง",
+      "transliteration": "CHAn riian rúu reo-khun dûay gaan bpai hâi thûeng",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Start messy, let results teach you",
+      "thai": "เริ่มแบบเลอะๆได้, ให้ผลลัพธ์สอนเรา",
+      "transliteration": "RErm bàep lə́a-lə́a dâi, hâi PHŘn-láp THɔ̂ɔn rao",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "When I doubt, I act anyway",
+      "thai": "เวลาสงสัยก็ลงมือเลย",
+      "transliteration": "WEE-la SOng-sai gɔ́ lóng-mʉʉ leǐi",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "My effort is the real proof",
+      "thai": "ความพยายามของฉันคือหลักฐานจริง",
+      "transliteration": "khwaam PA-yá-yaan khɔ̌ng CHAn kʉʉ lʉ́k-thaan jring",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Turn fear into fuel, then go",
+      "thai": "เปลี่ยนความกลัวเป็นพลังแล้วไป",
+      "transliteration": "bplìian khwaam gluua bpen PHLạng lɛ́ɛw bpai",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I feel dizzy, can I see a doctor?",
+      "thai": "ฉันเวียนหัว ขอพบหมอได้ไหม",
+      "transliteration": "Chan wi-an hua, kǒr phop mo dâi mǎi",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "My stomach hurts, what should I do?",
+      "thai": "ท้องฉันปวดมาก ควรทำยังไงดี",
+      "transliteration": "Thǒng chan pùat mâak, khuan tam yang-ngai dii",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I need medicine for a fever, please.",
+      "thai": "ขอยาแก้ไข้หน่อยได้ไหม",
+      "transliteration": "Khǎaw ya-gâe khâi nɔ́i dâi mǎi",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Do you have this medicine in stock?",
+      "thai": "ยาตัวนี้มีของพร้อมขายไหม",
+      "transliteration": "Ya tua-níi mii khǎawng phrôm khǎai mǎi",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I have an allergy, what’s safe?",
+      "thai": "ฉันแพ้ยา อะไรที่ปลอดภัย",
+      "transliteration": "Chan phâe ya, à-rai thîi bplòot-pai",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Is there a cheaper alternative?",
+      "thai": "มีตัวที่ถูกกว่านี้ไหม",
+      "transliteration": "Mii tua thîi thùuk kwaa-níi mǎi",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "How much is the total, please?",
+      "thai": "รวมทั้งหมดเท่าไหร่คะ",
+      "transliteration": "Rûam thâang-mòt thao-rai kha",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I’d like to pay by card, please",
+      "thai": "ขอชำระด้วยบัตรได้ไหมคะ",
+      "transliteration": "kho CHAM-ra daê AI mai kha",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Can I pay bills here today",
+      "thai": "วันนี้ชำระค่าน้ำค่าไฟที่นี่ได้ไหมคะ",
+      "transliteration": "wan-Níi CHAM-ra kHaa nám kHaa fài thîi-nîi daê AI kha",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Where can I top up my phone",
+      "thai": "เติมเงินโทรศัพท์ได้ที่ไหนค่ะ",
+      "transliteration": "tiem NGＮِن thor-sa-phat dâai thîi-nǎi kha",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Is there a fee for cash withdrawal",
+      "thai": "ถอนเงินสดมีค่าธรรมเนียมไหมคะ",
+      "transliteration": "thòn NGΝİN sòt mii kHaa tham-NǍEEam mai kha",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "How do I check my balance",
+      "thai": "เช็คยอดเงินในบัญชีได้อย่างไรคะ",
+      "transliteration": "CHÉECK yôot NGΝİN nai ban-chêe dâai yàang rai kha",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Can you help me reset my pin",
+      "thai": "ช่วยรีเซ็ตพินของฉันหน่อยได้ไหมคะ",
+      "transliteration": "chûay ri-SÊT phin khǒng CHAN nòi dâai mai kha",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "My transfer is pending, what now",
+      "thai": "โอนเงินรายการนี้ค้างอยู่ ต้องทำยังไงคะ",
+      "transliteration": "oN-Ngêən RA-gaan níi kHâang yùu dtHâwng thâm yang-ngai kha",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I need a meeting room booking",
+      "thai": "ฉันขอจองห้องประชุมหน่อย",
+      "transliteration": "Chan Kŏu Jŏng Hông Pra-chum Nóiay",
+      "category": "Work & Office",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Who manages office supplies here",
+      "thai": "ใครดูแลอุปกรณ์สำนักงานที่นี่",
+      "transliteration": "Krai Duu-Lae Ù-bpa-gáan Saa-Nam Naa Thì-nì",
+      "category": "Work & Office",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "The copier is jammed again",
+      "thai": "เครื่องถ่ายเอกสารติดอีกแล้ว",
+      "transliteration": "Khrʉ̂ang Thâai Ek-sàan Tìt Èek Lêo",
+      "category": "Work & Office",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Where do I pick up my badge",
+      "thai": "ฉันต้องไปรับบัตรพนักงานตรงไหน",
+      "transliteration": "Chan T̂̂awng Pai Ráp Bàt Phá-nák-ngaan Trŏng Năai",
+      "category": "Work & Office",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I’ll upload it to the shared drive",
+      "thai": "เดี๋ยวฉันอัปโหลดเข้าไดรฟ์ที่ใช้ร่วมกัน",
+      "transliteration": "Dìao Chan Àp-bloat Kâo Drai Ph์ Tîi Chái Ruam-găn",
+      "category": "Work & Office",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Can we move this call to later",
+      "thai": "ขอย้ายเวลาโทรออกเป็นหลังได้ไหม",
+      "transliteration": "Kŏu-Yâai Wê-laa Thoo-ró òk Bpen Lăng Dâi Mái",
+      "category": "Work & Office",
+      "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "Do you have a visitor form",
+      "thai": "มีแบบฟอร์มสำหรับผู้มาติดต่อไหม",
+      "transliteration": "Mii Baaep Fǒrm Săm-ràp Phûu Maa-Dtìt Tàaw Dâi Mái",
+      "category": "Work & Office",
+      "generated_at": "2026-11-19T01:00:17.296630"
     }
   ],
-  "last_updated": "2026-11-18T01:31:37.691691"
+  "last_updated": "2026-11-19T01:00:17.296630"
 }

@@ -20743,7 +20743,399 @@
       "transliteration": "Mii Baaep Fǒrm Săm-ràp Phûu Maa-Dtìt Tàaw Dâi Mái",
       "category": "Work & Office",
       "generated_at": "2026-11-19T01:00:17.296630"
+    },
+    {
+      "english": "I’ll ask the awkward question.",
+      "thai": "ฉันจะกล้าถามคำถามที่ยากเอง",
+      "transliteration": "chan ja KLAa tham KAM-thaam thi yaak เอง",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I can handle the awkward silence.",
+      "thai": "ฉันสู้ความเงียบที่อึดอัดได้",
+      "transliteration": "chan SUU khwaam ngiap thi EU-duat dai",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Tonight, I choose the honest path.",
+      "thai": "คืนนี้ฉันเลือกทางที่ซื่อสัตย์",
+      "transliteration": "khun-nee chAN lEUAK thaang thi seuua-sat",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’ll stand my ground, calmly.",
+      "thai": "ฉันจะยืนหยัดอย่างสงบ",
+      "transliteration": "chan ja yuen-yat yaang SONG-bop",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’m scared, but I won’t quit.",
+      "thai": "ฉันกลัวอยู่ แต่ไม่ยอมแพ้",
+      "transliteration": "chan KLUUA yù, dtàe mai yaawm phae",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’ll tell them my real plan.",
+      "thai": "ฉันจะบอกแผนจริงของฉัน",
+      "transliteration": "chan ja bɔ̀ɔk phaaen jing khɔ̌ng chan",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’ll call back, even if I’m nervous.",
+      "thai": "ฉันจะโทรกลับถึงแม้จะประหม่า",
+      "transliteration": "chan ja THOO-roh กลับ teung-mâae ja bprà-mâa",
+      "category": "Courage",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Start with ten minutes of focus.",
+      "thai": "เริ่มด้วยโฟกัสสิบนาที",
+      "transliteration": "eriam duay FOCUS sip NA-ti",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Name your fear, then move anyway.",
+      "thai": "บอกตัวเองให้รู้ว่ากลัวอะไร แล้วไปต่อ",
+      "transliteration": "bok tueng eng hai roo waa klua a-rai, laew pai dto",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Turn mistakes into quick lessons.",
+      "thai": "เปลี่ยนความผิดพลาดให้เป็นบทเรียนไวๆ",
+      "transliteration": "pliian khwaam phit-phlaat hai bpen BOT-reean wai wai",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Pick one thing to finish today.",
+      "thai": "เลือกหนึ่งอย่างที่ทำให้เสร็จวันนี้",
+      "transliteration": "lueak neung yaang thi tham hai set WAN-ni",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Drink water, feel your body wake up.",
+      "thai": "ดื่มน้ำสักแก้วแล้วให้ร่างกายตื่นขึ้น",
+      "transliteration": "dumm nam sak KAEW laew hai raang-gaai teun kheun",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Practice gratitude, but make it specific.",
+      "thai": "ฝึกขอบคุณให้ชัดๆ ว่าคุณได้อะไร",
+      "transliteration": "fuek khob-khun hai chad chad waa khun dai a-rai",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Before sleep, write one clear win.",
+      "thai": "ก่อนนอน เขียนชัยชนะเล็กๆ หนึ่งอย่าง",
+      "transliteration": "koon-non khian chai-chan naek naek neung yaang",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Is it humid out right now?",
+      "thai": "ตอนนี้อากาศชื้นไหมคะ",
+      "transliteration": "TAX NAWk aw-GAAD CHUEN MAA KHA",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "The sun is blazing today, huh?",
+      "thai": "วันนี้แดดแร๊งมากเลยนะ",
+      "transliteration": "WAN NEE DED R AENG MAAK LOEI NA",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I think the storm is coming.",
+      "thai": "ฉันว่า พายุกำลังจะมาแล้วนะ",
+      "transliteration": "CHAN WAA PAY-OO GA-LANG JAA MAA LÆW NA",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Did you feel that cool breeze?",
+      "thai": "คุณรู้สึกถึงลมเย็นเมื่อกี้ไหม",
+      "transliteration": "KHUN RÚU SEK TUENG LOM YE็น MUEA-KEE MAAI",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "It’s getting dark awfully early.",
+      "thai": "วันนี้มืดเร็วมากเลย",
+      "transliteration": "WAN NEE MÙED R EW MAAk LOEI",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Clouds look thick over there.",
+      "thai": "เมฆตรงนั้นดูหนาทึบจังเลย",
+      "transliteration": "MÊEK TRONG NAN DU NAA THÍAP JUNG LOEI",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "My skin feels dry today.",
+      "thai": "ผิวฉันแห้งมากวันนี้",
+      "transliteration": "PHIW CHAN H AENG MAAk WAN NEE",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Thank you for everything you did",
+      "thai": "ขอบคุณสำหรับทุกอย่างที่คุณทำให้",
+      "transliteration": "Kŏb khun sàh-ràp thúk-yang thîi khun tham hâi",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’m grateful you showed up",
+      "thai": "ขอบคุณที่คุณมาช่วยกันนะ",
+      "transliteration": "Kŏb khun thîi khun maa chûai gan ná",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I remember how you supported me",
+      "thai": "ฉันจำได้เสมอว่าคุณคอยสนับสนุนฉัน",
+      "transliteration": "Chăn jam dâi sà-mər wâa khun khói sà-nàp-nun chăn",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Your help meant a lot to me",
+      "thai": "ความช่วยเหลือของคุณมีความหมายมากสำหรับฉัน",
+      "transliteration": "Khwaam chûai-lʉa khǒng khun mii khwaam-mǎai mâak sàh-ràp chăn",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I owe you one, truly",
+      "thai": "ฉันเป็นหนี้บุญคุณคุณจริงๆ",
+      "transliteration": "Chăn bpen nîi bun-khun khun jing-jing",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Thank you for not giving up",
+      "thai": "ขอบคุณที่คุณไม่ยอมแพ้",
+      "transliteration": "Kŏb khun thîi khun mâi yŏm phae",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’m thankful for your steady support",
+      "thai": "ฉันซาบซึ้งในกำลังใจที่คุณให้",
+      "transliteration": "Chăn sàap-sʉ̂ng nai gam-lang jai thîi khun hâi",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’d like the set menu, please.",
+      "thai": "ขอชุดเมนูด้วยค่ะ",
+      "transliteration": "kho CHUD MENU DUAY kâ",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "thai": "มีเมนังเจไหมคะ",
+      "transliteration": "MII ME NANG JE MAI kâ",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Can I change the sauce?",
+      "thai": "ขอเปลี่ยนน้ำซอสได้ไหมคะ",
+      "transliteration": "kho plia-n NAAM SÔT DAI MAI kâ",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Please make it less sweet.",
+      "thai": "รสหวานน้อยลงได้ไหมคะ",
+      "transliteration": "RÔT WAHAN NÓI long DAI MAI kâ",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Could I get extra rice?",
+      "thai": "ข้าวเพิ่มได้ไหมคะ",
+      "transliteration": "kâo PHEM DAI MAI kâ",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "No chili oil, please, thank you.",
+      "thai": "ไม่ใส่น้ำมันพริกขอหน่อยค่ะ",
+      "transliteration": "mâi SAI NAAM MAN PHRIC KHO NOI yâ kâ",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Can I order takeaway to go?",
+      "thai": "ขอเป็นอาหารห่อกลับได้ไหมคะ",
+      "transliteration": "kho Bpen aa-HAA hǭ กลับ DAI MAI kâ",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Can I get a quieter room, please?",
+      "thai": "ขอห้องที่เงียบกว่านี้ได้ไหมคะ",
+      "transliteration": "Kŏr hông thîi ngîap kwaa-níi dâi mái khâ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Do you have non smoking rooms?",
+      "thai": "ที่นี่มีห้องปลอดบุหรี่ไหมคะ",
+      "transliteration": "Thîi-nîi mii hông bplòot bú-rîi mái khâ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Is breakfast included in my rate?",
+      "thai": "อาหารเช้ารวมอยู่ในราคาหรือเปล่าคะ",
+      "transliteration": "Aa-hăan chʉ̌a rûam yùu nai raa-khaa reu bplào khâ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Could I borrow an iron, please?",
+      "thai": "ขอยืมเตารีดหน่อยได้ไหมคะ",
+      "transliteration": "Kŏr yʉuem dtee-rít nòi dâi mái khâ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Do you have a luggage storage room?",
+      "thai": "รับฝากกระเป๋าไว้ที่ไหนคะ",
+      "transliteration": "Ráp fàak grà-bbpâo wái thîi nǎi khâ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "What time does check out start?",
+      "thai": "เช็คเอาท์เริ่มตั้งแต่กี่โมงคะ",
+      "transliteration": "Chék-àôt rêrm dтайng dtâe gìi mohng khâ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Is there a desk in the room?",
+      "thai": "ในห้องมีโต๊ะทำงานไหมคะ",
+      "transliteration": "Nai hông mii dtó rá tham-ngaan mái khâ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I’m grinning like my day is easy.",
+      "thai": "ฉันยิ้มกว้างเหมือนวันนี้เบาสบาย",
+      "transliteration": "chan yím kwâang mʉʉan wan-níi biao-sa-baai",
+      "category": "Joy",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "There’s pure joy in this moment.",
+      "thai": "ช่วงเวลานี้เต็มไปด้วยความปีติจริงๆ",
+      "transliteration": "chûang wé-laa níi dtem bpai dûai khwaam bpee-ti jing jing",
+      "category": "Joy",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I feel happy from the inside out.",
+      "thai": "ฉันรู้สึกปีติอยู่ข้างในเลย",
+      "transliteration": "chan rúu-sʉʉk bpee-ti yùu khang-nai loei",
+      "category": "Joy",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "My laughter keeps spilling out naturally.",
+      "thai": "เสียงหัวเราะฉันไหลออกมาเองเลย",
+      "transliteration": "sǐiang hǔua-ráo chan lai àok maa eng loei",
+      "category": "Joy",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I just got that warm, joyful feeling.",
+      "thai": "ฉันเพิ่งได้ความรู้สึกอบอุ่นและปีติ",
+      "transliteration": "chan phôong dâai khwaam rúu-sʉʉk òp-ùn láe bpee-ti",
+      "category": "Joy",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Even my shoulders feel lighter today.",
+      "thai": "วันนี้ไหล่ของฉันเบาขึ้นเยอะเลย",
+      "transliteration": "wan-níi lài khǒng chan bĕa-kʉ̂n yə́a-mak loei",
+      "category": "Joy",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Good vibes are flowing through me.",
+      "thai": "ความรู้สึกดีๆ ไหลผ่านตัวฉัน",
+      "transliteration": "khwaam rúu-sʉʉk dii dii lai phaan tua chan",
+      "category": "Joy",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I end the day with gratitude",
+      "thai": "ฉันปิดวันด้วยความกตัญญู",
+      "transliteration": "chan pìd wan dûai khwam KAT-THA-nyuu",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I let go, even if it’s messy",
+      "thai": "ฉันปล่อยวาง แม้มันยังไม่เรียบร้อย",
+      "transliteration": "chan plɔ̀i waaŋ, mɛ́̂ man yang mâi rîaap rɔ́i",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "My limits are not my identity",
+      "thai": "ขีดจำกัดไม่ใช่ตัวตนของฉัน",
+      "transliteration": "khìit jamàt mâi châi tua-ton khɔ̌ŋ chan",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I talk to myself like a friend",
+      "thai": "ฉันคุยกับตัวเองเหมือนเพื่อน",
+      "transliteration": "chan khui gàp tua-èeng mʉ̌an phʉ̂an",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "When I spiral, I return to now",
+      "thai": "พอใจเริ่มวน ฉันกลับมาอยู่กับปัจจุบัน",
+      "transliteration": "phɔ̌ɔ chai rʉ̂əm wôn, chan glàp maa yùu gàp pàt-chù-ban",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "I water hope, not just problems",
+      "thai": "ฉันรดน้ำความหวัง ไม่ใช่แค่ปัญหา",
+      "transliteration": "chan ròot nám khwaam wǎng, mâi châi khâe pan-hǎa",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T01:04:10.017517"
+    },
+    {
+      "english": "Small wins count, I write them down",
+      "thai": "ความสำเร็จเล็กน้อยมีค่า ฉันจดไว้",
+      "transliteration": "khwaam-sam-rèt lèk-nɔ́i mii khâa, chan jot wái",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T01:04:10.017517"
     }
   ],
-  "last_updated": "2026-11-19T01:00:17.296630"
+  "last_updated": "2026-11-20T01:04:10.017517"
 }

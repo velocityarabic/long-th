@@ -21527,7 +21527,399 @@
       "transliteration": "mii pro-mo-chan samráp an níi mǎi khráp",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-21T00:38:18.596211"
+    },
+    {
+      "english": "Can I borrow your toolbox, please?",
+      "thai": "ขอยืมกล่องเครื่องมือหน่อยได้ไหมคะ",
+      "transliteration": "Kǒr yʉʉm klʭ̀ng khrʉ̂ang mʉʉ rǒi dâi mǎi khrá",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I’m cooking, can everyone help?",
+      "thai": "ฉันกำลังทำอาหาร, ช่วยกันหน่อยได้ไหม",
+      "transliteration": "Chǎn kamlǎng tam aa-hǎan, chûay gan nʉ̀i dâi mǎi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "We made space for Grandma today.",
+      "thai": "วันนี้เราจัดที่ให้คุณย่าแล้ว",
+      "transliteration": "Wan-níi rao jàt thîi hâi khun-yâa láew",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Dad, the dishes are ready now.",
+      "thai": "พ่อจานพร้อมแล้วนะ, กินเลย",
+      "transliteration": "Phɔ̂aw jâan prʭ̂om láew ná, kin loei",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Mom, do we have rice at home?",
+      "thai": "แม่, เรามีข้าวอยู่ที่บ้านไหม",
+      "transliteration": "Maae, rao mii khâao yùu thîi bâan mǎi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Please, wipe your feet at the door.",
+      "thai": "ช่วยเช็ดเท้าที่หน้าประตูก่อนนะ",
+      "transliteration": "Chûay chét thâo thîi nâa prà-tuu gòon ná",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "The kids are napping, be quiet.",
+      "thai": "เด็กๆ กำลังงีบ, ช่วยเงียบหน่อย",
+      "transliteration": "Dèk-dèk kamlǎng-ngîip, chûay ngîiap nʉ̀i",
+      "category": "Family & Home",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I notice my breath, and soften.",
+      "thai": "ฉันสังเกตลมหายใจ แล้วผ่อนลง",
+      "transliteration": "chǎn sǎngเกt lòм hǎai-jai, lɛ́w phàawn long",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "It’s okay to pause before responding.",
+      "thai": "ไม่เป็นไรนะ แค่หยุดคิดก่อนตอบ",
+      "transliteration": "mâi bpen rai ná, khâe yùt khít gòn tò̂p",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I unclench my jaw, right now.",
+      "thai": "ฉันคลายกรามลงตอนนี้เลย",
+      "transliteration": "chǎn khlaai graam long dɔɔn níi lœ̌i",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "My thoughts can pass like clouds.",
+      "thai": "ความคิดก็ผ่านไปเหมือนเมฆ",
+      "transliteration": "khwaam khít gɔ̂ thuən pai mʉ̌an mèek",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I choose kindness toward myself today.",
+      "thai": "วันนี้ฉันเลือกความใจดีให้ตัวเอง",
+      "transliteration": "wan-níi chǎn lʉ̌uak khwaam jai-dii hâi dtua-èeng",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I let the urge move through me.",
+      "thai": "ฉันปล่อยแรงกระตุ้นให้ไหลผ่านตัว",
+      "transliteration": "chǎn bplòi raeng grà-tûun hâi lai phàan dtua",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I can be steady, even upset.",
+      "thai": "ฉันยังนิ่งได้ ถึงจะไม่สบายใจ",
+      "transliteration": "chǎn yang nîng dâi tʉ̌ng ja mây sà-baai-jai",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Hope is my quiet anchor",
+      "thai": "ความหวังคือสมอเงียบๆ ของฉัน",
+      "transliteration": "kwam wǎng keu sa-mor gìap-gìap KHONG CHǎn",
+      "category": "Hope",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I keep a door open for hope",
+      "thai": "ฉันยังเปิดประตูให้ความหวังเสมอ",
+      "transliteration": "CHǎn yang bpèrt-prà-dtûu hâi kwam wǎng sà-mərm",
+      "category": "Hope",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I tell myself, stay hopeful",
+      "thai": "ฉันบอกตัวเองว่าอย่าทิ้งความหวัง",
+      "transliteration": "CHǎn bòok dtua-èng wâa yàa tìng kwam wǎng",
+      "category": "Hope",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Hope makes today feel possible",
+      "thai": "ความหวังทำให้วันนี้ยังพอมีหวังได้",
+      "transliteration": "kwam wǎng tham hâi wan-níi yang pô mii wǎng dâi",
+      "category": "Hope",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I breathe in hope, then act",
+      "thai": "ฉันหายใจรับความหวัง แล้วค่อยลงมือ",
+      "transliteration": "CHǎn hǎai-jai ráp kwam wǎng, l̂aeo khâawiy long-mue",
+      "category": "Hope",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Hope is stronger than my fear",
+      "thai": "ความหวังแข็งแรงกว่าความกลัวของฉัน",
+      "transliteration": "kwam wǎng khǎeng-rǎeng gwàa khwaam glûua KHONG CHǎn",
+      "category": "Hope",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I choose hope, even briefly",
+      "thai": "ฉันเลือกความหวังได้ แม้แค่เดี๋ยวนี้",
+      "transliteration": "CHǎn lûueak kwam wǎng dâi mâae khâe dîeaow-níi",
+      "category": "Hope",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Show up, even when motivation fades.",
+      "thai": "ไปให้ถึงแม้แรงบันดาลใจจะหายไปแล้ว",
+      "transliteration": "pai hai thueng m aae raeng ban dan jai ja hai pai laeo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Do the next right thing, now.",
+      "thai": "ทำอย่างต่อไปที่ถูกต้อง ตอนนี้เลย",
+      "transliteration": "tam yaang tor pai thîi thùuk tông dton ni lœi",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Break the habit of quitting, slowly.",
+      "thai": "เลิกนิสัยยอมแพ้แบบค่อยเป็นค่อยไป",
+      "transliteration": "lœik ni sai yom phaa baep khoi pen khoi pai",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "When it’s messy, keep going gently.",
+      "thai": "พอเริ่มรกแล้วก็ไปต่อแบบใจเย็น",
+      "transliteration": "phɔɔ roerm rog laeo kе bpai tor baep jai yen",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Train your brain to return after setbacks.",
+      "thai": "ฝึกใจให้กลับมาต่อได้อีกครั้งหลังพลาด",
+      "transliteration": "fɯ̀k jai hai glàp maa dtâaw dâai èek khrang lang phlàat",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Turn effort into momentum, not perfection.",
+      "thai": "เปลี่ยนความพยายามให้กลายเป็นแรงส่ง ไม่ใช่ความเพอร์เฟ็กต์",
+      "transliteration": "plìan khwaam pha yaa yaam hai glai pen raeng soeng mâi chai khwaam pəə peert",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Aim for steady practice, not dramatic bursts.",
+      "thai": "ทำแบบสม่ำเสมอ ดีกว่าทำครั้งใหญ่ๆแล้วหายไป",
+      "transliteration": "tham baep som tam sǣmɔ̀, dii gwàa tham khrang yài-yai laeo hai pai",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I choose courage, not perfection.",
+      "thai": "ฉันเลือกความกล้าหาญ ไม่เอาความเพอร์เฟกต์",
+      "transliteration": "chan lueak khwaam glaa hai ไม่เอา khwaam PER fekt",
+      "category": "Strength",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Strength is showing up today.",
+      "thai": "พลังคือการที่ฉันปรากฏตัววันนี้",
+      "transliteration": "phalang khue kan thi chan pra kaht tua WAN nii",
+      "category": "Strength",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I can start again, right now.",
+      "thai": "ฉันเริ่มใหม่ได้ทันที ตอนนี้เลย",
+      "transliteration": "chan reim mai dai than thi thi nii loei",
+      "category": "Strength",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I can say what I need.",
+      "thai": "ฉันพูดสิ่งที่ฉันต้องการได้อย่างชัดเจน",
+      "transliteration": "chan phuut sing thi chan dtawng gaan dai yaang chad-jen",
+      "category": "Strength",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "My pace is still powerful.",
+      "thai": "ความเร็วของฉันก็มีพลังของมันเอง",
+      "transliteration": "khwaam reo khong chan g mii phalang khong man eng",
+      "category": "Strength",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I keep my promises to myself.",
+      "thai": "ฉันทำตามสัญญากับตัวเองอย่างสม่ำเสมอ",
+      "transliteration": "chan tham dtam sanyaa gab tua eng yaang som yam seu",
+      "category": "Strength",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I can handle hard conversations.",
+      "thai": "ฉันคุยเรื่องยากๆ ได้แบบมีสติ",
+      "transliteration": "chan kui rueang yaak yaa dai baep mi satii",
+      "category": "Strength",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I’m ready to forgive, slowly.",
+      "thai": "ฉันพร้อมจะให้อภัยนะ ค่อยๆ",
+      "transliteration": "chan PHROM ja hai ai na, COI COI",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Let’s clear the air today.",
+      "thai": "วันนี้เรามาชำระอากาศกันเถอะ",
+      "transliteration": "WAN NEE rao MA cham ra-a-agaaS kan THER",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I hear you, and I release.",
+      "thai": "ฉันได้ยินนะ แล้วฉันปล่อยวาง",
+      "transliteration": "chan dâi yin na, lƐ́w chan pLÔY waang",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I can be kind again.",
+      "thai": "ฉันกลับมาใจดีได้แล้ว",
+      "transliteration": "chan glàp ma jai DEE dâi lƐ́w",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Thanks for owning your mistake.",
+      "thai": "ขอบคุณที่ยอมรับความผิดของตัวเอง",
+      "transliteration": "khob khun thîi yom ráp khwaam phit khong tua- eng",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I won’t punish you with silence.",
+      "thai": "ฉันจะไม่ลงโทษด้วยความเงียบ",
+      "transliteration": "chan ja mâi long THÔT dûai khwaam NGEEEP",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "We can talk, no blame.",
+      "thai": "เราคุยกันได้ โดยไม่โทษกัน",
+      "transliteration": "rao kuuy gan dâi, DOi mâi THÔT gan",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "How do I get there from here?",
+      "thai": "จะไปที่นั่นจากตรงนี้ยังไงครับ",
+      "transliteration": "Ja bpai thîin nán jaak dtrong níi yang ngai khráp",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Is it far or close?",
+      "thai": "ใกล้ไหม หรือไกลครับ",
+      "transliteration": "Glâi mái, rǔue glai khráp",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Which landmark is nearby?",
+      "thai": "มีที่สำคัญใกล้ๆ ไหมครับ",
+      "transliteration": "Mii thîi sám-khan glâi glâi mái khráp",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Can I go by bus or BTS?",
+      "thai": "ไปได้ด้วยรถเมล์หรือบีทีเอสไหมครับ",
+      "transliteration": "Bpai dâi dûai rot mée rǔue Bì-tyi-es mái khráp",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Where’s the nearest entrance?",
+      "thai": "ทางเข้าที่ใกล้สุดอยู่ตรงไหนครับ",
+      "transliteration": "Thang kâo thîi glâi sùt yùu dtrong nǎi khráp",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Do I cross the bridge here?",
+      "thai": "ต้องข้ามสะพานตรงนี้ไหมครับ",
+      "transliteration": "T̂ông kâam sà-páan dtrong níi mái khráp",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "What street is this exactly?",
+      "thai": "นี่คือถนนอะไรครับ",
+      "transliteration": "Nîi khue thà-nǒn à-rai khráp",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I feel hopeful about tomorrow.",
+      "thai": "ฉันรู้สึกหวังกับพรุ่งนี้นะ",
+      "transliteration": "chan RU sʉ́k WANG gàp phrûng níi na",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Right now, I feel a little tense.",
+      "thai": "ตอนนี้ฉันรู้สึกตึงเครียดนิดหน่อย",
+      "transliteration": "tɔɔn níi chan RU sʉ́k tueng-khriiat nít-nɔ́i",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "Part of me feels guilty.",
+      "thai": "ส่วนหนึ่งในใจฉันรู้สึกผิด",
+      "transliteration": "sùan nʉ̀ng nai jai chan RU sʉ́k PHID",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I’m touched by your kindness.",
+      "thai": "ฉันซาบซึ้งในความใจดีของคุณ",
+      "transliteration": "chan SÀB-sʉ̌ʉng nai khwaam jai dii khɔ̌ng khun",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I’m frustrated, but I won’t quit.",
+      "thai": "ฉันหงุดหงิดนะ แต่ไม่ยอมแพ้",
+      "transliteration": "chan NGùt-ngìt na tè mây yɔ̌m phɛ́ɛ",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I feel embarrassed about that.",
+      "thai": "ฉันอายเรื่องนั้นมากเลย",
+      "transliteration": "chan Aai rʉ̂ang nán mâak loiei",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T23:44:52.307383"
+    },
+    {
+      "english": "I miss you, honestly.",
+      "thai": "ฉันคิดถึงคุณนะ จริงๆ",
+      "transliteration": "chan khit tʉ̌ung khun na jring-jing",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T23:44:52.307383"
     }
   ],
-  "last_updated": "2026-11-21T00:38:18.596211"
+  "last_updated": "2026-11-21T23:44:52.307383"
 }

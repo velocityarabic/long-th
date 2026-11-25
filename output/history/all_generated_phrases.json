@@ -22703,7 +22703,399 @@
       "transliteration": "chan phuek rong phleng thai laeo rong tam",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-24T04:13:34.528450"
+    },
+    {
+      "english": "I can wait and still be okay.",
+      "thai": "ฉันรอได้ และยังโอเคนะ",
+      "transliteration": "chán rɔ̂ dâi láe yang ɔ́-kɛ ná",
+      "category": "Patience",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I’ll do it one step at a time.",
+      "thai": "ฉันทำทีละก้าวได้",
+      "transliteration": "chán tam thii lá gâo dâi",
+      "category": "Patience",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Calm now beats rushing later.",
+      "thai": "ใจเย็นตอนนี้ ดีกว่าค่อยรีบทีหลัง",
+      "transliteration": "jai yen tɔɔn níi, dii kwàa khɔ̂ɔi riip thii lang",
+      "category": "Patience",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I pause, then choose my next move.",
+      "thai": "ฉันหยุดก่อน แล้วค่อยเลือกก้าวต่อไป",
+      "transliteration": "chán yùt gɔ̀ɔn láew khɔ̂ɔi lưak kâo tòɔ pai",
+      "category": "Patience",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I wait, but I keep my dignity.",
+      "thai": "ฉันรอได้ โดยไม่เสียศักดิ์ศรี",
+      "transliteration": "chán rɔ̂ dâi, dôai mâi siia sàk-sǐi",
+      "category": "Patience",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I let outcomes arrive in their time.",
+      "thai": "ฉันปล่อยให้ผลลัพธ์มาถึงตามเวลา",
+      "transliteration": "chán plɔ̀ɔi hâi phǒn lúp-mâi maa tueng dtaam wə-laa",
+      "category": "Patience",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Storm thoughts come, then pass.",
+      "thai": "ความคิดเหมือนพายุมาแล้วก็ผ่านไป",
+      "transliteration": "khwaam khít mʉ̌an pá-wǔu maa láew kɔ́ɔ phàan pai",
+      "category": "Patience",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "What time suits you best?",
+      "thai": "เธอสบายใจเวลาประมาณไหน",
+      "transliteration": "thoe sabai jai wela praman nai",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Let’s agree on a simple route.",
+      "thai": "เรามีทางเลือกเส้นทางง่ายๆ ก่อนนะ",
+      "transliteration": "rao mi thang lueak sen thang ngai ngai kon na",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I want a plan with flexibility.",
+      "thai": "ฉันอยากได้แผนที่ยืดหยุ่นได้",
+      "transliteration": "chan yak dai phaen thi yuet yun dai",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Can we set a realistic budget?",
+      "thai": "ช่วยตั้งงบที่เป็นไปได้หน่อยได้ไหม",
+      "transliteration": "chuai tang ngop thi pen pai dai noi dai mai",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Let’s pick one thing and go.",
+      "thai": "เลือกอย่างเดียวพอ แล้วค่อยไปกัน",
+      "transliteration": "lueak yang diao pho laew khoi pai kan",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Before we decide, I need clarity.",
+      "thai": "ก่อนตัดสินใจ ขอความชัดเจนหน่อยได้ไหม",
+      "transliteration": "kon tat sin jai kho kwaam chat jeen noi dai mai",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I can do mornings, not afternoons.",
+      "thai": "ฉันทำตอนเช้าก็ได้ แต่ช่วงบ่ายไม่ไหว",
+      "transliteration": "chan tham ton chao ko dai tae chuang bai mai wai",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I have a bad sore throat.",
+      "thai": "ฉันเจ็บคอมากเลยค่ะ",
+      "transliteration": "Chan JEP KOR MAAK LOI KA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Can a doctor check my blood pressure?",
+      "thai": "หมอช่วยวัดความดันให้หน่อยได้ไหมคะ",
+      "transliteration": "MôR Chûay WAT KHWAAM DAN ĤAI NÓI DÂI MAI KA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I want a prescription for pain relief.",
+      "thai": "ขอยาแก้ปวดแบบมีใบสั่งยาหน่อยค่ะ",
+      "transliteration": "Khǎaw YAA GAE PÛAD BAAEP MII BAI S̀ANG YA NÓI KA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Is there a pharmacist I can speak to?",
+      "thai": "มีเภสัชกรคุยได้ไหมคะ",
+      "transliteration": "Mii PHAE S̀AT KHON KHUI DÂI MAI KA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "My child needs medicine for coughing.",
+      "thai": "ลูกไอมาก ขอยาหยุดไอให้หน่อยค่ะ",
+      "transliteration": "Lûuk AI MAAAK Khǎaw YAA YÙT AI ĤAI NÓI KA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Can you explain how to use it?",
+      "thai": "ช่วยอธิบายวิธีใช้หน่อยได้ไหมคะ",
+      "transliteration": "Chûay AT-THAIB WIT HII CHÁI NÓI DÂI MAI KA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "How long does it take to work?",
+      "thai": "ยานี้เริ่มออกฤทธิ์ใช้เวลาเท่าไหร่คะ",
+      "transliteration": "YAA NII RÊM ÒK RIT CHHÍ CHÁI WELAA THâo RÀI KA",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I’ll wait, your pace is enough.",
+      "thai": "ฉันจะรอ นะ จังหวะของคุณพอแล้ว",
+      "transliteration": "Chan ja ror na, CHA-wang khong khun phor laeo",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Let’s slow down and breathe.",
+      "thai": "เรามาช้าลงแล้วหายใจลึกๆด้วยกันเถอะ",
+      "transliteration": "Rao ma cháa long laeo hai-jai luek luek duai kan thoe",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I won’t interrupt, go on.",
+      "thai": "ฉันไม่ขัดจังหวะ นะ พูดต่อได้เลย",
+      "transliteration": "Chan mai khat CHA-wang na, phuut to fai loei",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "You’re safe with me, really.",
+      "thai": "คุณปลอดภัยกับฉันนะ จริงๆ",
+      "transliteration": "Khun bplaat-phai kap chan na, jing jing",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I forgive mistakes, let’s move forward.",
+      "thai": "ฉันให้อภัยความผิดพลาด แล้วไปต่อกันนะ",
+      "transliteration": "Chan hai ai khwaam phit-phlaat, laeo pai dtoe kan na",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Want a moment, I can wait.",
+      "thai": "อยากได้เวลาสักหน่อยไหม ฉันรอได้นะ",
+      "transliteration": "Yaa-g kây wa-la sak noy mai, chan ro dai na",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I’ll speak with respect and warmth.",
+      "thai": "ฉันจะพูดด้วยความเคารพและความอ่อนโยน",
+      "transliteration": "Chan ja phuut duai khwaam khao-rop lae khwaam on-yoon",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Could you renew my access, please?",
+      "thai": "ช่วยต่ออายุการเข้าถึงของฉันหน่อยได้ไหม",
+      "transliteration": "Chûay tòa-ayu gaan kâo-thûeng khǎawng chǎn nòi dâi mái",
+      "category": "Work & Office",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Where can I grab a visitor pass?",
+      "thai": "ฉันขอรับบัตรผู้เยี่ยมได้ที่ไหน",
+      "transliteration": "Chǎn khǎaw rạap bát phûuyîem dâi thîi nǎi",
+      "category": "Work & Office",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I need to submit this document today.",
+      "thai": "วันนี้ฉันต้องส่งเอกสารนี้นะ",
+      "transliteration": "Wan-níi chǎn tông sòng èek-sǎan níi ná",
+      "category": "Work & Office",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Is the conference room free right now?",
+      "thai": "ห้องประชุมว่างตอนนี้ไหม",
+      "transliteration": "Hâawng prà-chum wâang tawn-níi mái",
+      "category": "Work & Office",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Can I borrow a phone charger?",
+      "thai": "ขอยืมที่ชาร์จโทรศัพท์ได้ไหม",
+      "transliteration": "Khǎaw yụuem thîi châat tho-rá-sàp dâi mái",
+      "category": "Work & Office",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Who do I contact for IT help?",
+      "thai": "ฉันติดต่อฝ่ายไอทีเรื่องนี้ได้กับใคร",
+      "transliteration": "Chǎn dtì-tòr fài IT rûueang níi dâi gàp khrua",
+      "category": "Work & Office",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "The Wi Fi drops every few minutes.",
+      "thai": "สัญญาณไวไฟหลุดทุกๆ ไม่กี่นาทีเลย",
+      "transliteration": "Sǎnyaan wai-fai lùut thúk thooa mái-kîi naa-thii loei",
+      "category": "Work & Office",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I wash my face, quick and calm.",
+      "thai": "ฉันล้างหน้าเบาๆ ให้สดชื่น",
+      "transliteration": "chăn láang-nâa bao bao hâi sòt-chêūn",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I make my bed before anything else.",
+      "thai": "ฉันจัดเตียงให้เรียบร้อยก่อนอย่างอื่น",
+      "transliteration": "chăn jàt tiiang hâi rîiap rɔ́ɔi gòrn yàangʉ̀n",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I open the window for fresh air.",
+      "thai": "ฉันเปิดหน้าต่างรับลมสดชื่น",
+      "transliteration": "chăn mởʔ nâa-tâang ráp lom sòt-chêūn",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I take a short breath, then go.",
+      "thai": "ฉันหายใจลึกนิดนึง แล้วค่อยไป",
+      "transliteration": "chăn hǎai-jai lʉ́k nít nʉ́ng, lɛ́eo kɔ̀i pai",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I grab a light breakfast, no rush.",
+      "thai": "ฉันกินอาหารเช้าเบาๆ แบบไม่รีบร้อน",
+      "transliteration": "chăn gin aa-hǎan cháo băo băo bàep mâi-ríip-rɔ́ɔn",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I sit for two minutes, just thinking.",
+      "thai": "ฉันนั่งเงียบๆ สักสองนาที",
+      "transliteration": "chăn nâ̂ng ngîap ngîap sák sɔ̌ng naa-thii",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I leave my apartment slowly, quietly.",
+      "thai": "ฉันเดินออกจากห้องอย่างเงียบๆ",
+      "transliteration": "chăn dœ̄en òk jàak ĥɔ́ng yàang ngîap ngîap",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "What pastries are freshest right now?",
+      "thai": "ตอนนี้ขนมชิ้นไหนสดที่สุดคะ",
+      "transliteration": "Tawn níi kà-nǒm chín nǎi sòt thîi sûut-khâ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Can I try a mini sampler?",
+      "thai": "ขอลองชิมแบบชิ้นเล็กๆ ได้ไหมคะ",
+      "transliteration": "Khǎu lɔɔng chîm bàep chín lék-lék dâai mái khâ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Do you bake in-house today?",
+      "thai": "วันนี้ทำเบเกอรี่เองที่นี่ไหมคะ",
+      "transliteration": "Wan-níi tham be-ga-kèe rìi eng thîi nîi mái khâ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "What coffee roast do you recommend?",
+      "thai": "วันนี้แนะนำคั่วแบบไหนคะ",
+      "transliteration": "Wan-níi an-náam khûua bàep nǎi khâ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I want something chocolatey, not too heavy.",
+      "thai": "ขอแบบช็อกโกแลตพอประมาณ ไม่หนักเกินไปค่ะ",
+      "transliteration": "Khǎo bàep chók-ko-lèt phɔ̌ɔ pha-pha-maan mâi nàk gəən bpai khâ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Can you make it less bitter?",
+      "thai": "ช่วยปรับให้ขมให้น้อยลงได้ไหมคะ",
+      "transliteration": "Chûai pràp hâi khǒm hâi nɔ́i long dâai mái khâ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "What tastes best with oat milk?",
+      "thai": "ถ้าใช้นมโอ๊ต อันไหนเข้ากันที่สุดคะ",
+      "transliteration": "Thâa chái nom ôut an-nǎi khâo gan thîi sùut khâ",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Make today move, not just wait",
+      "thai": "ลงมือเลย วันนี้อย่ารอ",
+      "transliteration": "long mue lœi wan níi yàa ráo",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I turn nervous energy into focus",
+      "thai": "ฉันเปลี่ยนความกังวลเป็นโฟกัส",
+      "transliteration": "chăn plìian kwaam kangwǔn bpen FOCUS",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Small wins stack into real confidence",
+      "thai": "ความสำเร็จเล็กๆ สะสมให้ใจมั่นขึ้น",
+      "transliteration": "kwaam sǎmret lèk lèk sà-sǎm hâi jai man kheun",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "Ask, then act, then adjust",
+      "thai": "ถามก่อน ลงมือก่อน ค่อยปรับ",
+      "transliteration": "thǎam gòn long mue gòn kɔ́i pràp",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "One page, one call, one step",
+      "thai": "ทีละหน้า ทีละสาย ทีละก้าว",
+      "transliteration": "thii la naw thii laa-saai thii laa gâao",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I show up, even if tired",
+      "thai": "ฉันไปต่อ แม้จะเหนื่อย",
+      "transliteration": "chăn bpai tòh mâae jà cěen ìuy",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T02:57:38.086018"
+    },
+    {
+      "english": "I move first, confidence follows",
+      "thai": "ฉันลงมือก่อน ความมั่นใจค่อยมา",
+      "transliteration": "chăn long mue gòn kwaam man-jai kòi maa",
+      "category": "Motivation",
+      "generated_at": "2026-11-25T02:57:38.086018"
     }
   ],
-  "last_updated": "2026-11-24T04:13:34.528450"
+  "last_updated": "2026-11-25T02:57:38.086018"
 }
